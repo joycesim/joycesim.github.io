@@ -2,4 +2,6 @@
 layout: default
 title: About
 ---
-# About
+# {{page.title}}
+
+[Twitter](https://twitter.com/SimDynamics)
