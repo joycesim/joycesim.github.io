@@ -3,5 +3,5 @@ layout: default
 title: Publications
 ---
 
-### {{ page.title }}
+# Publications
 	
