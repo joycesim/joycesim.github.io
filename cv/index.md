@@ -25,7 +25,7 @@ Carbon transport at subduction zones using two-phase flow numerical models.
 **Graduate Student Researcher (UCSD) 2014 - 2018**.  
 Analyzed mantle convection model outputs to look at depths of mid-ocean ridges through Earth's evolution and developed two phase flow input codes, M3LT, for TerraFERMA software to study melt focusing at mid-ocean ridges.  
 **Graduate Student Researcher (UCSD) 2011 - 2014**.  
-Impact of vent asymmetry on explosive volcanic eruptions.   
+Impact of vent asymmetry on explosive volcanic eruptions with Darcy Ogden.   
 **Undergraduate Research Project (UCSD) 2010 - 2011**.  
 Microseismic signatures of hurricane Ioke and hurricane Katrina.   
 **Undergraduate Research Assistant (UCSD) 2010 - 2011**.  
@@ -74,14 +74,14 @@ Thurgood Marshall College and Scripps Institution of Oceanography.
 [1] **S.J. Sim**, D.R. Stegman, N. Coltice, (2016) Influence of Continental growth on mid-ocean ridge depth, *Geochem. Geophys. Geosyst.*, 17 (11), 4425-4437,  https://doi.org/10.1002/2016GC006629.
 
 ## INVITED PRESENTATIONS
-[13] Geodynamics and Tectonics Virtual Seminar, 2020.  
-[12] University of Maryland, Maryland, 2020.  
+[13] [Geodynamics and Tectonics Virtual Seminar, 2020.](https://www.youtube.com/watch?v=Sswf_4NkMvc)
+[12] [University of Maryland, Maryland, 2020.](https://www.youtube.com/watch?v=5I66LxrcUj8)
 [11] AGU Fall Meeting, San Francisco, CA, 2019.  
 [10] University of Delaware, Delaware, 2019.  
 [9] Yonsei University, Seoul, Korea, 2019.  
 [8] Lamont-Doherty Earth Observatory, Columbia University, NY, 2019.  
 [7] George Mason University, Virginia, 2019.  
-[6] Georgia Institute of Technology, Atlanta, GA, 2019. 
+[6] Georgia Institute of Technology, Atlanta, GA, 2019.  
 [5] Geological Society of Washington, Washington, DC, 2019.  
 [4] ETH Zurich, Switzerland, 2018.  
 [3] University of Mainz, Germany, 2018.  
@@ -95,6 +95,7 @@ Thurgood Marshall College and Scripps Institution of Oceanography.
 **Mechanical Engineering Graduate Women group (UCSD)** 2014 - 2016.  
 
 ## CONFERENCE PRESENTATIONS
+[14] **Fall AGU meeting**, San Francisco, 2019. "Carbon solubility in the subducting slab and mantle wedge".     
 [13] **Fall AGU meeting**, San Francisco, 2019. "(Invited) Melt focusing beneath mid-ocean ridges".     
 [12] **FEniCS workshop**, Carnegie Institution for Science, DC, 2019. "Melt transport beneath mid-ocean ridges".  
 [11] **Gordon Conference: Interior of the Earth**, MA, 2019. "Tectonic boundaries: a modeling perspective from past to present".  
