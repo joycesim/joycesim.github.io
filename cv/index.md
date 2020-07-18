@@ -34,7 +34,7 @@ Crust project, data compilation of crustal thicknesses from seismic reflection s
 ## FIELD EXPERIENCE
 **Stillwater Intrusive Complex and the Columbia River Flood Basalt 2015**.  
 Collecting rock samples for geochemical analysis.  
-**MIST Expedition 2014**.  
+**[MIST Expedition 2014](https://scripps.ucsd.edu/expeditions/mist/)**.  
 Multibeam bathymetry, CHIRP, and sediment coring, 23 days at sea on R/V Revelle.  
 
 ## TEACHING EXPERIENCE
