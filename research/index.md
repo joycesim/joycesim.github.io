@@ -3,7 +3,7 @@ layout: default
 title: Research
 ---
 # Research
-Two-phase flow at tectonic boundaries in an attempt to understand Earth dynamics through its evolution. 
+## Two-phase flow at tectonic boundaries in an attempt to understand Earth dynamics through its evolution. 
 
 ## Mid-ocean ridges
 ![](/image/P1F5_comp.png)  
