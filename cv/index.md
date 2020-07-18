@@ -74,8 +74,8 @@ Thurgood Marshall College and Scripps Institution of Oceanography.
 [1] **S.J. Sim**, D.R. Stegman, N. Coltice, (2016) Influence of Continental growth on mid-ocean ridge depth, *Geochem. Geophys. Geosyst.*, 17 (11), 4425-4437,  https://doi.org/10.1002/2016GC006629.
 
 ## INVITED PRESENTATIONS
-[13] [Geodynamics and Tectonics Virtual Seminar, 2020.](https://www.youtube.com/watch?v=Sswf_4NkMvc)
-[12] [University of Maryland, Maryland, 2020.](https://www.youtube.com/watch?v=5I66LxrcUj8)
+[13] [Geodynamics and Tectonics Virtual Seminar, 2020](https://www.youtube.com/watch?v=Sswf_4NkMvc).   
+[12] [University of Maryland, Maryland, 2020](https://www.youtube.com/watch?v=5I66LxrcUj8).  
 [11] AGU Fall Meeting, San Francisco, CA, 2019.  
 [10] University of Delaware, Delaware, 2019.  
 [9] Yonsei University, Seoul, Korea, 2019.  
