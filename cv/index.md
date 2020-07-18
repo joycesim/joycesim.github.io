@@ -95,12 +95,12 @@ Thurgood Marshall College and Scripps Institution of Oceanography.
 **Mechanical Engineering Graduate Women group (UCSD)** 2014 - 2016.  
 
 ## CONFERENCE PRESENTATIONS
-[14] **Fall AGU meeting**, San Francisco, 2019. "Carbon solubility in the subducting slab and mantle wedge".     
-[13] **Fall AGU meeting**, San Francisco, 2019. "(Invited) Melt focusing beneath mid-ocean ridges".     
+[14] **Fall AGU meeting**, San Francisco, 2019. "[Carbon solubility in the subducting slab and mantle wedge](https://www.youtube.com/watch?v=EU2N0_0KZz8)".     
+[13] **Fall AGU meeting**, San Francisco, 2019. "[(Invited) Melt focusing beneath mid-ocean ridges](https://www.youtube.com/watch?v=3lsfoYLv-20)".     
 [12] **FEniCS workshop**, Carnegie Institution for Science, DC, 2019. "Melt transport beneath mid-ocean ridges".  
 [11] **Gordon Conference: Interior of the Earth**, MA, 2019. "Tectonic boundaries: a modeling perspective from past to present".  
 [10] **Fluids Modeling RCN**, University of Minnesota, 2019. "(Invited) Tectonic boundaries: a modeling perspective".  
-[9] **Fall AGU meeting**, Washington, DC, 2018. "Melt focusing beneath mid-ocean ridges".  
+[9] **Fall AGU meeting**, Washington, DC, 2018. "[Melt focusing beneath mid-ocean ridges](https://www.youtube.com/watch?v=77Tfg5qZBbk)".  
 [8] **Gordon Conference: Deep Carbon**, RI, 2018. "Melt focusing at mid-ocean ridges using two phase numerical model".  
 [7] **Fall AGU meeting**, New Orleans, LA, 2017. "V51D-0403: A focus on melt focusing".  
 [6] **Fall AGU meeting**, San Francisco, CA, 2015. "P31D-2084: The efects of continental growth on global sea level".  
