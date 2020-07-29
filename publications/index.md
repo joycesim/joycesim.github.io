@@ -5,7 +5,7 @@ title: Publications
 # {{page.title}}
 
 ## In preparation
-[4] **S.J. Sim**, M. Spiegelman, D.R. Stegman, C. Wilson (major revisions) M3LT: A new open source model to explore the dynamics of Melt in the Mantle beneath Mid-ocean ridge, *Geochem. Geophys. Geosyst.*.  
+[4] **S.J. Sim**, M. Spiegelman, D.R. Stegman, C. Wilson (major revisions) M3LT: A new open source model to explore the dynamics of Melt in the Mantle beneath Mid-ocean ridge.  
 
 ## 2020
 [3] R. Parnell-Turner, **S.J. Sim**, J.A. Olive, (2020) Time-dependent crustal accretion on the Southeast Indian Ridge from Malaysia Airlines flight MH370 search data, *Geophysical Research Letters*,  https://doi.org/10.1029/2020GL087349.  
