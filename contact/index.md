@@ -4,4 +4,4 @@ title: Contact
 ---
 # {{page.title}}
 
-ssim33 at gatech dot edu
+jssim at eas dot gatech dot edu
