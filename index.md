@@ -2,7 +2,7 @@
 layout: default
 title: Shi Joyce Sim, Geodynamicist
 ---
-# Hi there, I'm Joyce! Welcome! 
+# Hi, I am Dr Shi Joyce Sim! Welcome! 
 [//]: # (你好， 我是沈詩！)
 ![](/image/Profile3.JPG "Kamchatka 2013.")
 
