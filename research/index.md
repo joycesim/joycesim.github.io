@@ -23,9 +23,9 @@ In the deep carbon cycle, the largest contributor of CO2 to the atmosphere are b
 [Carnegie video highlights for AGU 2019](https://www.youtube.com/watch?v=EU2N0_0KZz8&feature=emb_logo)
 
 ## Resources
-*[TerraFERMA]http://terraferma.github.io/)
-*[FEniCS Project](https://fenicsproject.org/)
-*[PETSc](https://www.mcs.anl.gov/petsc/)
-*[CIG](https://geodynamics.org/cig/)
-*[Ada Lovelace Workshop](https://www.egu.eu/gd/meetings/conference-series/ada-lovelace-workshops-on-modelling-mantle-and-lithosphere-dynamics/)
-*[EGU Geodynamics](https://www.egu.eu/gd/home/)
+* [TerraFERMA](http://terraferma.github.io/)
+* [FEniCS Project](https://fenicsproject.org/)
+* [PETSc](https://www.mcs.anl.gov/petsc/)
+* [CIG](https://geodynamics.org/cig/)
+* [Ada Lovelace Workshop](https://www.egu.eu/gd/meetings/conference-series/ada-lovelace-workshops-on-modelling-mantle-and-lithosphere-dynamics/)
+* [EGU Geodynamics](https://www.egu.eu/gd/home/)
