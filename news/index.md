@@ -4,6 +4,10 @@ title: News
 ---
 # {{page.title}}
 
+Upcoming Events: Invited presentations at AGU Virtual Fall Meeting 2020 
+
+November 2020: Invited talk at the incredible Earth and Planetary Science department at University of California, Davis! 
+
 October 2020: See you at the [CIG Community meeting](https://geodynamics.org/cig/events/calendar/2020-community-workshop/agenda/)! 
 
 September 2020: I gave an invited talk as part of the Guy F. Atkinson Distinguished Lecture Series (Virtual) at University of Utah and met incredible people doing awesome science! 
