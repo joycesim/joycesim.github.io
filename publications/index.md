@@ -4,6 +4,8 @@ title: Publications
 ---
 # {{page.title}}
 
+Please email me (jssim at eas dot gatech dot edu) for paper if you have trouble getting it. 
+
 ## In preparation
 [4] **S.J. Sim**, M. Spiegelman, D.R. Stegman, C. Wilson (major revisions) M3LT: A new open source model to explore the dynamics of Melt in the Mantle beneath Mid-ocean ridge.  
 
