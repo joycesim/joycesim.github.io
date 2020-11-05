@@ -21,3 +21,11 @@ Multibeam bathymetric data from Malaysia Airlines Flight 370 reveal off-axis cru
 ## Subduction zones
 In the deep carbon cycle, the largest contributor of CO2 to the atmosphere are both diffused and concentrated emissions from the subduction zone system. The changing amount of CO2 in the atmosphere affects long term global climate that may be a positive feedback mechanism with tectonic activities. The main potential source for carbon emitted in the arc system is carbonate that enters the subduction zone as seafloor sediments and altered ocean crust. The traditional view of the fate of this carbon after subduction is that most of it is carried into the deep mantle past the subduction zone, due to its high decarbonation temperature and predicted low solubility in H2O-rich fluids. However, recent experimental and thermodynamic modeling of carbon solubility in aqueous fluids at high pressure and temperature settings suggest that a substantial amount of carbon can be carried by aqueous fluids released from the oceanic lithosphere. In this work, we use the carbon solubility model from Kelemen & Manning 2015 (based on DEW, Sverjensky et al 2014) and apply it to a global suite of subduction zone convection models with the goal of understanding the the potential for carbon storage in the mantle wedge. The results presented give us an idea of where carbon species might be dissolved, deposited or stored as aqueous fluids released from the subducting slab move through the mantle wedge.
 [Carnegie video highlights for AGU 2019](https://www.youtube.com/watch?v=EU2N0_0KZz8&feature=emb_logo)
+
+## Resources
+*[TerraFERMA]http://terraferma.github.io/)
+*[FEniCS Project](https://fenicsproject.org/)
+*[PETSc](https://www.mcs.anl.gov/petsc/)
+*[CIG](https://geodynamics.org/cig/)
+*[Ada Lovelace Workshop](https://www.egu.eu/gd/meetings/conference-series/ada-lovelace-workshops-on-modelling-mantle-and-lithosphere-dynamics/)
+*[EGU Geodynamics](https://www.egu.eu/gd/home/)
