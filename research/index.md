@@ -31,3 +31,4 @@ In the deep carbon cycle, the largest contributor of CO2 to the atmosphere are b
 * [EGU Geodynamics](https://www.egu.eu/gd/home/)
 * 50 years of Plate Tectonics: [Parisian Collège de France 2018](https://www.college-de-france.fr/site/barbara-romanowicz/symposium-2018-06-26-11h00.htm), [Lamont 2016](https://www.ldeo.columbia.edu/news-events/events/plate-tectonics), [Geological Society](https://www.geolsoc.org.uk/wsmith17)
 * [National Parks and Plate Tectonics](https://www.nps.gov/subjects/geology/plate-tectonics.htm)
+* [Writing Effectively](https://www.youtube.com/watch?v=vtIzMaLkCaM)
