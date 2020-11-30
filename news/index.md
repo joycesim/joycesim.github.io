@@ -4,7 +4,7 @@ title: News
 ---
 # {{page.title}}
 
-Upcoming Events: Invited presentations at AGU Virtual Fall Meeting 2020 
+Upcoming Events: Invited presentations in ([DI007](https://agu.confex.com/agu/fm20/meetingapp.cgi/Session/103429) and [DI009](https://agu.confex.com/agu/fm20/meetingapp.cgi/Session/109630)) at AGU Virtual Fall Meeting 2020 both on Wednesday 9th December! Join in the discussions! 
 
 November 2020: Invited talk at the incredible Earth and Planetary Science department at University of California, Davis! 
 
