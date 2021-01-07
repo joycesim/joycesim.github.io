@@ -21,16 +21,17 @@ Committee: Jan P. Kleissl and Eugene R. Pawlak.
 **B.S., Earth Science (honors) 2011**.   
 University of California, San Diego.  
 
-## RESEARCH EXPERIENCE
-**Postdoctoral Research Fellow (DTM) 2018 - 2020**.  
+## RESEARCH POSITIONS
+**Research Associate, Georgia Institute of Technology, 2020 - present**
+**Postdoctoral Research Fellow, Carnegie Institution for Science, 2018 - 2020**.  
 Carbon transport at subduction zones using two-phase flow numerical models.  
-**Graduate Student Researcher (UCSD) 2014 - 2018**.  
+**Graduate Student Researcher, University of California, San Diego, 2014 - 2018**.  
 Analyzed mantle convection model outputs to look at depths of mid-ocean ridges through Earth's evolution and developed two phase flow input codes, M3LT, for TerraFERMA software to study melt focusing at mid-ocean ridges.  
-**Graduate Student Researcher (UCSD) 2011 - 2014**.  
+**Graduate Student Researcher, University of California, San Diego, 2011 - 2014**.  
 Impact of vent asymmetry on explosive volcanic eruptions with Darcy Ogden.   
-**Undergraduate Research Project (UCSD) 2010 - 2011**.  
+**Undergraduate Research Project, University of California, San Diego, 2010 - 2011**.  
 Microseismic signatures of hurricane Ioke and hurricane Katrina.   
-**Undergraduate Research Assistant (UCSD) 2010 - 2011**.  
+**Undergraduate Research Assistant, University of California, San Diego, 2010 - 2011**.  
 Crust project, data compilation of crustal thicknesses from seismic reflection surveys.   
 
 ## FIELD EXPERIENCE
@@ -76,6 +77,7 @@ Thurgood Marshall College and Scripps Institution of Oceanography.
 [1] **S.J. Sim**, D.R. Stegman, N. Coltice, (2016) Influence of Continental growth on mid-ocean ridge depth, *Geochem. Geophys. Geosyst.*, 17 (11), 4425-4437,  https://doi.org/10.1002/2016GC006629.
 
 ## INVITED PRESENTATIONS
+[16] Sections DI007 and DI009, AGU Virtual Fall meeting, 2020
 [15] University of California, Davis, 2020. 
 [14] Guy F. Atkinson Distinguished Lecture Series (Virtual), University of Utah, 2020.    
 [13] [Geodynamics and Tectonics Virtual Seminar, 2020](https://www.youtube.com/watch?v=Sswf_4NkMvc).   
@@ -99,6 +101,7 @@ Thurgood Marshall College and Scripps Institution of Oceanography.
 **Mechanical Engineering Graduate Women group (UCSD)** 2014 - 2016.  
 
 ## CONFERENCE PRESENTATIONS
+[15] **Fall AGU meeting**, Virtual, 2020. 
 [14] **Fall AGU meeting**, San Francisco, 2019. "[Carbon solubility in the subducting slab and mantle wedge](https://www.youtube.com/watch?v=EU2N0_0KZz8)".     
 [13] **Fall AGU meeting**, San Francisco, 2019. "[(Invited) Melt focusing beneath mid-ocean ridges](https://www.youtube.com/watch?v=3lsfoYLv-20)".     
 [12] **FEniCS workshop**, Carnegie Institution for Science, DC, 2019. "Melt transport beneath mid-ocean ridges".  
