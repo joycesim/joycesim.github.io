@@ -11,7 +11,7 @@ I am looking for qualified, highly motivated students (undergraduate, MS, and Ph
 
 The Earth and Atmospheric Science department at Georgia Tech was selected as [one of the inaugural AGU Bridge partner institutions](https://fromtheprow.agu.org/agu-announces-2020-bridge-program-partners/). The application is open to underrepresented minorities (African American, Hispanic, American Indian, Pacific Islander, Alaskan Native and Native Hawaiian) and opens mid December 2020 for Fall 2021 admission. Application is free and is shared with all partner institutions. For more information on the AGU bridge program, please go to the [website](https://www.agu.org/bridge-program#3).
 
-Undergraduates are invited to apply for a ten-week research program hosted by Georgia Tech School of Earth and Atmospheric Sciences (EAS) during Summer 2021. Learn more here![here](https://easreu.eas.gatech.edu/)
+Undergraduates are invited to apply for a ten-week research program hosted by Georgia Tech School of Earth and Atmospheric Sciences (EAS) during Summer 2021. Learn more [here](https://easreu.eas.gatech.edu/)!
 
 * [Geophysics@GeorgiaTech](http://geophysics.eas.gatech.edu/) 
 * [Earth and Atmospheric Science Major for Undergraduates](https://eas.gatech.edu/undergrad/prospective-undergraduate-students)
