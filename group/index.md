@@ -19,6 +19,8 @@ Undergraduates are invited to apply for a ten-week research program hosted by Ge
 * [Prospective Graduate Students](https://eas.gatech.edu/graduate/prospective-graduate-students) (Early January dateline)
 * [Georgia Tech FOCUS program for underrepresented minority](https://focus.gatech.edu/) (November dateline)
 
+I highly encourage everyone in Geoscience to take a look at the online program for Unlearning Racism in Geoscience or [URGE](www.urgeoscience.org). It is an 8-session "community-wide journal reading and policy-design curriculum to help Geoscientists unlearn racism and improve accessibility, justice, equity, diversity, and inclusion (AJEDI) in our discipline." There are many resources/papers everyone can learn from. 
+
 ### Dr Shi Joyce Sim
 <img src="/image/Profile3.JPG" alt="Kamchatka 2013" title="Kamchatka 2013." width="500" />
 
