@@ -19,8 +19,6 @@ Undergraduates are invited to apply for a ten-week research program hosted by Ge
 * [Prospective Graduate Students](https://eas.gatech.edu/graduate/prospective-graduate-students) (Early January dateline)
 * [Georgia Tech FOCUS program for underrepresented minority](https://focus.gatech.edu/) (November dateline)
 
-I highly encourage everyone in Geoscience to take a look at the online program for Unlearning Racism in Geoscience or [URGE](www.urgeoscience.org). It is an 8-session "community-wide journal reading and policy-design curriculum to help Geoscientists unlearn racism and improve accessibility, justice, equity, diversity, and inclusion (AJEDI) in our discipline." There are many resources/papers everyone can learn from. 
-
 ### Dr Shi Joyce Sim
 <img src="/image/Profile3.JPG" alt="Kamchatka 2013" title="Kamchatka 2013." width="500" />
 
@@ -32,5 +30,7 @@ I am a geodynamicist working on two-phase flow magma dynamics at tectonic bounda
 * [Twitter](https://twitter.com/SimDynamics)
 * [Postdoc Highlight at Carnegie](https://dtm.carnegiescience.edu/news/postdoc-spotlight-modelling-mid-ocean-ridges-joyce-sim)
 * [Carnegie Profile](https://dtm.carnegiescience.edu/people/postdoctoral/shi-joyce-sim)
+
+I highly encourage everyone in Geoscience to take a look at the online program for Unlearning Racism in Geoscience or [URGE](www.urgeoscience.org). It is an 8-session "community-wide journal reading and policy-design curriculum to help Geoscientists unlearn racism and improve accessibility, justice, equity, diversity, and inclusion (AJEDI) in our discipline." Even if you did not get to take part, all the paper readings, video interviews and deliverables by all the Pods across the country/globe are posted on the website. I am happy to chat/discuss if you want as I am continually learning too :) 
 
 ### [Your name and picture here! Join us!]
