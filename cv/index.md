@@ -77,6 +77,8 @@ Thurgood Marshall College and Scripps Institution of Oceanography.
 [1] **S.J. Sim**, D.R. Stegman, N. Coltice, (2016) Influence of Continental growth on mid-ocean ridge depth, *Geochem. Geophys. Geosyst.*, 17 (11), 4425-4437,  https://doi.org/10.1002/2016GC006629.
 
 ## INVITED PRESENTATIONS
+[18] EGU General Assembly, 2021.
+[17] Stout Lecture series (Virtual), University of Nebraska-Lincoln, 2021.
 [16] Sections DI007 and DI009, AGU Virtual Fall meeting, 2020.    
 [15] University of California, Davis, 2020.    
 [14] Guy F. Atkinson Distinguished Lecture Series (Virtual), University of Utah, 2020.    
@@ -101,6 +103,7 @@ Thurgood Marshall College and Scripps Institution of Oceanography.
 **Mechanical Engineering Graduate Women group (UCSD)** 2014 - 2016.  
 
 ## CONFERENCE PRESENTATIONS
+[16] **EGU meeting**, 2021. "(Invited) Melt transport beneath mid-ocean ridges"
 [15] **Fall AGU meeting**, Virtual, 2020. 
 [14] **Fall AGU meeting**, San Francisco, 2019. "[Carbon solubility in the subducting slab and mantle wedge](https://www.youtube.com/watch?v=EU2N0_0KZz8)".     
 [13] **Fall AGU meeting**, San Francisco, 2019. "[(Invited) Melt focusing beneath mid-ocean ridges](https://www.youtube.com/watch?v=3lsfoYLv-20)".     
