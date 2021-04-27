@@ -6,6 +6,8 @@ title: News
 
 ### 2021
 
+April: Invited talk at EGU general assembly!
+
 February: I gave an invited virtual talk as part of the Stout Lecture series in the Department of Earth and Atmospheric Science at the University of Nebraska-Lincoln! 
 
 January: Happy new year and goodbye 2020! Here is to a new decade of Science! 
