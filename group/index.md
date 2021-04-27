@@ -33,11 +33,8 @@ I am a geodynamicist working on two-phase flow magma dynamics at tectonic bounda
 
 I highly encourage everyone in Geoscience to take a look at the online program for Unlearning Racism in Geoscience or [URGE](www.urgeoscience.org). It is an 8-session "community-wide journal reading and policy-design curriculum to help Geoscientists unlearn racism and improve accessibility, justice, equity, diversity, and inclusion (AJEDI) in our discipline." Even if you did not get to take part, all the paper readings, video interviews and deliverables by all the Pods across the country/globe are posted on the website. I am happy to chat/discuss if you want as I am continually learning too :) 
 
-### [Your name and picture here! Join us!]
-
-## Undergraduates
 ### Keneni Godana (Summer REU Programme 2021)
 
-### Susan Harrison (Georgia Tech EAS Undergraduate)
+### Susan Harrison (Georgia Tech EAS Undergraduate Summer research 2021)
 
-
+### [Your name and picture here! Join us!]
