@@ -37,3 +37,5 @@ In the deep carbon cycle, the largest contributor of CO2 to the atmosphere are b
 * [XSEDE Video tutorials](https://education.sdsc.edu/training/interactive/)
 * [XSEDE Singularity tutorial for Comet](https://www.sdsc.edu/education_and_training/tutorials1/singularity.html)
 * [Intro to HPC](https://geovizlab.geology.buffalo.edu/hpcintro.html)
+* [Georgia Tech Vertical Integrated Project HPC](https://www.vip.gatech.edu/teams/team-phoenix-cluster-competition-team-hpc)
+* [Scientific Colormaps](https://www.mathworks.com/matlabcentral/fileexchange/68546-crameri-perceptually-uniform-scientific-colormaps)
