@@ -18,7 +18,7 @@ Undergraduates are invited to apply for a ten-week research program hosted by Ge
 * [Undergraduate Research Experience](https://easreu.eas.gatech.edu/)
 * [Prospective Graduate Students](https://eas.gatech.edu/graduate/prospective-graduate-students) (Early January dateline)
 * [Georgia Tech FOCUS program for underrepresented minority](https://focus.gatech.edu/) (November dateline)
-* [Jenn Glass Inclusion page](http://www.jenniferglass.com/Jennifer_Glass/Inclusion.html)
+* [Jenn Glass Inclusion Resource page](http://www.jenniferglass.com/Jennifer_Glass/Inclusion.html)
 
 ### Dr Shi Joyce Sim
 <img src="/image/Profile3.JPG" alt="Kamchatka 2013" title="Kamchatka 2013." width="500" />
