@@ -7,7 +7,7 @@ title: Group
 ## Opportunities
 For Prospective Students and Postdocs
 
-I am looking for qualified, highly motivated students (undergraduate, MS, and PhD) and postdocs. Please email me for information about current or upcoming opportunities in my lab and include a CV. For students, the application dateline is __1st January 2021__. Students with a background in Earth science, geophysics, mechanical engineering and closely related fields are encouraged to apply. I highly encourage underrepresented minorites to contact me with any questions and to apply. No GRE required :) 
+I am looking for qualified, highly motivated students (undergraduate, MS, and PhD) and postdocs. Please email me for information about current or upcoming opportunities in my lab and include a CV. Students with a background in Earth science, geophysics, mechanical engineering and closely related fields are encouraged to apply. I highly encourage underrepresented minorites to contact me with any questions and to apply. No GRE required :) 
 
 The Earth and Atmospheric Science department at Georgia Tech was selected as [one of the inaugural AGU Bridge partner institutions](https://fromtheprow.agu.org/agu-announces-2020-bridge-program-partners/). The application is open to underrepresented minorities (African American, Hispanic, American Indian, Pacific Islander, Alaskan Native and Native Hawaiian) and opens mid December 2020 for Fall 2021 admission. Application is free and is shared with all partner institutions. For more information on the AGU bridge program, please go to the [website](https://www.agu.org/bridge-program#3).
 
