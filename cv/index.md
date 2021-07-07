@@ -22,7 +22,7 @@ Committee: Jan P. Kleissl and Eugene R. Pawlak.
 University of California, San Diego.  
 
 ## RESEARCH POSITIONS
-**Research Associate, Georgia Institute of Technology, 2020 - present**.
+**Research Associate, Georgia Institute of Technology, 2020 - present**.   
 **Postdoctoral Research Fellow, Carnegie Institution for Science, 2018 - 2020**.  
 Carbon transport at subduction zones using two-phase flow numerical models.  
 **Graduate Student Researcher, University of California, San Diego, 2014 - 2018**.  
