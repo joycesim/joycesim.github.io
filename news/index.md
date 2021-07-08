@@ -5,6 +5,7 @@ title: News
 # {{page.title}}
 
 ### 2021
+July: SimLab@Tech is looking for motivated and enthusiastic students/postdocs who are interested in applying fluid dynamics (physics, math and numerical modeling) to geologic problems. Checkout [Geophysics@GeorgiaTech](http://geophysics.eas.gatech.edu/)! Please feel free to email Dr Joyce Sim to discuss potential future projects. 
 
 June: [2021 CIG Summer MOdeling Research Experiences (SMOREs)](https://geodynamics.org/cig/events/calendar/2021-smores/?eID=1912) begins with a great group of mentors and mentees! Dr Joyce Sim gives tutorials on basic python programming and an overview of magmatism as part of the programming that includes excellent overview of CIG Science from other mentors. 
 
