@@ -13,6 +13,8 @@ The Earth and Atmospheric Science department at Georgia Tech was selected as [on
 
 Undergraduates are invited to apply for a ten-week research program hosted by Georgia Tech School of Earth and Atmospheric Sciences (EAS) during Summer 2021. Learn more [here](https://easreu.eas.gatech.edu/)!
 
+Postdoctoral positions: Please go to [this link](https://careers.hprod.onehcm.usg.edu/psc/careers/CAREERS/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&SiteId=03000&JobOpeningId=230846&PostingSeq=1&) to apply for the Postdoctoral Fellow position in Computational Geodynamics at Georgia Institute of Technology.
+
 * [Geophysics@GeorgiaTech](http://geophysics.eas.gatech.edu/) 
 * [Earth and Atmospheric Science Major for Undergraduates](https://eas.gatech.edu/undergrad/prospective-undergraduate-students)
 * [Undergraduate Research Experience](https://easreu.eas.gatech.edu/)
