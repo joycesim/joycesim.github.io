@@ -38,7 +38,7 @@ I am a geodynamicist working on two-phase flow magma dynamics at tectonic bounda
 I highly encourage everyone in Geoscience to take a look at the online program for Unlearning Racism in Geoscience or [URGE](www.urgeoscience.org). It is an 8-session "community-wide journal reading and policy-design curriculum to help Geoscientists unlearn racism and improve accessibility, justice, equity, diversity, and inclusion (AJEDI) in our discipline." Even if you did not get to take part, all the paper readings, video interviews and deliverables by all the Pods across the country/globe are posted on the website. I am happy to chat/discuss if you want as I am continually learning too :) 
 
 ### Rosen Ting-Ying Yu (Georgia Tech Computer Engineering undergraduate Fall 2021)
-<img src="/image/Rosen\ profile\ pic.JPG" alt="Rosen" title="Rosen" width="500" />
+<img src="/image/Rosen\ profile\ pic.jpg" alt="Rosen" title="Rosen" width="500" />
 I am a junior at Georgia Tech majoring in Electrical Engineering. My passion for computational simulations and eath science inspired me to apply my engineering background to learn more about the geophysics of the Earth.
 
 ### Keneni Godana (Summer REU Programme 2021)
