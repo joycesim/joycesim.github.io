@@ -21,7 +21,7 @@ Undergraduates are invited to apply for a ten-week research program hosted by Ge
 * [Jenn Glass Inclusion Resource page](http://www.jenniferglass.com/Jennifer_Glass/Inclusion.html)
 * [How to build a heathy lab](https://www.nature.com/collections/pmlcrkkyyq)
 
-## Postdoctoral Fellow position in Computational Geodynamics at Georgia Institute of Technology
+### Postdoctoral Fellow position in Computational Geodynamics at Georgia Institute of Technology
 [Apply here!](https://careers.hprod.onehcm.usg.edu/psc/careers/CAREERS/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&SiteId=03000&JobOpeningId=230846&PostingSeq=1&) 
 
 Postdoctoral Research Fellow position in Computational Geodynamics
@@ -37,7 +37,9 @@ Application review will begin on October 15th. Applications will be accepted unt
 
 For more information, please contact Dr Shi Joyce Sim (jssim@eas.gatech.edu)
 
-### Dr Shi Joyce Sim
+## People 
+
+### Dr Shi Joyce Sim (PI)
 <img src="/image/Profile3.JPG" alt="Kamchatka 2013" title="Kamchatka 2013." width="500" />
 
 I am a geodynamicist working on two-phase flow magma dynamics at tectonic boundaries such as subduction zones and mid-ocean ridges. I am a research scientist at the School of Earth and Atmospheric Sciences at Georgia Institute of Technology. At Scripps Institution of Oceanography, I worked on understanding the depth of mid-ocean ridges through Earth's evolution and the two-phase study of melt focusing at mid-ocean ridges with advisors Dave Stegman, James Day and Marc Spiegelman. As a Deep Carbon Observatory (DCO) postdoctoral fellow at Carnegie Institution for Science, I worked on carbon fluxes at subduction zones employing a combination of two phase flow and geochemical thermodynamics with Erik Hauri. [CV](https://joycesim.github.io/cv/)
