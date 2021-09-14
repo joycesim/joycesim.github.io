@@ -13,8 +13,6 @@ The Earth and Atmospheric Science department at Georgia Tech was selected as [on
 
 Undergraduates are invited to apply for a ten-week research program hosted by Georgia Tech School of Earth and Atmospheric Sciences (EAS) during Summer 2021. Learn more [here](https://easreu.eas.gatech.edu/)!
 
-Postdoctoral positions: Please go to [this link](https://careers.hprod.onehcm.usg.edu/psc/careers/CAREERS/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&SiteId=03000&JobOpeningId=230846&PostingSeq=1&) to apply for the Postdoctoral Fellow position in Computational Geodynamics at Georgia Institute of Technology.
-
 * [Geophysics@GeorgiaTech](http://geophysics.eas.gatech.edu/) 
 * [Earth and Atmospheric Science Major for Undergraduates](https://eas.gatech.edu/undergrad/prospective-undergraduate-students)
 * [Undergraduate Research Experience](https://easreu.eas.gatech.edu/)
@@ -22,6 +20,22 @@ Postdoctoral positions: Please go to [this link](https://careers.hprod.onehcm.us
 * [Georgia Tech FOCUS program for underrepresented minority](https://focus.gatech.edu/) (November dateline)
 * [Jenn Glass Inclusion Resource page](http://www.jenniferglass.com/Jennifer_Glass/Inclusion.html)
 * [How to build a heathy lab](https://www.nature.com/collections/pmlcrkkyyq)
+
+## Postdoctoral Fellow position in Computational Geodynamics at Georgia Institute of Technology
+[Apply here!](https://careers.hprod.onehcm.usg.edu/psc/careers/CAREERS/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&SiteId=03000&JobOpeningId=230846&PostingSeq=1&) 
+
+Postdoctoral Research Fellow position in Computational Geodynamics
+Georgia Institute of Technology
+Atlanta, Georgia, USA
+
+The School of Earth and Atmospheric Sciences at Georgia Institute of Technology is seeking a postdoctoral scholar in Computational Geophysics/Geodynamics, specializing in numerical modeling of tectonic and/or planetary processes. The candidate must hold a PhD in geophysics, physics, mathematics, mechanical engineering, or related field. Familiarity with the development of scientific codes along with a strong understanding of theory and numerical methods used in geodynamic modelling is highly desired. The specific research topic is open and will be chosen based on the mutual interests of the postdoctoral scholar and the supervisor. Access to high-performance computing resources is available through the Partnership for an Advanced Computing Environment (PACE) at Georgia Tech.
+
+This is a fixed term position for 18-months to begin no later than Spring 2022. The postdoctoral scholar will be supervised by Dr Shi Joyce Sim (https://joycesim.github.io/).  
+
+Georgia Tech provides equal opportunity to all faculty, staff, students, and all other members of the Georgia Tech community, including applicants for admission and/or employment, contractors, volunteers, and participants in institutional programs, activities, or services. Georgia Tech complies with all applicable laws and regulations governing equal opportunity in the workplace and in educational activities. Georgia Tech prohibits discrimination, including discriminatory harassment, on the basis of race, ethnicity, ancestry, color, religion, sex (including pregnancy), sexual orientation, gender identity, national origin, age, disability, genetics, or veteran status in its programs, activities, employment, and admissions. This prohibition applies to faculty, staff, students, and all other members of the Georgia Tech community, including affiliates, invitees, and guests. 
+Application review will begin on October 15th. Applications will be accepted until the position is filled. CV with at least three references is required and a cover letter is highly recommended. Georgia Institute of Technology is in Atlanta, Georgia, an exciting and growing metropolitan city that has an affordable standard of living. Please apply here. 
+
+For more information, please contact Dr Shi Joyce Sim (jssim@eas.gatech.edu)
 
 ### Dr Shi Joyce Sim
 <img src="/image/Profile3.JPG" alt="Kamchatka 2013" title="Kamchatka 2013." width="500" />
