@@ -5,7 +5,7 @@ title: News
 # {{page.title}}
 
 ### 2021
-September: Welcome Rosen Ting-Ying Yu to the Simlab! Rosen will be working on understanding computational efficiencies of the two-phase flow models on PACE!
+September: Welcome Rosen Ting-Ying Yu to the Simlab! Rosen will be working on understanding computational efficiencies of the two-phase flow models on PACE! Postdoctoral Research Fellow position in Computational Geodynamics @SimLab, Georgia Institute of Technology: [Apply here](https://careers.hprod.onehcm.usg.edu/psc/careers/CAREERS/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&SiteId=03000&JobOpeningId=230846&PostingSeq=1&)!
 
 August: AGU abstracts submitted from Keneni Godana, Susan Harrison and Dr Joyce Sim! Stay tune for the cool Summer work from SimLab and stay safe meanwhile!
 
