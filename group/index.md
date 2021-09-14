@@ -39,6 +39,7 @@ I highly encourage everyone in Geoscience to take a look at the online program f
 
 ### Rosen Ting-Ying Yu (Georgia Tech Computer Engineering undergraduate Fall 2021)
 <img src="/image/Rosenprofilepic.jpg" alt="Rosen" title="Rosen" width="300" />
+
 I am a junior at Georgia Tech majoring in Electrical Engineering. My passion for computational simulations and eath science inspired me to apply my engineering background to learn more about the geophysics of the Earth.
 
 ### Keneni Godana (Summer REU Programme 2021)
