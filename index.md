@@ -2,7 +2,10 @@
 layout: default
 title: Shi Joyce Sim, Geodynamicist
 ---
-<img src="/image/gt-logo-gold.png " title="Georgia Tech logo" width="100" /> # Sim Lab @ Tech 
+<p align="right">
+  <img src="/image/gt-logo-gold.png " title="Georgia Tech logo" width="100" /> 
+</p>
+# Sim Lab @ Tech 
 [//]: # (你好， 我是沈詩！)
 
 <img src="/image/U2K7.png " alt="Porosity waves from Sim et al 2020." title="Porosity waves from Sim et al 2020." width="1000" />
