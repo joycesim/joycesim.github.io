@@ -2,7 +2,7 @@
 layout: default
 title: Shi Joyce Sim, Geodynamicist
 ---
-<img src="/image/gt-logo-gold.png " title="Georgia Tech logo" width="10" />
+<img src="/image/gt-logo-gold.png " title="Georgia Tech logo" width="100" />
 # Sim Lab @ Tech 
 [//]: # (你好， 我是沈詩！)
 
