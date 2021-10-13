@@ -56,6 +56,7 @@ Thurgood Marshall College and Scripps Institution of Oceanography.
 **AGU Outstanding Student Paper Award, Fall AGU meeting 2010**
 
 ## PROFESSIONAL ACTIVITIES
+**Co-Organizer**, Rift2Ridge Workshop 2021, *Virtual*.      
 **Co-Organizer**, FEniCS conference 2019, *Carnegie Institution of Washington, Washington, DC*.      
 **Participant**, Gordon Research Conference Interior of the Earth 2019, *Mount Holyoke College, MA*.  
 **Invited presenter**, SZ4D Fluid migration modeling RCN 2019, *University of Minnesota, Minnesota*.  
@@ -97,7 +98,7 @@ Thurgood Marshall College and Scripps Institution of Oceanography.
 [1] Fall AGU meeting, 2011.  
 
 ## LEADERSHIP AND OUTREACH EXPERIENCE
-**Postdoctoral representative** 2019 - 2020.  
+**Postdoctoral representative at Carnegie Institution for Science** 2019 - 2020.  
 **Women and Minorities in Science (SIO)** 2012 - 2017.  
 **Team for Inclusion & Diversity in Education & Science (SIO)** 2012 - 2016.  
 **Mechanical Engineering Graduate Women group (UCSD)** 2014 - 2016.  
