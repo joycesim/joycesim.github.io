@@ -78,7 +78,7 @@ Thurgood Marshall College and Scripps Institution of Oceanography.
 
 ## INVITED PRESENTATIONS
 [18] EGU General Assembly, 2021.    
-[17] Stout Lecture series (Virtual), University of Nebraska-Lincoln, 2021.
+[17] Stout Lecture series (Virtual), University of Nebraska-Lincoln, 2021.    
 [16] Sections DI007 and DI009, AGU Virtual Fall meeting, 2020.    
 [15] University of California, Davis, 2020.    
 [14] Guy F. Atkinson Distinguished Lecture Series (Virtual), University of Utah, 2020.    
