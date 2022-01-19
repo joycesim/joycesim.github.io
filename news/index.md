@@ -4,7 +4,14 @@ title: News
 ---
 # {{page.title}}
 
+### 2022
+January: Happy new year! Graduate applications are due! 
+
 ### 2021
+December: Kenni, Susan and Dr Joyce Sim will be presenting at [#AGU2021](https://www.agu.org/Fall-Meeting)!
+
+November: Graduate applications are opened and due January 1st! [Learn more!](https://eas.gatech.edu/graduate/prospective-graduate-students)
+
 September: Welcome Rosen Ting-Ying Yu to the Simlab! Rosen will be working on understanding computational efficiencies of the two-phase flow models on PACE! Postdoctoral Research Fellow position in Computational Geodynamics @SimLab, Georgia Institute of Technology: [Apply here](https://careers.hprod.onehcm.usg.edu/psc/careers/CAREERS/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&SiteId=03000&JobOpeningId=230846&PostingSeq=1&)!
 
 August: AGU abstracts submitted from Keneni Godana, Susan Harrison and Dr Joyce Sim! Stay tune for the cool Summer work from SimLab and stay safe meanwhile!
