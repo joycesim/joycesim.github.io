@@ -5,7 +5,7 @@ title: News
 # {{page.title}}
 
 ### 2022
-January: Happy new year! Graduate applications are due! 
+January: Happy new year! Graduate applications are due! Watch this space: New paper submitted! 
 
 ### 2021
 December: Kenni, Susan and Dr Joyce Sim will be presenting at [#AGU2021](https://www.agu.org/Fall-Meeting)!
