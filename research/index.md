@@ -3,7 +3,7 @@ layout: default
 title: Research
 ---
 # Research
-## Two-phase flow at tectonic boundaries in an attempt to understand Earth dynamics through its evolution. Fluid dynamic applications to other planetary systems and modern day problems. 
+## Two-phase flow at tectonic boundaries to understand Earth dynamics through its evolution. Fluid dynamic applications to planetary systems and modern day problems such as carbon storage. 
 
 
 [//]: # (Research to move the conversation forward)
