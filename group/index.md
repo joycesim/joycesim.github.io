@@ -55,7 +55,10 @@ I am a geodynamicist working on two-phase flow magma dynamics at tectonic bounda
 
 I highly encourage everyone in Geoscience to take a look at the online program for Unlearning Racism in Geoscience or [URGE](www.urgeoscience.org). It is an 8-session "community-wide journal reading and policy-design curriculum to help Geoscientists unlearn racism and improve accessibility, justice, equity, diversity, and inclusion (AJEDI) in our discipline." Even if you did not get to take part, all the paper readings, video interviews and deliverables by all the Pods across the country/globe are posted on the website. I am happy to chat/discuss if you want as I am continually learning too :) 
 
-### Allen Moore (Georgia Tech Undergraduate research Spring 2021 -- Present)
+### Allen Moore (Georgia Tech Undergraduate research Spring 2022 -- Present)
+<img src="/image/AllenMoore.jpg" alt="Allen" title="Allen" width="300" />
+
+I am a third-year Physics major at Georgia Tech, with particular interests in computational physics and nonlinear dynamics. I am excited to see how my physics education can be applied to geophysical systems!
 
 ### Rosen Ting-Ying Yu (Georgia Tech Undergraduate research Fall 2021 -- Present)
 <img src="/image/Rosenprofilepic.jpg" alt="Rosen" title="Rosen" width="300" />
