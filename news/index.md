@@ -5,6 +5,8 @@ title: News
 # {{page.title}}
 
 ### 2022
+April: Casey Smith will be joining SimLab for the EAS REU Summer research program! 
+
 March: Congratulations to Rosen Yu on receiving the ThinkSwiss research scholarship (https://thinkswiss.org/apply-now/) for this summer!
 
 February: Welcome Tech Physics major, Allen Moore to SimLab! Allen will be comparing symmetric and asymmetric two-phase flow mid-ocean ridge models!
