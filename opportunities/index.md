@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Group
+title: Opportunities
 ---
 # {{page.title}}
 
