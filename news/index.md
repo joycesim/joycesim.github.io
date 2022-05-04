@@ -5,6 +5,8 @@ title: News
 # {{page.title}}
 
 ### 2022
+May: Please welcome newly minted Dr Mitchell McMillan joining us from University of Toronto as a postdoctoral scholar here at SimLab! He will be working on Subduction zone eclogization!
+
 April: Casey Smith will be joining SimLab for the EAS REU Summer research program! 
 
 March: Congratulations to Rosen Yu on receiving the ThinkSwiss research scholarship (https://thinkswiss.org/apply-now/) for this summer!
