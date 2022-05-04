@@ -4,8 +4,6 @@ title: Group
 ---
 # {{page.title}}
 
-## People 
-
 ### Dr Shi Joyce Sim (PI, She/her)
 <img src="/image/Profile3.JPG" alt="Kamchatka 2013" title="Kamchatka 2013." width="500" />
 
