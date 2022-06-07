@@ -5,6 +5,8 @@ title: News
 # {{page.title}}
 
 ### 2022
+June: Please welcome Vigil Smith to the lab officially! Vigil will be working on understanding how regularization of bulk viscosity affect melt transport beneath mid-ocean ridges. 
+
 May: Please welcome newly minted Dr Mitchell McMillan joining us from University of Toronto as a postdoctoral scholar here at SimLab! He will be working on Subduction zone eclogization!
 
 April: Casey Smith will be joining SimLab for the EAS REU Summer research program! 
