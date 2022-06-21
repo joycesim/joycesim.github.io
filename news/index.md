@@ -5,7 +5,7 @@ title: News
 # {{page.title}}
 
 ### 2022
-June: Please welcome Vigil Smith to the lab officially! Vigil will be working on understanding how regularization of bulk viscosity affect melt transport beneath mid-ocean ridges. 
+June: Please welcome Vigil Smith to the lab officially! Vigil will be working on understanding how regularization of bulk viscosity affect melt transport beneath mid-ocean ridges. Dr Joyce Sim will be at (CIDER2022: Earth’s evolution as an inhabited world)[https://www.deep-earth.org/summer22] in Berkeley for a few weeks through July. 
 
 May: Please welcome newly minted Dr Mitchell McMillan joining us from University of Toronto as a postdoctoral scholar here at SimLab! He will be working on Subduction zone eclogization!
 
