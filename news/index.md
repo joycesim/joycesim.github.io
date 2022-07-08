@@ -5,7 +5,9 @@ title: News
 # {{page.title}}
 
 ### 2022
-June: Please welcome Vigil Smith to the lab officially! Vigil will be working on understanding how regularization of bulk viscosity affect melt transport beneath mid-ocean ridges. Dr Joyce Sim will be at [CIDER2022: Earth’s evolution as an inhabited world](https://www.deep-earth.org/summer22) in Berkeley for a few weeks through July. 
+July: Hot off the press! [Persistent Magma-Rich Waves Beneath Mid-Ocean Ridges Explain Long Periodicity on Ocean Floor Fabric](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2022GL098110). Congratulations to Allen Moore and Rosen Yu for receiving the Georgia Tech President's Undergraduate Research Awards for the Fall semester! 
+
+June: Please welcome Vigil Smith to the lab officially! Vigil will be working on understanding how regularization of bulk viscosity affect melt transport beneath mid-ocean ridges. Dr Joyce Sim will be at [CIDER2022: Earth’s evolution as an inhabited world](https://www.deep-earth.org/summer22) in Berkeley for a few weeks through July. Happy Juneteenth everyone! 
 
 May: Please welcome newly minted Dr Mitchell McMillan joining us from University of Toronto as a postdoctoral scholar here at SimLab! He will be working on Subduction zone eclogization!
 
