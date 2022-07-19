@@ -29,5 +29,5 @@ Please email me for information about current or upcoming opportunities in my la
 
 Other resources:
 * [Geophysics@GeorgiaTech](http://geophysics.eas.gatech.edu/) 
-* [Jenn Glass Inclusion Resource page]([AZEEZ HUSSAIN](http://www.jenniferglass.com/deia/))
+* [Jenn Glass Inclusion Resource page](http://www.jenniferglass.com/deia/)
 * [How to build a heathy lab](https://www.nature.com/collections/pmlcrkkyyq)
