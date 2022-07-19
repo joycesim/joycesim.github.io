@@ -22,7 +22,7 @@ I highly encourage everyone in Geoscience to take a look at the online program f
 ### Casey Vigil Smith (Summer REU Programme 2022)
 <img src="/image/VigilSmith.jpeg" alt="Vigil" title="Vigil" width="300" />
 
-Hey! I’m Vigil Smith, I’m from Harding University I’ll will be working on understanding how regularization of bulk viscosity affect melt transport beneath mid-ocean ridges here at Georgia Tech for the Summer REU. See ya Planetside!
+Hey! I am Vigil Smith, from Harding University. I will be working on understanding how regularization of bulk viscosity affect melt transport beneath mid-ocean ridges here at Georgia Tech for the Summer REU. See ya Planetside!
 
 ### Mitchell McMillan (Postdoctoral Scholar May 2022 -- Present)
 <img src="/image/MitchellMcMillan.jpg" alt="Mitchell" title="Mitchell" width="300" />
