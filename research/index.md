@@ -54,6 +54,7 @@ In the deep carbon cycle, the largest contributor of CO2 to the atmosphere are b
 * [Intro to HPC](https://geovizlab.geology.buffalo.edu/hpcintro.html)
 * [Georgia Tech Vertical Integrated Project HPC](https://www.vip.gatech.edu/teams/team-phoenix-cluster-competition-team-hpc)
 * [Scientific Colormaps](https://www.mathworks.com/matlabcentral/fileexchange/68546-crameri-perceptually-uniform-scientific-colormaps)
+* ["Consistent Thermo- and Geo-dynamics" by Cian Wilson, Carnegie Science](https://www.youtube.com/watch?v=vM21WwjC69c)
 
 ### Writing
 * [Coursera: Writing in the Sciences (Stanford)](https://www.coursera.org/learn/sciwrite)
