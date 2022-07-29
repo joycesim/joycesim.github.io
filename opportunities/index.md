@@ -18,6 +18,8 @@ The Earth and Atmospheric Science department at Georgia Tech was selected as [on
 
 * [Prospective Graduate Students](https://eas.gatech.edu/graduate/prospective-graduate-students) (Early January dateline)
 * [Georgia Tech FOCUS program for underrepresented minority](https://focus.gatech.edu/) (November dateline)
+* [NASA FINESST](https://nspires.nasaprs.com/external/solicitations/summary!init.do?solId=%7b87947100-56AE-C4DC-C511-0349862D658A%7d&path=open) (February dateline)
+* [NSF GRFP](https://www.nsfgrfp.org/) (October dateline)
 
 ### Postdoctoral Scholars
 Please email me for information about current or upcoming opportunities in my lab and include a CV. 
