@@ -19,11 +19,6 @@ I am a geodynamicist working on two-phase flow magma dynamics at tectonic bounda
 
 I highly encourage everyone in Geoscience to take a look at the online program for Unlearning Racism in Geoscience or [URGE](www.urgeoscience.org). It is an 8-session "community-wide journal reading and policy-design curriculum to help Geoscientists unlearn racism and improve accessibility, justice, equity, diversity, and inclusion (AJEDI) in our discipline." Even if you did not get to take part, all the paper readings, video interviews and deliverables by all the Pods across the country/globe are posted on the website. I am happy to chat/discuss if you want as I am continually learning too :) 
 
-### Casey Vigil Smith (Summer REU Programme 2022)
-<img src="/image/VigilSmith.jpeg" alt="Vigil" title="Vigil" width="300" />
-
-Hey! I am Vigil Smith, from Harding University. I will be working on understanding how regularization of bulk viscosity affect melt transport beneath mid-ocean ridges here at Georgia Tech for the Summer REU. See ya Planetside!
-
 ### Mitchell McMillan (Postdoctoral Scholar May 2022 -- Present)
 <img src="/image/MitchellMcMillan.jpg" alt="Mitchell" title="Mitchell" width="300" />
 
@@ -42,6 +37,9 @@ I am a junior at Georgia Tech majoring in Electrical Engineering. My passion for
 ### [Your name and picture here! Join us!]
 
 ## Alumni
+
+### Casey Vigil Smith (Summer REU Programme 2022)
+Hey! I am Vigil Smith, from Harding University. I will be working on understanding how regularization of bulk viscosity affect melt transport beneath mid-ocean ridges here at Georgia Tech for the Summer REU. See ya Planetside!
 
 ### Keneni Godana (Summer REU Programme 2021)
 Keneni is a rising Earth Science senior at University of illinois, Chicago and will be working on understanding how radiogenic heating affected seafloor subsidence and therefore ocean basins during the early Earth as part of the Georgia Tech EAS Summer REU program. Keneni will be presenting this work at AGU Fall meeting 2021. 
