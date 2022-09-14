@@ -15,6 +15,10 @@ Please email me (jssim at eas dot gatech dot edu) for paper if you have trouble 
 [1] **S.J. Sim**, D.R. Stegman, N. Coltice, (2016) Influence of Continental growth on mid-ocean ridge depth, *Geochem. Geophys. Geosyst.*, 17 (11), 4425-4437,  https://doi.org/10.1002/2016GC006629.
 
 ## In preparation
+[4] A. Robel, **S.J. Sim**, C. Meyer, M. Siegfried, C. Gustafson (in prep) Contemporary Ice Sheet Thinning Drives Subglacial Groundwater Exfiltration
+
+[3] **S.J.Sim**, S.Hier-Majumder, M.Hirschmann (in prep) Volatile and TraceElement Storage in a Crystallizing Martian Magma Ocean
+
 [2] **S.J. Sim**, E. Hauri, M. Spiegelman, C. Manning (in prep) Global CO_2 potential in the mantle wedge of the subduction zone 
 
 [1] **S.J. Sim**, M. Spiegelman, D.R. Stegman, C. Wilson (major revisions) M3LT: A new open source model to explore the dynamics of Melt in the Mantle beneath Mid-ocean ridge.  
