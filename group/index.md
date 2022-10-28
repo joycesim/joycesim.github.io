@@ -32,7 +32,7 @@ I am a third-year Physics major at Georgia Tech, with particular interests in co
 ### Rosen Ting-Ying Yu (Georgia Tech Undergraduate research Fall 2021 -- Present) PURA award
 <img src="/image/Rosenprofilepic.jpg" alt="Rosen" title="Rosen" width="300" />
 
-I am a junior at Georgia Tech majoring in Electrical Engineering. My passion for computational simulations and eath science inspired me to apply my engineering background to learn more about the geophysics of the Earth.
+I am a junior at Georgia Tech majoring in Electrical Engineering. My passion for computational simulations and eath science inspired me to apply my engineering background to learn more about the geophysics of the Earth. [Website](https://rosenyu304.github.io/)
 
 ### [Your name and picture here! Join us!]
 
