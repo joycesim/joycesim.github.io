@@ -5,6 +5,8 @@ title: News
 # {{page.title}}
 
 ### 2022
+November: Dr Joyce Sim will be heading to [SZ4D community meeting](https://www.sz4d.org/2022-community-meeting) in Houston! 
+
 August/September: Dr Joyce Sim will be giving a keynote at the [Ada Lovelace workshop](https://meetings.copernicus.org/2022AdaLovelaceWorkshop/about/general_information.html) in Heviv, Hungary! 
 
 July: Hot off the press! [Persistent Magma-Rich Waves Beneath Mid-Ocean Ridges Explain Long Periodicity on Ocean Floor Fabric](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2022GL098110). Congratulations to Allen Moore and Rosen Yu for receiving the Georgia Tech President's Undergraduate Research Awards for the Fall semester! 
