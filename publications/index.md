@@ -6,7 +6,7 @@ title: Publications
 
 Please email me (jssim at eas dot gatech dot edu) for paper if you have trouble getting it. 
 
-[4] **S.J. Sim**, (2022) Persistent magma-rich waves beneath mid-ocean ridges explain long periodicity on ocean floor fabric.
+[4] **S.J. Sim**, (2022) Persistent magma-rich waves beneath mid-ocean ridges explain long periodicity on ocean floor fabric, *Geophysical Research Letters*,https://doi.org/10.1029/2022GL098110.
 
 [3] R. Parnell-Turner, **S.J. Sim**, J.A. Olive, (2020) Time-dependent crustal accretion on the Southeast Indian Ridge from Malaysia Airlines flight MH370 search data, *Geophysical Research Letters*,  https://doi.org/10.1029/2020GL087349.  
 
