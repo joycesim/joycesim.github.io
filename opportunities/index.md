@@ -11,6 +11,8 @@ For Georgia Tech undergraduates, please reach out to me with your cv for any cur
 * [PURA award](https://urop.gatech.edu/content/presidents-undergraduate-research-awards)
 * [Earth and Atmospheric Science Major for Undergraduates](https://eas.gatech.edu/undergrad/prospective-undergraduate-students)
 
+For collaborations on Art and Science, please check out [Science.Art.Wonder](https://sciartwonderatl.wixsite.com/sawatl)!
+
 ### Graduate students
 Please email me for information about current or upcoming opportunities in my lab and include a CV. Students with a background in Earth science, geophysics, mechanical engineering and closely related fields are encouraged to apply. I highly encourage underrepresented minorites to contact me with any questions and to apply. No GRE required.
 
