@@ -62,3 +62,6 @@ In the deep carbon cycle, the largest contributor of CO2 to the atmosphere are b
 ### Writing
 * [Coursera: Writing in the Sciences (Stanford)](https://www.coursera.org/learn/sciwrite)
 * [Writing Effectively](https://www.youtube.com/watch?v=vtIzMaLkCaM)
+
+### Other fun stuff
+* [Science.Art.Wonder](https://sciartwonderatl.wixsite.com/sawatl)!
