@@ -25,6 +25,7 @@ At mid-ocean ridges, oceanic crust is emplaced in a narrow neovolcanic region on
 Multibeam bathymetric data from Malaysia Airlines Flight 370 reveal off-axis crustal structure of Southeast Indian Ridge. Record of crustal accretion follows a fractal pattern, with some evidence for increased power at periods of ~300 to ~700 kyr. Crustal accretion patterns could be explained by the combined effects of melt-rich porosity waves and mantle heterogeneities. [[Parnell-Turner, Sim and Olive 2020]](https://doi.org/10.1029/2020GL087349)
 
 ![](/image/Param.png)
+
 The ocean floor makes up the majority of the Earth's surface and yet, its geomorphology is not fully understood. Recent debate has focused on whether sea level changes—driven by Milankovitch glacial cycles—generate the abyssal hill fabric of the ocean floor by modulating mid-ocean ridge magma supply. However, periodicities longer than Milankovitch cycles are prominent in the ocean bathymetry. Using crustal thickness estimates from two-phase flow simulations of ridge magma transport, I show that persistent melt-rich porosity waves could be responsible for the ocean floor fabric at periods of 100 kyr and longer, except in the case of fast-spreading ridges. For periods longer than 100 kyr, spectral energy is notably present at large mantle permeabilities regardless of spreading rates. Therefore, two-phase flow models can provide constraints on elusive mantle parameters such as permeability and viscosity when directly linked to the ocean floor fabric produced. [Sim 2022](https://doi.org/10.1029/2022GL098110) 
 
 ## Subduction zones
@@ -33,6 +34,7 @@ In the deep carbon cycle, the largest contributor of CO2 to the atmosphere are b
 
 ## Cryosphere and planetary systems
 ![](/image/Exfiltration.png)
+
 The two-phase flow formulation applies to many environments including the icy poles on Earth and water worlds. Collaborations at Georgia
 Tech has led to the understanding of the potential for groundwater exfiltration beneath the thinning Antarctic ice sheets. Groundwater-laden sedimentary aquifers are extensive beneath large portions of the Greenland and Antarctic ice sheets. With a simple theory, it is shown that as the ice sheets thin, there is a potential for exfiltration that can be a dominant component of the subglacial water budget. Continued Antarctic Ice Sheet thinning over the coming decades to centuries guarantees that the role of exfiltration in the basal water budget will only continue to grow into the future, suggesting the need to develop better integrated models of interactions between subglacial groundwater and drainage.
 
