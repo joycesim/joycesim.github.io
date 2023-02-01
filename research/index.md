@@ -32,6 +32,7 @@ In the deep carbon cycle, the largest contributor of CO2 to the atmosphere are b
 [Carnegie video highlights for AGU 2019](https://www.youtube.com/watch?v=EU2N0_0KZz8&feature=emb_logo)
 
 ## Cryosphere and planetary systems
+![](/image/Exfiltration.png)
 The two-phase flow formulation applies to many environments including the icy poles on Earth and water worlds. Collaborations at Georgia
 Tech has led to the understanding of the potential for groundwater exfiltration beneath the thinning Antarctic ice sheets. Groundwater-laden sedimentary aquifers are extensive beneath large portions of the Greenland and Antarctic ice sheets. With a simple theory, it is shown that as the ice sheets thin, there is a potential for exfiltration that can be a dominant component of the subglacial water budget. Continued Antarctic Ice Sheet thinning over the coming decades to centuries guarantees that the role of exfiltration in the basal water budget will only continue to grow into the future, suggesting the need to develop better integrated models of interactions between subglacial groundwater and drainage.
 
