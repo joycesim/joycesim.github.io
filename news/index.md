@@ -4,7 +4,12 @@ title: News
 ---
 # {{page.title}}
 
+### 2023
+
+January: Happy new year! Dr Joyce Sim will be giving an invited seminar at Western Washington University. 
+
 ### 2022
+
 November: Dr Joyce Sim will be heading to [SZ4D community meeting](https://www.sz4d.org/2022-community-meeting) in Houston! 
 
 August/September: Dr Joyce Sim will be giving a keynote at the [Ada Lovelace workshop](https://meetings.copernicus.org/2022AdaLovelaceWorkshop/about/general_information.html) in Heviv, Hungary! 
