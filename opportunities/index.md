@@ -5,7 +5,7 @@ title: Opportunities
 # {{page.title}}
 
 ### Undergraduate students
-Undergraduates (US citizens and PR) are invited to apply for a ten-week research program hosted by Georgia Tech School of Earth and Atmospheric Sciences (EAS) during Summer 2021. Learn more [here](https://easreu.eas.gatech.edu/)! 
+Undergraduates (US citizens and PR) are invited to apply for a ten-week research program hosted by Georgia Tech School of Earth and Atmospheric Sciences (EAS) during Summer. Learn more [here](https://easreu.eas.gatech.edu/)! 
 
 For Georgia Tech undergraduates, please reach out to me with your cv for any current or upcoming opportunities.
 * [PURA award](https://urop.gatech.edu/content/presidents-undergraduate-research-awards)
