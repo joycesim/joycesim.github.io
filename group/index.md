@@ -23,11 +23,6 @@ I highly encourage everyone in Geoscience to take a look at the online program f
 
 I am a geologist interested in the interactions among tectonics, lithology, and erosion that control the evolution of Earth’s surface. My research includes geologic mapping and eolian geomorphology in the Central Andes, geodynamic modelling, and low-temperature thermochronology. My current focus is on understanding the behavior of aqueous fluids in continental subduction zones, especially as they facilitate chemical reactions in the upper plate. Reactions such as eclogitization and flux melting may be significant drivers of the geodynamics of mountain belts. [Website](https://www.mitchell-mcmillan.com/)
 
-### Allen Moore (Georgia Tech Undergraduate research Spring 2022 -- Present) PURA award
-<img src="/image/AllenMoore.png" alt="Allen" title="Allen" width="300" />
-
-I am a third-year Physics major at Georgia Tech, with particular interests in computational physics and nonlinear dynamics. I am excited to see how my physics education can be applied to geophysical systems!
-
 ### Rosen Ting-Ying Yu (Georgia Tech Undergraduate research Fall 2021 -- Present) PURA award
 <img src="/image/Rosenprofilepic.jpg" alt="Rosen" title="Rosen" width="300" />
 
@@ -36,6 +31,9 @@ I am a junior at Georgia Tech majoring in Electrical Engineering. My passion for
 ### [Your name and picture here! Join us!]
 
 ## Alumni
+
+### Allen Moore (Georgia Tech Undergraduate research Spring 2022 -- Fall 2022) PURA award Fall 2022
+I am a third-year Physics major at Georgia Tech, with particular interests in computational physics and nonlinear dynamics. I am excited to see how my physics education can be applied to geophysical systems!
 
 ### Casey Vigil Smith (Summer REU Programme 2022)
 Hey! I am Vigil Smith, from Harding University. I will be working on understanding how regularization of bulk viscosity affect melt transport beneath mid-ocean ridges here at Georgia Tech for the Summer REU. See ya Planetside!
