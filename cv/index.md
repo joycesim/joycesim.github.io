@@ -22,9 +22,9 @@ Committee: Jan P. Kleissl and Eugene R. Pawlak.
 University of California, San Diego.  
 
 ## RESEARCH POSITIONS
-**Research Associate PI, Georgia Institute of Technology, 2020 - present**.   
-**Postdoctoral Research Fellow, Carnegie Institution for Science, 2018 - 2020**.  
-Carbon transport at subduction zones using two-phase flow numerical models.  
+**Research Associate PI, Georgia Institute of Technology, 2020 - present**.    
+**Postdoctoral Research Fellow, Carnegie Institution for Science, 2018 - 2020**.   
+Carbon transport at subduction zones using two-phase flow numerical models.   
 **Graduate Student Researcher, University of California, San Diego, 2014 - 2018**.  
 Analyzed mantle convection model outputs to look at depths of mid-ocean ridges through Earth's evolution and developed two phase flow input codes, M3LT, for TerraFERMA software to study melt focusing at mid-ocean ridges.  
 **Graduate Student Researcher, University of California, San Diego, 2011 - 2014**.  
@@ -36,19 +36,19 @@ Crust project, data compilation of crustal thicknesses from seismic reflection s
 
 ## STUDENTS
 
-**Ting-Ying Yu, Rosen (ECE, Georgia Tech)** Fall 2021-present.
-*PURA award (Fall 2022)*.
-**Allen Moore** (Physics, Georgia Tech) Spring 2022-Fall 2022.
-*PURA award (Fall 2022)*.
-**Casey Smith (Harding University)** Summer 2022.
-*EAS-REU*.
-**Susan Harrison (EAS, Georgia Tech)** Summer 2021.
+**Ting-Ying Yu, Rosen (ECE, Georgia Tech)** Fall 2021-present.   
+*PURA award (Fall 2022)*.   
+**Allen Moore** (Physics, Georgia Tech) Spring 2022-Fall 2022.   
+*PURA award (Fall 2022)*.   
+**Casey Smith (Harding University)** Summer 2022.   
+*EAS-REU*.   
+**Susan Harrison (EAS, Georgia Tech)** Summer 2021.   
 *Currently: Masters student at Georgia Tech*.
-**Keneni Godana (University of Illinois, Chicago)** Summer 2021.
-*EAS-REU and CIG-SMOREs program, Currently: PhD student at UCSC*.
+**Keneni Godana (University of Illinois, Chicago)** Summer 2021.   
+*EAS-REU and CIG-SMOREs program, Currently: PhD student at UCSC*.   
 
 ## POSTDOCTORAL SCHOLARS
-**Dr Mitchell McMillan** May 2022 - present.
+**Dr Mitchell McMillan** May 2022 - present.   
 
 ## FIELD EXPERIENCE
 **Stillwater Intrusive Complex and the Columbia River Flood Basalt 2015**.  
@@ -57,11 +57,11 @@ Collecting rock samples for geochemical analysis.
 Multibeam bathymetry, CHIRP, and sediment coring, 23 days at sea on R/V Revelle.  
 
 ## TEACHING EXPERIENCE
-**EAS 3610: Introduction to Geophysics Fall 2022**.
-Guest lecturer on \Overview of Geodynamics".
-**Computational Infrastructure for Geodynamics Summer MOdeling Research Experiences (CIG SMOREs) Lecturer Summer 2021**.
-Introduction to python in geodynamics, Magmatism.
-**SIO10: The Earth Spring 2017**.  
+**EAS 3610: Introduction to Geophysics Fall 2022**.   
+Guest lecturer on \Overview of Geodynamics".   
+**Computational Infrastructure for Geodynamics Summer MOdeling Research Experiences (CIG SMOREs) Lecturer Summer 2021**.   
+Introduction to python in geodynamics, Magmatism.   
+**SIO10: The Earth Spring 2017**.    
 Teaching Assistant for Prof. Adrian Borsa.  
 **Guest lecture for GLADE: Parallel computing and using Paraview for visualization Summer 2016**.  
 Prof. Dave Stegman.  
@@ -97,7 +97,7 @@ Thurgood Marshall College and Scripps Institution of Oceanography.
 **Co-organizer**, Earth Section Seminar 2013-2014, *Scripps Institution of Oceanography, UC San Diego*.  
 
 ## PEER-REVIEWED PUBLICATIONS
-[6] A. Robel, **S.J. Sim**, C. Meyer, M. Siegfried, C. Gustafson (In revisions) Contemporary Ice Sheet Thinning Drives Subglacial Groundwater Exfilltration.
+[6] A. Robel, **S.J. Sim**, C. Meyer, M. Siegfried, C. Gustafson (In revisions) Contemporary Ice Sheet Thinning Drives Subglacial Groundwater Exfilltration.   
 [5] **S.J. Sim**, M. Spiegelman, D.R. Stegman, C. Wilson (In revisions) M3LT: A new open source model to explore the dynamics of Melt in the Mantle beneath Mid-ocean ridge, *Geochem. Geophys. Geosyst.*.  
 [4] **S.J. Sim** (2022) Persistent magma-rich waves beneath mid-ocean ridges explain long periodicity on ocean floor fabric.  
 [3] R. Parnell-Turner, **S.J. Sim**, J.A. Olive, (2020) Time-dependent crustal accretion on the Southeast Indian Ridge from Malaysia Airlines flight MH370 search data, *Geophysical Research Letters*,  https://doi.org/10.1029/2020GL087349.  
@@ -105,11 +105,11 @@ Thurgood Marshall College and Scripps Institution of Oceanography.
 [1] **S.J. Sim**, D.R. Stegman, N. Coltice, (2016) Influence of Continental growth on mid-ocean ridge depth, *Geochem. Geophys. Geosyst.*, 17 (11), 4425-4437,  https://doi.org/10.1002/2016GC006629.
 
 ## INVITED PRESENTATIONS
-[23] Western Washington University (virtual), 2022.
-[22] AGU Fall meeting, 2022. (Withdrawn)
-[21] Department of Planetary Physics, German Aerospace Center 2022.
-[20] [Ada Lovelace Workshop, 2022](https://meetings.copernicus.org/2022AdaLovelaceWorkshop/about/general_information.html)
-[19] T42A-01, AGU Fall meeting, 2021. (Withdrawn)
+[23] Western Washington University (virtual), 2022.   
+[22] AGU Fall meeting, 2022 (Withdrawn).  
+[21] Department of Planetary Physics, German Aerospace Center 2022.   
+[20] [Ada Lovelace Workshop, 2022](https://meetings.copernicus.org/2022AdaLovelaceWorkshop/about/general_information.html).  
+[19] T42A-01, AGU Fall meeting, 2021 (Withdrawn).  
 [18] EGU General Assembly, 2021.    
 [17] Stout Lecture series (Virtual), University of Nebraska-Lincoln, 2021.    
 [16] Sections DI007 and DI009, AGU Virtual Fall meeting, 2020.    
@@ -136,10 +136,10 @@ Thurgood Marshall College and Scripps Institution of Oceanography.
 **Mechanical Engineering Graduate Women group (UCSD)** 2014 - 2016.  
 
 ## CONFERENCE PRESENTATIONS
-[20] **Fall AGU Meeting**, Chicago (Withdrawn).
-[19] **Ada Lovelace Workshop**, Heviv, Hungary (Invited).
-[18] **GeoPRISMs Volatiles Workshop**, Montana. "Rift2Ridge vision"
-[17] **Fall AGU meeting**, New Orleans (Withdrawn)
+[20] **Fall AGU Meeting**, Chicago (Withdrawn).   
+[19] **Ada Lovelace Workshop**, Heviv, Hungary (Invited).   
+[18] **GeoPRISMs Volatiles Workshop**, Montana. "Rift2Ridge vision".  
+[17] **Fall AGU meeting**, New Orleans (Withdrawn).  
 [16] **EGU meeting**, 2021. "(Invited) Melt transport beneath mid-ocean ridges".    
 [15] **Fall AGU meeting**, Virtual, 2020.      
 [14] **Fall AGU meeting**, San Francisco, 2019. "[Carbon solubility in the subducting slab and mantle wedge](https://www.youtube.com/watch?v=EU2N0_0KZz8)".     
