@@ -6,9 +6,13 @@ title: News
 
 ### 2023
 
+February: Dr Joyce Sim will be giving an invited seminar at Caltech. 
+
 January: Happy new year! Dr Joyce Sim will be giving an invited seminar at Western Washington University. 
 
 ### 2022
+
+December: Dr Mitchell McMillan will be presenting at AGU Fall meeting on "Investigating the Roles of Fluids and Bulk Composition in Eclogitization Reactions in Continental Lithosphere". 
 
 November: Dr Joyce Sim will be heading to [SZ4D community meeting](https://www.sz4d.org/2022-community-meeting) in Houston! 
 
