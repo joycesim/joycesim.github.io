@@ -43,7 +43,7 @@ Crust project, data compilation of crustal thicknesses from seismic reflection s
 **Casey Smith (Harding University)** Summer 2022.   
 *EAS-REU*.   
 **Susan Harrison (EAS, Georgia Tech)** Summer 2021.   
-*Currently: Masters student at Georgia Tech*.
+*Currently: Masters student at Georgia Tech*.   
 **Keneni Godana (University of Illinois, Chicago)** Summer 2021.   
 *EAS-REU and CIG-SMOREs program, Currently: PhD student at UCSC*.   
 
