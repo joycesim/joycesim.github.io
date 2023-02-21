@@ -36,19 +36,19 @@ Crust project, data compilation of crustal thicknesses from seismic reflection s
 
 ## STUDENTS
 
-**Ting-Ying Yu, Rosen (ECE, Georgia Tech)** Fall 2021-present
-*PURA award (Fall 2022)*
-**Allen Moore** (Physics, Georgia Tech) Spring 2022-Fall 2022
-*PURA award (Fall 2022)*
-**Casey Smith (Harding University)** Summer 2022
-*EAS-REU*
-**Susan Harrison (EAS, Georgia Tech)** Summer 2021
-*Currently: Masters student at Georgia Tech*
-**Keneni Godana (University of Illinois, Chicago)** Summer 2021
-*EAS-REU and CIG-SMOREs program, Currently: PhD student at UCSC*
+**Ting-Ying Yu, Rosen (ECE, Georgia Tech)** Fall 2021-present.
+*PURA award (Fall 2022)*.
+**Allen Moore** (Physics, Georgia Tech) Spring 2022-Fall 2022.
+*PURA award (Fall 2022)*.
+**Casey Smith (Harding University)** Summer 2022.
+*EAS-REU*.
+**Susan Harrison (EAS, Georgia Tech)** Summer 2021.
+*Currently: Masters student at Georgia Tech*.
+**Keneni Godana (University of Illinois, Chicago)** Summer 2021.
+*EAS-REU and CIG-SMOREs program, Currently: PhD student at UCSC*.
 
 ## POSTDOCTORAL SCHOLARS
-**Dr Mitchell McMillan** May 2022 - present
+**Dr Mitchell McMillan** May 2022 - present.
 
 ## FIELD EXPERIENCE
 **Stillwater Intrusive Complex and the Columbia River Flood Basalt 2015**.  
@@ -57,10 +57,10 @@ Collecting rock samples for geochemical analysis.
 Multibeam bathymetry, CHIRP, and sediment coring, 23 days at sea on R/V Revelle.  
 
 ## TEACHING EXPERIENCE
-**EAS 3610: Introduction to Geophysics Fall 2022**
-Guest lecturer on \Overview of Geodynamics"
-**Computational Infrastructure for Geodynamics Summer MOdeling Research Experiences (CIG SMOREs) Lecturer Summer 2021**
-Introduction to python in geodynamics, Magmatism
+**EAS 3610: Introduction to Geophysics Fall 2022**.
+Guest lecturer on \Overview of Geodynamics".
+**Computational Infrastructure for Geodynamics Summer MOdeling Research Experiences (CIG SMOREs) Lecturer Summer 2021**.
+Introduction to python in geodynamics, Magmatism.
 **SIO10: The Earth Spring 2017**.  
 Teaching Assistant for Prof. Adrian Borsa.  
 **Guest lecture for GLADE: Parallel computing and using Paraview for visualization Summer 2016**.  
@@ -76,11 +76,11 @@ Thurgood Marshall College and Scripps Institution of Oceanography.
 **AGU Outstanding Student Paper Award, Fall AGU meeting 2010**
 
 ## PROFESSIONAL ACTIVITIES
-**Reviewer:** NSF, Geophysical research letters, Gcubed, Earth and Planetary Science Letters, Nature Geoscience, Science Advances, Geology, Geophysical Journal International
-**Executive Secretary and Panelist**, NASA Solar Systems Workings ROSES
-**MCS Steering Committee**, Subduction Zone 4D Modeling Collaboratory for Subduction RCN 2022
-**Writing committee**, Rift2Ridge NSF-sponsored Workshop report 2022
-**Co-Convenor**, Tectonic session on 'Connecting the Ins and Outs of Subduction Zones' (T41D, T43A, T44A, and T45B) 2021, *AGU Fall Meeting*
+**Reviewer:** NSF, Geophysical research letters, Gcubed, Earth and Planetary Science Letters, Nature Geoscience, Science Advances, Geology, Geophysical Journal International.
+**Executive Secretary and Panelist**, NASA Solar Systems Workings ROSES.
+**MCS Steering Committee**, Subduction Zone 4D Modeling Collaboratory for Subduction RCN 2022.
+**Writing committee**, Rift2Ridge NSF-sponsored Workshop report 2022.
+**Co-Convenor**, Tectonic session on 'Connecting the Ins and Outs of Subduction Zones' (T41D, T43A, T44A, and T45B) 2021, *AGU Fall Meeting*.
 **Co-Organizer**, Rift2Ridge Workshop 2021, *Virtual*.      
 **Co-Organizer**, FEniCS conference 2019, *Carnegie Institution of Washington, Washington, DC*.      
 **Participant**, Gordon Research Conference Interior of the Earth 2019, *Mount Holyoke College, MA*.  
