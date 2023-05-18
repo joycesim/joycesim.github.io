@@ -35,17 +35,16 @@ Microseismic signatures of hurricane Ioke and hurricane Katrina.
 Crust project, data compilation of crustal thicknesses from seismic reflection surveys.   
 
 ## STUDENTS
-
-**Ting-Ying Yu, Rosen (ECE, Georgia Tech)** Fall 2021-present.   
-*PURA award (Fall 2022)*.   
+**Ting-Ying Yu, Rosen** (ECE, Georgia Tech) Fall 2021-Spring 2023.   
+*PURA award (Fall 2022); Future PhD student at MIT*.   
 **Allen Moore** (Physics, Georgia Tech) Spring 2022-Fall 2022.   
 *PURA award (Fall 2022)*.   
-**Casey Smith (Harding University)** Summer 2022.   
+**Casey Smith** (Harding University) Summer 2022.   
 *EAS-REU*.   
-**Susan Harrison (EAS, Georgia Tech)** Summer 2021.   
-*Currently: Masters student at Georgia Tech*.   
-**Keneni Godana (University of Illinois, Chicago)** Summer 2021.   
-*EAS-REU and CIG-SMOREs program, Currently: PhD student at UCSC*.   
+**Susan Harrison** (EAS, Georgia Tech) Summer 2021.   
+*Current Masters student at Georgia Tech*.   
+**Keneni Godana** (University of Illinois, Chicago) Summer 2021.   
+*EAS-REU and CIG-SMOREs program; Current PhD student at UCSC*.   
 
 ## POSTDOCTORAL SCHOLARS
 **Dr Mitchell McMillan** May 2022 - present.   
@@ -97,7 +96,7 @@ Thurgood Marshall College and Scripps Institution of Oceanography.
 **Co-organizer**, Earth Section Seminar 2013-2014, *Scripps Institution of Oceanography, UC San Diego*.  
 
 ## PEER-REVIEWED PUBLICATIONS
-[6] A. Robel, **S.J. Sim**, C. Meyer, M. Siegfried, C. Gustafson (In revisions) Contemporary Ice Sheet Thinning Drives Subglacial Groundwater Exfilltration.   
+[6] A. Robel, **S.J. Sim**, C. Meyer, M. Siegfried, C. Gustafson (In revisions) Contemporary Ice Sheet Thinning Drives Subglacial Groundwater Exfiltration.   
 [5] **S.J. Sim**, M. Spiegelman, D.R. Stegman, C. Wilson (In revisions) M3LT: A new open source model to explore the dynamics of Melt in the Mantle beneath Mid-ocean ridge, *Geochem. Geophys. Geosyst.*.  
 [4] **S.J. Sim** (2022) Persistent magma-rich waves beneath mid-ocean ridges explain long periodicity on ocean floor fabric.  
 [3] R. Parnell-Turner, **S.J. Sim**, J.A. Olive, (2020) Time-dependent crustal accretion on the Southeast Indian Ridge from Malaysia Airlines flight MH370 search data, *Geophysical Research Letters*,  https://doi.org/10.1029/2020GL087349.  
@@ -105,7 +104,8 @@ Thurgood Marshall College and Scripps Institution of Oceanography.
 [1] **S.J. Sim**, D.R. Stegman, N. Coltice, (2016) Influence of Continental growth on mid-ocean ridge depth, *Geochem. Geophys. Geosyst.*, 17 (11), 4425-4437,  https://doi.org/10.1002/2016GC006629.
 
 ## INVITED PRESENTATIONS
-[23] Western Washington University (virtual), 2022.   
+[24] Caltech, 2023.
+[23] Western Washington University (virtual), 2023.   
 [22] AGU Fall meeting, 2022 (Withdrawn).  
 [21] Department of Planetary Physics, German Aerospace Center 2022.   
 [20] [Ada Lovelace Workshop, 2022](https://meetings.copernicus.org/2022AdaLovelaceWorkshop/about/general_information.html).  
