@@ -23,14 +23,13 @@ I highly encourage everyone in Geoscience to take a look at the online program f
 
 I am a geologist interested in the interactions among tectonics, lithology, and erosion that control the evolution of Earth’s surface. My research includes geologic mapping and eolian geomorphology in the Central Andes, geodynamic modelling, and low-temperature thermochronology. My current focus is on understanding the behavior of aqueous fluids in continental subduction zones, especially as they facilitate chemical reactions in the upper plate. Reactions such as eclogitization and flux melting may be significant drivers of the geodynamics of mountain belts. [Website](https://www.mitchell-mcmillan.com/)
 
-### Rosen Ting-Ying Yu (Georgia Tech Undergraduate research Fall 2021 -- Present) PURA award
-<img src="/image/Rosenprofilepic.jpg" alt="Rosen" title="Rosen" width="300" />
-
-I am a junior at Georgia Tech majoring in Electrical Engineering. My passion for computational simulations and eath science inspired me to apply my engineering background to learn more about the geophysics of the Earth. [Website](https://rosenyu304.github.io/)
+### Shradha Ravikumar (Summer UNAVCO RESESS Programme 2023)
 
 ### [Your name and picture here! Join us!]
 
 ## Alumni
+### Rosen Ting-Ying Yu (Georgia Tech Undergraduate research Fall 2021 -- Spring 2023) PURA award Fall 2022 - Onwards to PhD at MIT
+I am a junior at Georgia Tech majoring in Electrical Engineering. My passion for computational simulations and eath science inspired me to apply my engineering background to learn more about the geophysics of the Earth. [Website](https://rosenyu304.github.io/)
 
 ### Allen Moore (Georgia Tech Undergraduate research Spring 2022 -- Fall 2022) PURA award Fall 2022
 I am a third-year Physics major at Georgia Tech, with particular interests in computational physics and nonlinear dynamics. I am excited to see how my physics education can be applied to geophysical systems!
