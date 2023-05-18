@@ -104,7 +104,7 @@ Thurgood Marshall College and Scripps Institution of Oceanography.
 [1] **S.J. Sim**, D.R. Stegman, N. Coltice, (2016) Influence of Continental growth on mid-ocean ridge depth, *Geochem. Geophys. Geosyst.*, 17 (11), 4425-4437,  https://doi.org/10.1002/2016GC006629.
 
 ## INVITED PRESENTATIONS
-[24] Caltech, 2023.
+[24] Caltech, 2023.   
 [23] Western Washington University (virtual), 2023.   
 [22] AGU Fall meeting, 2022 (Withdrawn).  
 [21] Department of Planetary Physics, German Aerospace Center 2022.   
