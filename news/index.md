@@ -6,6 +6,12 @@ title: News
 
 ### 2023
 
+May: UNAVCO RESESS intern Shradha Ravikumar will be joining SIMlab!
+
+April: [AGU Bridge time](https://www.agu.org/bridge-program)! Goodluck to all applicants! 
+
+March: Prospective student visits at EAS! Artist Diya Patel and Lily Chisholm are showcasing their art pieces based on research at Sim Lab at the [Atlanta Science Festival](https://atlantasciencefestival.org/)!
+
 February: Dr Joyce Sim will be giving an invited seminar at Caltech. 
 
 January: Happy new year! Dr Joyce Sim will be giving an invited seminar at Western Washington University. 
