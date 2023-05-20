@@ -76,3 +76,4 @@ Similar to ice on Earth, there are icy environments in other planetary systems s
 
 ### Other fun stuff
 * [Science.Art.Wonder](https://sciartwonderatl.wixsite.com/sawatl)!
+* [Math Magazine](https://joycesim.github.io/image/Mathmagazine.pdf) by 8th Grader Mary Jones
