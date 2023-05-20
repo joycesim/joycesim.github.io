@@ -3,11 +3,12 @@ layout: default
 title: Group
 ---
 # {{page.title}}
+AKA The SIMulators
 
 ### Dr Shi Joyce Sim (PI, She/her)
 <img src="/image/Profile3.JPG" alt="Kamchatka 2013" title="Kamchatka 2013." width="500" />
 
-I am a geodynamicist working on two-phase flow magma dynamics at tectonic boundaries such as subduction zones and mid-ocean ridges and am expanding this research into the planetary realm. I am a research scientist at the School of Earth and Atmospheric Sciences at Georgia Institute of Technology. At Scripps Institution of Oceanography, I worked on understanding the depth of mid-ocean ridges through Earth's evolution and the two-phase study of melt focusing at mid-ocean ridges with advisors Dave Stegman, James Day and Marc Spiegelman. As a Deep Carbon Observatory (DCO) postdoctoral fellow at Carnegie Institution for Science, I worked on carbon fluxes at subduction zones employing a combination of two phase flow and geochemical thermodynamics with the late Erik Hauri. [CV](https://joycesim.github.io/cv/)
+I am a geodynamicist working on two-phase flow magma dynamics at tectonic boundaries such as subduction zones and mid-ocean ridges and am expanding this research into the planetary realm. Currently, I am a research scientist at the School of Earth and Atmospheric Sciences at Georgia Institute of Technology. At Scripps Institution of Oceanography, I worked on understanding the depth of mid-ocean ridges through Earth's evolution and the two-phase study of melt focusing at mid-ocean ridges with advisors Dave Stegman, James Day and Marc Spiegelman. As a Deep Carbon Observatory (DCO) postdoctoral fellow at Carnegie Institution for Science, I worked on carbon fluxes at subduction zones employing a combination of two phase flow and geochemical thermodynamics with the late Erik Hauri. [My CV is here.](https://joycesim.github.io/cv/)
 
 * [ORCID](https://orcid.org/0000-0002-2469-1665)
 * [Google Scholar](https://scholar.google.com/citations?user=u2L2NLEAAAAJ&hl=en&authuser=1)
@@ -31,7 +32,7 @@ Shradha Ravikumar is a recent graduate of Arizona State University (B.S. Astrobi
 ### [Your name and picture here! Join us!]
 
 ## Alumni
-### Rosen Ting-Ying Yu (Georgia Tech Undergraduate research Fall 2021 -- Spring 2023) PURA award Fall 2022 - Onwards to PhD at MIT
+### Rosen Ting-Ying Yu (Georgia Tech Undergraduate research Fall 2021 -- Spring 2023) PURA award Fall 2022 - Onwards to graduate school at MIT
 I am a junior at Georgia Tech majoring in Electrical Engineering. My passion for computational simulations and eath science inspired me to apply my engineering background to learn more about the geophysics of the Earth. [Website](https://rosenyu304.github.io/)
 
 ### Allen Moore (Georgia Tech Undergraduate research Spring 2022 -- Fall 2022) PURA award Fall 2022
