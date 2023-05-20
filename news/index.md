@@ -6,7 +6,7 @@ title: News
 
 ### 2023
 
-May: UNAVCO RESESS intern Shradha Ravikumar will be joining SIMlab!
+May: UNAVCO RESESS intern Shradha Ravikumar will be joining SIMlab! Mary Jones from Chamblee Middle School interviews Dr Joyce Sim for their Math Magazine!
 
 April: [AGU Bridge time](https://www.agu.org/bridge-program)! Goodluck to all applicants! 
 
