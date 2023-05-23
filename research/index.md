@@ -55,6 +55,7 @@ Similar to ice on Earth, there are icy environments in other planetary systems s
 * [Extreme Science and Engineering Discovery Environment (XSEDE)](https://www.xsede.org/)
 * [National Science Foundation (NSF)](https://www.nsf.gov/), [NSF Resource Center](https://nsfpolicyoutreach.com/resource-center/), [NSF Active CSEDI Awards](https://www.nsf.gov/awardsearch/advancedSearchResult?PIId=&PIFirstName=&PILastName=&PIOrganization=&PIState=&PIZip=&PICountry=&ProgOrganization=&ProgEleCode=1585&BooleanElement=All&ProgRefCode=&BooleanRef=All&Program=&ProgOfficer=&Keyword=&AwardNumberOperator=&AwardAmount=&AwardInstrument=&ActiveAwards=true&OriginalAwardDateOperator=&StartDateOperator=&ExpDateOperator=)
 * [National Aeronautics and Space Administration (NASA)](https://www.nasa.gov/)
+* [Nature Racism special issue](https://www.nature.com/immersive/d42859-022-00031-8/index.html)
 
 ### Workshops
 * [Ada Lovelace Workshop](https://www.egu.eu/gd/meetings/conference-series/ada-lovelace-workshops-on-modelling-mantle-and-lithosphere-dynamics/)
