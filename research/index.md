@@ -55,13 +55,12 @@ Similar to ice on Earth, there are icy environments in other planetary systems s
 * [Extreme Science and Engineering Discovery Environment (XSEDE)](https://www.xsede.org/)
 * [National Science Foundation (NSF)](https://www.nsf.gov/), [NSF Resource Center](https://nsfpolicyoutreach.com/resource-center/), [NSF Active CSEDI Awards](https://www.nsf.gov/awardsearch/advancedSearchResult?PIId=&PIFirstName=&PILastName=&PIOrganization=&PIState=&PIZip=&PICountry=&ProgOrganization=&ProgEleCode=1585&BooleanElement=All&ProgRefCode=&BooleanRef=All&Program=&ProgOfficer=&Keyword=&AwardNumberOperator=&AwardAmount=&AwardInstrument=&ActiveAwards=true&OriginalAwardDateOperator=&StartDateOperator=&ExpDateOperator=)
 * [National Aeronautics and Space Administration (NASA)](https://www.nasa.gov/)
-* [Nature Racism special issue](https://www.nature.com/immersive/d42859-022-00031-8/index.html)
 
 ### Workshops
 * [Ada Lovelace Workshop](https://www.egu.eu/gd/meetings/conference-series/ada-lovelace-workshops-on-modelling-mantle-and-lithosphere-dynamics/)
 * [Cooperative Institute for Dynamic Earth Research (CIDER)](https://www.deep-earth.org/)
 
-### Lectures/Tutorials
+### Lectures/Tutorials/Articles
 * 50 years of Plate Tectonics: [Parisian Collège de France 2018](https://www.college-de-france.fr/site/barbara-romanowicz/symposium-2018-06-26-11h00.htm), [Lamont 2016](https://www.ldeo.columbia.edu/news-events/events/plate-tectonics), [Geological Society](https://www.geolsoc.org.uk/wsmith17)
 * [ADVANCEGeo](https://serc.carleton.edu/advancegeo/resources/index.html): Empowering (geo)scientists to transform workplace climate
 * [National Parks and Plate Tectonics](https://www.nps.gov/subjects/geology/plate-tectonics.htm)
@@ -72,11 +71,12 @@ Similar to ice on Earth, there are icy environments in other planetary systems s
 * [Georgia Tech Vertical Integrated Project HPC](https://www.vip.gatech.edu/teams/team-phoenix-cluster-competition-team-hpc)
 * [Scientific Colormaps](https://www.mathworks.com/matlabcentral/fileexchange/68546-crameri-perceptually-uniform-scientific-colormaps)
 * ["Consistent Thermo- and Geo-dynamics" by Cian Wilson, Carnegie Science](https://www.youtube.com/watch?v=vM21WwjC69c)
+* [Nature Racism special issue](https://www.nature.com/immersive/d42859-022-00031-8/index.html)
 
 ### Writing
 * [Coursera: Writing in the Sciences (Stanford)](https://www.coursera.org/learn/sciwrite)
 * [Writing Effectively](https://www.youtube.com/watch?v=vtIzMaLkCaM)
 
-### Other fun stuff
+### Art/Outreach/Other fun stuff
 * [Science.Art.Wonder](https://sciartwonderatl.wixsite.com/sawatl)!
 * [Math Magazine](https://joycesim.github.io/image/Mathmagazine.pdf) by 8th Grader Mary Jones
