@@ -6,7 +6,7 @@ title: Group
 AKA The SIMulators
 
 ### Dr Shi Joyce Sim (PI, She/her)
-<img src="/image/Profile3.JPG" alt="Kamchatka 2013" title="Kamchatka 2013." width="500" />
+<img src="/image/Profile3.JPG" alt="Kamchatka 2013" title="Kamchatka 2013." width="300" />
 
 I am a geodynamicist working on two-phase flow magma dynamics at tectonic boundaries such as subduction zones and mid-ocean ridges and am expanding this research into the planetary realm. Currently, I am a research scientist at the School of Earth and Atmospheric Sciences at Georgia Institute of Technology. At Scripps Institution of Oceanography, I worked on understanding the depth of mid-ocean ridges through Earth's evolution and the two-phase study of melt focusing at mid-ocean ridges with advisors Dave Stegman, James Day and Marc Spiegelman. As a Deep Carbon Observatory (DCO) postdoctoral fellow at Carnegie Institution for Science, I worked on carbon fluxes at subduction zones employing a combination of two phase flow and geochemical thermodynamics with the late Erik Hauri. [My CV is here.](https://joycesim.github.io/cv/)
 
