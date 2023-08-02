@@ -83,19 +83,19 @@ d)     Emphasize the importance of regular communication (in both directions)
 Sometimes, students are unclear what they should be doing early in a project. This is normal. Talk with Joyce, talk with fellow group members.
 Joyce is here to develop overarching ideas and projects with you, and guide you when you run into barriers. Other members of the group are your primary resource if you need focused technical/coding help.
 In academia, it is important to be open to criticism. Criticism can be a difficult aspect of a PhD; many of the things you will work on become so important to you that it can be hard to maintain perspective. Feel free to talk out edits or critiques with other group members to create a plan of action if you feel overwhelmed.
-Work together to find a common agreement when conflict arises. If you ever need help with a workplace issue, talk to the labmates, but if you need further advocacy, you should reach out to the Contract Enforcement and Education Committee or the EPS Union Stewards.
+Work together to find a common agreement when conflict arises. If you ever need help with a workplace issue, talk to the labmates, but if you need further advocacy, you should reach out to the EAS admin or the ombudsperson.
 
 OTHER
 
 a)     Funding
 
-You will be supported for a guaranteed 5 years while in EPS. Your support will likely come from a mixture of TA/RA and fellowship funds.
+You will be supported for a guaranteed 5 years while in EAS, Georgia Tech. Your support will likely come from a mixture of TA/RA and fellowship funds.
 Especially in your 1st year, you are expected to apply for external fellowships, for example, NASA, NSF GRFP, Hertz  (though it can be harder to find options if you are an international student).
 
 b)    Good practices
 
 It is important to have strong integrity and honesty in your work – never skewing, biasing or misrepresenting results to fit a previous idea. 
-Backing up your work at least once a week is also crucial. Consider backing up your organized files with a README when you’re done, so that future students can use the data. You could, for example, use Dropbox or GoogleDrive (free to Harvard students!) for the ease of storage and backups that allow access across multiple computers and users. You should also consider backing up your laptop/data to an external harddrive.
+Backing up your work at least once a week is also crucial. Consider backing up your organized files with a README when you’re done, so that future students can use the data. You could, for example, use Dropbox (free to Tech students) for the ease of storage and backups that allow access across multiple computers and users. You should also consider backing up your laptop/data to an external harddrive.
 
 c)     Note taking
 
@@ -106,7 +106,7 @@ You should use a citation management software, like Zotero, EndNote, or BibTeX, 
 d)    Coauthorship
 
 You will be an author on a published paper if you have provided a substantial portion of the intellectual and physical work involved, and have completed your portion of the work satisfactorily. This involves participation both in the writing and the research work involved.
-You will be first-author if you contributed the majority of the intellectual effort and completed the project, including the writing. Academics often get attached to ‘this is my idea’ and people have imperfect memories so we encourage an open dialogue about who contributed to an idea being born, developed and brought to fruition. Article 9 of our Union contract covers intellectual property and scholarly/research conduct.
+You will be first-author if you contributed the majority of the intellectual effort and completed the project, including the writing. Academics often get attached to ‘this is my idea’ and people have imperfect memories so we encourage an open dialogue about who contributed to an idea being born, developed and brought to fruition. 
 
 FINAL THOUGHTS
 
