@@ -91,7 +91,7 @@ Joyce is here to develop overarching ideas and projects with you, and guide you 
 In academia, it is important to be open to criticism. Criticism can be a difficult aspect of a PhD; many of the things you will work on become so important to you that it can be hard to maintain perspective. Feel free to talk out edits or critiques with other group members to create a plan of action if you feel overwhelmed.
 Work together to find a common agreement when conflict arises. If you ever need help with a workplace issue, talk to the labmates, but if you need further advocacy, you should reach out to the EAS admin or the ombudsperson.
 
-## OTHER
+## OTHERS
 
 ### a)     Funding
 
