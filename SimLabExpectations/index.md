@@ -50,7 +50,7 @@ Regard graduate school as a full-time job (with room for both vacations and over
 
 ### f)     Vacation policy
 
-You will take vacations because you are being paid as a full-time graduate student. Joyce is happy to discuss longer-than-average vacations with students, depending on your particular situation.
+You will take vacations because you are being paid as a full-time graduate student. Joyce is happy to discuss longer-than-average vacations with students, depending on your particular situation. Joyce will be away in Malaysia almost annually. 
 You are expected to work during academic ‘holidays’ such as reading break. However, you are not expected to work during official University holidays and recesses -- look up the Georgia Tech Academic Calendar.
 
 ### g)    Balancing formal teaching and informal outreach activities with research time
