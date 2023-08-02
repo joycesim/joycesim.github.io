@@ -1,59 +1,62 @@
-
 This document gives an idea of what is expected of you as a SimLab student, and what you can expect of Joyce as an advisor. 
 Everyone is different and so is their PhD experience. 
 This document is meant to be a guide that is accompanied by ongoing conversations between Joyce and yourself/your peers about your progress and goals. 
 
-If something is not addressed below, or if you’re not sure about something, ask someone!
+If something is not addressed below, or if you’re not sure about something, please ask!
 
 THE BASICS
 
 a)     The importance of self-motivation and independent initiative
 
 The time commitment to research tends to be one of the most important issues for graduate students and advisors. Set specific goals and timetables for yourself. Working hard is not the same as accomplishing something (work smarter not harder). Make sure you set a goal and adjust your strategy as necessary (e.g., with teaching load, coursework, life!) to meet it.
-Planning for sufficient work time takes priority. When setting meetings, appointments, office hours, or section meeting times, avoid breaking up your primary working hours. You may be a night owl (like Jerry) or you may be a morning person. You have the responsibility and privilege to arrange your schedule in such a way that best suits your working style.  
+Planning for sufficient work time takes priority. When setting meetings, appointments, office hours, or section meeting times, avoid breaking up your primary working hours. You may be a night owl or you may be a morning person (like Joyce who is also a random night owl). You have the responsibility and privilege to arrange your schedule in such a way that best suits your working style.  
 Be proactive about eliminating bottlenecks to progress. Do you need to meet with someone who is generally unavailable? Shoot them an email ASAP. Meanwhile, work on other tasks at hand.
 It can be difficult to know how to divide your time between reading and writing papers and your research. Most people underestimate how long writing and reading takes. 
 “Time is the *only irreplaceable resource” (*except for your life and health – work efficiently, but always be safe!)
 
 b)    Measures of productivity – what are the benchmarks for progress?
 
-A PhD from EPS takes ~5 years. 
-Jerry will do his best to make sure that you graduate within this time frame.
+A PhD from Georgia Tech takes ~5 years. 
+Joyce will do her best to make sure that you graduate within this time frame.
 Everyone except 1st year graduate students should have something new/presentable (e.g. a paper, a conference presentation, exciting results) every semester.
-The department requires a formal annual report outlining goals and progress. 
+You will take qualifying exam at the end of the second year. 
+The department requires an informal annual evaluation outlining goals and progress. 
 Meet with your committee members at least once per year post qualifying exam.
-You should plan on writing a manuscript-based thesis that will have 3-4 papers that will be submitted to journals while you are still here. 
-Jerry will work closely with you to plan/outline figures and content and then will review complete drafts once finished. 
-The length of the paper and journal selection will depend on the research subject, but we generally aim for high-impact journals.
+You should plan on writing a manuscript-based thesis that amounts to at least 3 papers that will be submitted to journals. 
+Joyce will work closely with you to plan/outline figures and content and then will review complete drafts once finished. 
 
 c)     Which and how many courses, and when to take them
 
-First years typically take 2-3 courses each semester. Most students finish their required courses by the end of their third year. Try to finish your math requirements in your first three semesters (before your qualifying exam).
-Unless you’ve finished your course requirements, take every graduate level course Jerry teaches (Sea Level, Geophysics, etc.).
-On the whole, graduate school represents a transition to research-based work, away from course-based work typical of an undergrad.
+First years typically take 2-3 courses each semester.
+There are no set course list but there is a set knowledge list that you will try to take classes to fulfil for your qualifying exam in your second year.
+Aim for a well-rounded education of Earth Science and classes that will help with your research. 
+Joyce will be happy to discuss with you on what classes to take. 
 
 d)    How frequently to attend seminars, reading groups, and other academic activities
 
-Required: Monday Colloquium and Wednesday BiSEPPS (Biweekly Seminar in Earth, Planetary, and Physical Sciences) seminar (if it is being given that week)
-Recommended: Tuesday GIGGLES (Grads In Geosciences Getting Lunch Explaining Science), Thursday GSPD (Graduate Student / Postdoc seminar)
-Optional: Tuesday ClimaTea, Friday Planetary Journal Club, etc.
+Required: Weekly Thursday Department seminar and Geophysics Friday seminar
+Recommended: Explorigins 
+
 e)     Expected working hours
 
 This is a work environment, where you are expected to be on task for the number of hours equivalent to a standard work day. In practical terms, however, you will find that the job of being a scientist does not always conform to standard hours.  
-Working by yourself at night: night-time hours by yourself can be necessary, but use good judgment.
-Regard graduate school as a full-time job (with room for both vacations and overtime). You should work a 40 hour work week on average in a given semester. On the subject of ‘overtime’, there will probably be times when you will need to work on weekends if a deadline is near. You should familiarize yourself with the Workload Article of our Union’s contract, which outlines your rights with regards to working hours. However, be aware the distinction between academic (e.g., coursework) and research work is nebulous.
+Regard graduate school as a full-time job (with room for both vacations and overtime). You should work a 40 hour work week on average in a given semester. On the subject of ‘overtime’, there will probably be times when you will need to work on weekends if a deadline is near.
+
 f)     Vacation policy
 
-You will take vacations because you are being paid as a full-time graduate student. Jerry is happy to discuss longer-than-average vacations with students, depending on your particular situation.
-You are expected to work during academic ‘holidays’ such as reading break. However, you are not expected to work during official University holidays and recesses -- you should familiarize yourself with the Holidays, Personal Days, and Vacation Article of our Contract for vacations standards and a list of holidays we take off.
+You will take vacations because you are being paid as a full-time graduate student. Joyce is happy to discuss longer-than-average vacations with students, depending on your particular situation.
+You are expected to work during academic ‘holidays’ such as reading break. However, you are not expected to work during official University holidays and recesses -- look up the Georgia Tech Academic Calendar.
+
 g)    Balancing formal teaching and informal outreach activities with research time
 
 Teaching is an integral part of our education and an academic career. In semesters where you teach, you should adjust your expectations for research output.  It can be helpful to organize your time to allow at least one free day per week to work on research. 
-Many group members have been/are very outreach-focused. If you’re looking for ways to get involved in community and/or affinity organizations, don’t hesitate to ask.
+If you’re looking for ways to get involved in community and/or affinity organizations, don’t hesitate to ask.
+
 h)    Conference attendance – when and where?
 
-Pre COVID-19, we always attended the American Geophysical Union science meeting in December.
-PALSEA, ASPECT Hackathon, IUGG (International Union on Geodesy and Geophysics), EGU (European Geophysical Union), and GCC (Graduate Climate Conference) are other common conferences the group attends.
+We tend to attend the American Geophysical Union science meeting in December or the biannual Ada Lovelace workshop in Europe.
+Other conferences/workshops are the SEDI Gordon conference and European Geophysical Union (EGU). 
+
 ESTABLISHING LINES OF COMMUNICATION
 
 a)     Group Meetings/lunch – how frequently
@@ -67,7 +70,7 @@ b)    Individual Meetings – how frequently
 
 Each term, try to sit down together with Joyce and identify reasonable goals to be completed by the end of that term. 
 Write these goals down and revisit them periodically. 
-Weekly standing meetings that can increase or decrease in frequencies as needed. 
+Expect weekly standing meetings that can increase or decrease in frequencies as needed. 
 
 c)     Email – degree of mutual accessibility – will it include after hours and/or weekends?
 
@@ -77,8 +80,8 @@ Joyce will try her best to do so as well but if you have something urgent, it is
 
 d)     Emphasize the importance of regular communication (in both directions)
 
-Sometimes, students are unclear what they should be doing early in a project. This is normal. Talk with Jerry, talk with fellow group members.
-Jerry is here to develop overarching ideas and projects with you, and guide you when you run into barriers. Other members of the group are your primary resource if you need focused technical/coding help.
+Sometimes, students are unclear what they should be doing early in a project. This is normal. Talk with Joyce, talk with fellow group members.
+Joyce is here to develop overarching ideas and projects with you, and guide you when you run into barriers. Other members of the group are your primary resource if you need focused technical/coding help.
 In academia, it is important to be open to criticism. Criticism can be a difficult aspect of a PhD; many of the things you will work on become so important to you that it can be hard to maintain perspective. Feel free to talk out edits or critiques with other group members to create a plan of action if you feel overwhelmed.
 Work together to find a common agreement when conflict arises. If you ever need help with a workplace issue, talk to the labmates, but if you need further advocacy, you should reach out to the Contract Enforcement and Education Committee or the EPS Union Stewards.
 
