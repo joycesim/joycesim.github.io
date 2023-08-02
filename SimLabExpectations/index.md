@@ -1,3 +1,9 @@
+---
+layout: default
+title: Sim Lab Expectations
+---
+# {{page.title}}
+
 This document gives an idea of what is expected of you as a SimLab student, and what you can expect of Joyce as an advisor. 
 Everyone is different and so is their PhD experience. 
 This document is meant to be a guide that is accompanied by ongoing conversations between Joyce and yourself/your peers about your progress and goals. 
