@@ -39,18 +39,18 @@ Aim for a well-rounded education of Earth Science and classes that will help wit
 Joyce will be happy to discuss with you on what classes to take. 
 
 Recommended classes:    
-Earth System Modeling - 86150 - EAS 6130 - A.  
-Special Topics - 93277 - EAS 8802 - COM (2 credits) - Practical Math coding course.    
-Earthquake Physics - 93439 - EAS 6316 - A.   
-Intro Research & Ethics - 91153 - EAS 6000 - A (1 credit).   
+Earth System Modeling - 86150 - EAS 6130 - A   
+Special Topics - 93277 - EAS 8802 - COM (2 credits) - Practical Math coding course     
+Earthquake Physics - 93439 - EAS 6316 - A    
+Intro Research & Ethics - 91153 - EAS 6000 - A (1 credit)     
 
 Required seminar (both single credit seminars):    
-Seminar - 91849 - EAS 8001 - GEO.   
-Geophysics Seminar - 85402 - EAS 8001 - AVN.   
+Seminar - 91849 - EAS 8001 - GEO    
+Geophysics Seminar - 85402 - EAS 8001 - AVN    
 
-Classes to consider:  
-Introduction to Fluid Mechanics - 94307 - ME 6601 - B   
-Fluid Mechanics - ME 3340 - A,B,C,D   
+Classes to consider:    
+Introduction to Fluid Mechanics - 94307 - ME 6601 - B     
+Fluid Mechanics - ME 3340 - A,B,C,D     
 
 ### d)    How frequently to attend seminars, reading groups, and other academic activities
 
