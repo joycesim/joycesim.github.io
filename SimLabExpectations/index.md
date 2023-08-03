@@ -48,6 +48,10 @@ Required seminar (both single credit seminars):
 Seminar - 91849 - EAS 8001 - GEO.   
 Geophysics Seminar - 85402 - EAS 8001 - AVN.   
 
+Classes to consider:
+Introduction to Fluid Mechanics - 94307 - ME 6601 - B
+Fluid Mechanics - ME 3340 - A,B,C,D
+
 ### d)    How frequently to attend seminars, reading groups, and other academic activities
 
 Required: Weekly Thursday Department seminar and Geophysics Friday seminar
