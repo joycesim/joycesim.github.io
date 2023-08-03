@@ -54,8 +54,8 @@ Fluid Mechanics - ME 3340 - A,B,C,D
 
 ### d)    How frequently to attend seminars, reading groups, and other academic activities
 
-Required: Weekly Thursday Department seminar and Geophysics Friday seminar
-Recommended: Explorigins 
+Required: Weekly Thursday Department seminar and Geophysics Friday seminar    
+Recommended: Explorigins     
 
 ### e)     Expected working hours
 
