@@ -6,7 +6,9 @@ title: News
 
 ### 2023
 
-June: Dr Joyce Sim will be lecturing at [Cooperative Institute for Dynamic Earth Research (CIDER)](https://www.deep-earth.org/summer23)! This year's topic is Causes and consequences of fluid and magma transport at plate boundaries. 
+August: We welcome new graduate students Brandon Lopez and Chazerae Pierce-Walker (Ayo) to the team! 
+
+June/July: Dr Joyce Sim will be lecturing at [Cooperative Institute for Dynamic Earth Research (CIDER)](https://www.deep-earth.org/summer23)! This year's topic is Causes and consequences of fluid and magma transport at plate boundaries. 
 
 May: UNAVCO RESESS intern Shradha Ravikumar will be joining SIMlab! Mary Jones from Chamblee Middle School interviews Dr Joyce Sim for their [Math Magazine](https://joycesim.github.io/image/Mathmagazine.pdf)! [This article in Nature](https://doi.org/10.1038/d41586-023-01623-8)!
 
