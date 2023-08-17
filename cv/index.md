@@ -34,7 +34,7 @@ Microseismic signatures of hurricane Ioke and hurricane Katrina.
 **Undergraduate Research Assistant, University of California, San Diego, 2010 - 2011**.  
 Crust project, data compilation of crustal thicknesses from seismic reflection surveys.   
 
-## STUDENTS
+## UNDERGRADUATE STUDENTS
 **Ting-Ying Yu, Rosen** (ECE, Georgia Tech) Fall 2021-Spring 2023.   
 *PURA award (Fall 2022); Future PhD student at MIT*.   
 **Allen Moore** (Physics, Georgia Tech) Spring 2022-Fall 2022.   
@@ -45,6 +45,10 @@ Crust project, data compilation of crustal thicknesses from seismic reflection s
 *Current Masters student at Georgia Tech*.   
 **Keneni Godana** (University of Illinois, Chicago) Summer 2021.   
 *EAS-REU and CIG-SMOREs program; Current PhD student at UCSC*.   
+
+## GRADUATE STUDENTS
+**Brandon Lopez** Fall 2023 - present.   
+**Chazerae (Ayo) Pierce-Walker** Fall 2023 - present.    
 
 ## POSTDOCTORAL SCHOLARS
 **Dr Mitchell McMillan** May 2022 - present.   
