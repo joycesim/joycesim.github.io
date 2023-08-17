@@ -32,7 +32,7 @@ I am a geologist interested in the interactions among tectonics, lithology, and 
 ### [Your name and picture here! Join us!]
 
 ## Alumni
-### Shradha Ravikumar (Summer UNAVCO RESESS Programme 2023)
+### Shradha Ravikumar (Summer UNAVCO RESESS Programme 2023) -- Onwards to intern program at Lamont-Doherty Earth Observatory, Columbia University
 Shradha Ravikumar is a recent graduate of Arizona State University (B.S. Astrobiology & Biogeosciences). She is interested in studying how the Earth evolved into a habitable planet from a geologic perspective. She will be doing geodynamics modeling at Georgia Tech, and she will present the results of this research at the 2023 AGU Fall Meeting.
 
 ### Rosen Ting-Ying Yu (Georgia Tech Undergraduate research Fall 2021 -- Spring 2023) PURA award Fall 2022 - Onwards to graduate school at MIT
