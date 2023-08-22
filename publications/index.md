@@ -8,9 +8,9 @@ Please email me (jssim at eas dot gatech dot edu) for paper if you have trouble 
 
 [5] A. Robel, **S.J. Sim**, C. Meyer, M. Siegfried, C. Gustafson (2023) Contemporary Ice Sheet Thinning Drives Subglacial Groundwater Exfiltration, *Science Advances*, [https://www.science.org/doi/10.1126/sciadv.adh3693](https://www.science.org/doi/10.1126/sciadv.adh3693). 
 
-[4] **S.J. Sim**, (2022) Persistent magma-rich waves beneath mid-ocean ridges explain long periodicity on ocean floor fabric, *Geophysical Research Letters*,[https://doi.org/10.1029/2022GL098110](https://doi.org/10.1029/2022GL098110).
+[4] **S.J. Sim**, (2022) Persistent magma-rich waves beneath mid-ocean ridges explain long periodicity on ocean floor fabric, *Geophysical Research Letters*, [https://doi.org/10.1029/2022GL098110](https://doi.org/10.1029/2022GL098110).
 
-[3] R. Parnell-Turner, **S.J. Sim**, J.A. Olive, (2020) Time-dependent crustal accretion on the Southeast Indian Ridge from Malaysia Airlines flight MH370 search data, *Geophysical Research Letters*,  [https://doi.org/10.1029/2020GL087349](https://doi.org/10.1029/2020GL087349).  
+[3] R. Parnell-Turner, **S.J. Sim**, J.A. Olive, (2020) Time-dependent crustal accretion on the Southeast Indian Ridge from Malaysia Airlines flight MH370 search data, *Geophysical Research Letters*, [https://doi.org/10.1029/2020GL087349](https://doi.org/10.1029/2020GL087349).  
 
 [2] **S.J. Sim**, M. Spiegelman, D.R. Stegman, C. Wilson, (2020) Influence of permeability and spreading rate on melt focusing beneath mid-ocean ridges, *Physics of the Earth and Planetary Interiors*, [https://doi.org/10.1016/j.pepi.2020.106486](https://doi.org/10.1016/j.pepi.2020.106486).  
 
