@@ -18,21 +18,15 @@ Please note that this document represents our vision for our group's vision, cul
 ### Cultivating an inclusive, safe and nurturing group culture
 The pursuit of enjoyable and high-quality research can only thrive in an environment where you feel safe, secure, and supported. To this end, all members of our group are unwaveringly committed to fostering an environment free of harassment, regardless of factors such as gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, and religion. We unequivocally prohibit all forms of harassment involving our group members and expect every community member to adhere to the following Code of Conduct:
 
-    All forms of communication, whether in person or online, must maintain a professional tone and show consideration for individuals from diverse cultural backgrounds. Sexual language and imagery are never appropriate.
-
-    Demonstrate kindness and refrain from insulting or belittling fellow group members.
-
-    Maintain professionalism at all times. Offensive jokes, harassment, sexism, racism, and exclusionary behavior are not acceptable.
-
-    Harassment encompasses offensive verbal comments related to gender, sexual orientation, disability, physical appearance, body size, race, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of discussions, inappropriate physical contact, and unwelcome sexual attention.
-
-    Individuals requested to cease any harassing behavior are expected to comply promptly.
-
-    Contribute to meetings with a constructive and positive attitude, fostering meaningful discussions.
-
-    Be mindful not to talk over others during group discussions, and be receptive to the ideas of your peers. Speaking over others disrupts the flow of communication and may make others feel undervalued. To promote productive discussions and ensure everyone's voice is heard:
-        Wait for others to pause or finish their thoughts before speaking or making gestures.
-        Allow sufficient pauses between thoughts or explicitly invite others to respond, creating an inclusive atmosphere where all contributions are encouraged and respected.
++ All forms of communication, whether in person or online, must maintain a professional tone and show consideration for individuals from diverse cultural backgrounds. Sexual language and imagery are never appropriate.
++ Demonstrate kindness and refrain from insulting or belittling fellow group members.
++ Maintain professionalism at all times. Offensive jokes, harassment, sexism, racism, and exclusionary behavior are not acceptable.
++ Harassment encompasses offensive verbal comments related to gender, sexual orientation, disability, physical appearance, body size, race, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of discussions, inappropriate physical contact, and unwelcome sexual attention.
++ Individuals requested to cease any harassing behavior are expected to comply promptly.
++ Contribute to meetings with a constructive and positive attitude, fostering meaningful discussions.
++ Be mindful not to talk over others during group discussions, and be receptive to the ideas of your peers. Speaking over others disrupts the flow of communication and may make others feel undervalued. To promote productive discussions and ensure everyone's voice is heard:
+    - Wait for others to pause or finish their thoughts before speaking or making gestures.
+    - Allow sufficient pauses between thoughts or explicitly invite others to respond, creating an inclusive atmosphere where all contributions are encouraged and respected.
 
 ### Mental health
 There is a growing body of evidence indicating that various aspects of research can pose challenges to your mental well-being. These specific factors include:
