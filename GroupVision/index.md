@@ -107,9 +107,21 @@ If you’re looking for ways to get involved in community and/or affinity organi
 We tend to attend the American Geophysical Union science meeting in December or the biannual Ada Lovelace workshop in Europe.
 Other conferences/workshops are the SEDI Gordon conference and European Geophysical Union (EGU). 
 
+### i) Journals
+Be familiar with recently published material relevant to your research project. Below are some academic journals that may be of interest:
+
++ Journal of Geophysical Research - Solid Earth/Planets
++ Geophysical Research Letters
++ Nature Geoscience
++ Nature
++ Science
++ Proceedings of the National Academy of Sciences
+
+Do sign up for ‘mail alerts’ from specific journals and more general publication ‘feeds’ (e.g. Google Scholar or Web of Science); by doing this, you can be kept informed of newly published literature related to your studies. If there is anything interesting, you can always bring it up for journal club! 
+
 ## ESTABLISHING LINES OF COMMUNICATION
 
-### a)     Group Meetings/lunch – how frequently
+### a)     Group Meetings/lunch/Journal – how frequently
 
 We generally have alternating group meetings once every two weeks and group lunch once a month. 
 Everyone can discuss their progress, problems, and goals during the group meetings and more informally during group lunch.
@@ -157,6 +169,10 @@ You should use a citation management software, like Zotero, EndNote, or BibTeX, 
 
 You will be an author on a published paper if you have provided a substantial portion of the intellectual and physical work involved, and have completed your portion of the work satisfactorily. This involves participation both in the writing and the research work involved.
 You will be first-author if you contributed the majority of the intellectual effort and completed the project, including the writing. Academics often get attached to ‘this is my idea’ and people have imperfect memories so we encourage an open dialogue about who contributed to an idea being born, developed and brought to fruition. 
+
+### e) Individual Development Plan (IDP)
+
+An Individual Development Plan (IDP) is essentially a roadmap that helps you pinpoint your existing strengths and the ones you aspire to cultivate in the coming semester or years. When you collaborate with Joyce, you'll complete an initial IDP, and then make periodic revisions as needed. This document serves as a valuable tool for reflection, allowing you to define your objectives and effectively communicate them to Joyce for ongoing support and follow-up. It encourages a structured and thoughtful approach to personal and professional growth.
 
 ## FINAL THOUGHTS
 
