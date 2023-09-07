@@ -4,11 +4,52 @@ title: SimLab Group Vision
 ---
 # {{page.title}}
 
-This document gives an idea of what is expected of you as a SimLab student, and what you can expect of Joyce as an advisor. 
-Everyone is different and so is their PhD experience. 
+This living document gives an idea of what it is like to be part of SimLab along with some expectations, and what you can expect of Joyce as an advisor. 
+Everyone is different and so is their academic experience. 
 This document is meant to be a guide that is accompanied by ongoing conversations between Joyce and yourself/your peers about your progress and goals. 
 
 If something is not addressed below, or if you’re not sure about something, please ask!
+
+## OVERVIEW
+First of all, we value the active participation of every member within our community and are committed to ensuring that everyone enjoys a gratifying and enriching experience, both in their professional and personal capacities. As such, we hold all members of the SimLab group accountable to display respect and courtesy towards others at all times. Our collective actions shape our culture, and our culture thrives on inclusivity.
+
+Please note that this document represents our vision for our group's vision, culture and objectives. It does not replace any relevant School- or College-level policies pertaining to your specific level of employment or study, but rather complements them.
+
+### Cultivating an inclusive, safe and nurturing group culture
+The pursuit of enjoyable and high-quality research can only thrive in an environment where you feel safe, secure, and supported. To this end, all members of our group are unwaveringly committed to fostering an environment free of harassment, regardless of factors such as gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, and religion. We unequivocally prohibit all forms of harassment involving our group members and expect every community member to adhere to the following Code of Conduct:
+
+    All forms of communication, whether in person or online, must maintain a professional tone and show consideration for individuals from diverse cultural backgrounds. Sexual language and imagery are never appropriate.
+
+    Demonstrate kindness and refrain from insulting or belittling fellow group members.
+
+    Maintain professionalism at all times. Offensive jokes, harassment, sexism, racism, and exclusionary behavior are not acceptable.
+
+    Harassment encompasses offensive verbal comments related to gender, sexual orientation, disability, physical appearance, body size, race, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of discussions, inappropriate physical contact, and unwelcome sexual attention.
+
+    Individuals requested to cease any harassing behavior are expected to comply promptly.
+
+    Contribute to meetings with a constructive and positive attitude, fostering meaningful discussions.
+
+    Be mindful not to talk over others during group discussions, and be receptive to the ideas of your peers. Speaking over others disrupts the flow of communication and may make others feel undervalued. To promote productive discussions and ensure everyone's voice is heard:
+        Wait for others to pause or finish their thoughts before speaking or making gestures.
+        Allow sufficient pauses between thoughts or explicitly invite others to respond, creating an inclusive atmosphere where all contributions are encouraged and respected.
+
+### Mental health
+There is a growing body of evidence indicating that various aspects of research can pose challenges to your mental well-being. These specific factors include:
+
+    Low Pay and Quality-of-Life Concerns: This is particularly evident when factoring in the cost of living in Atlanta.
+
+    Feelings of Isolation: Research can often be an isolated endeavor, where each individual pursues their unique topic, leading to a sense of working in isolation.
+
+    Uncertainty in Research: Research inherently involves uncertainty, not only in the outcomes but also in the formulation of the research questions themselves.
+
+    Career Uncertainty: The path in research careers can be uncertain and daunting.
+
+    Dealing with "Negative Results": In the course of your research, you may encounter questions that are more challenging to answer than initially expected, or you might feel that you've invested a significant amount of time with little visible progress.
+
+    Burnout: The pressure to compensate for these challenges can lead to burnout, as individuals may feel compelled to work excessive hours.
+
+It's important to recognize that most researchers encounter some level of these issues (Joyce can tell you all about it). Everyone in the group is strongly encouraged to proactively prioritize their mental well-being. Joyce will do everything necessary to make sure you have the necessary time and resources for achieving success in your research. If anything is causing undue stress or hindering your potential, please don't hesitate to reach out to Joyce or any of the postgraduate tutors in the department for assistance. Additionally, please familiarize yourself with the available resources on campus, which can be found at http://counseling.gatech.edu/. We are committed to helping you access the appropriate support networks to ensure your well-being.
 
 ## THE BASICS
 
@@ -137,4 +178,4 @@ creative problem solving and a sense of fearlessness about technical issues and 
 technical writing and presentation skills, a sense of professionalism and project management 
 to support colleagues and value a collegial, challenging, fun and interdisciplinary environment. 
 
-Adapted from [Jerry Mitrovica's group](https://mitrovica.eps.harvard.edu/group-expectations)
+Adapted from [Jerry Mitrovica's group](https://mitrovica.eps.harvard.edu/group-expectations) and [Alex Robel's group](https://docs.google.com/document/d/15qi4GBsAfotkzY7kvZrQu328zVv0gZFoO-ofWFRw3JY/edit)
