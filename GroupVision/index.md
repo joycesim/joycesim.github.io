@@ -4,7 +4,7 @@ title: SimLab Group Vision
 ---
 # {{page.title}}
 
-This living document gives an idea of what it is like to be part of SimLab along with some expectations, and what you can expect of Joyce as an advisor. 
+This living document gives an idea of what it is like to be a part of SimLab along with some expectations for you, and what you can expect of Joyce as an advisor. 
 Everyone is different and so is their academic experience. 
 This document is meant to be a guide that is accompanied by ongoing conversations between Joyce and yourself/your peers about your progress and goals. 
 
