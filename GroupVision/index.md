@@ -31,17 +31,12 @@ The pursuit of enjoyable and high-quality research can only thrive in an environ
 ### Mental health
 There is a growing body of evidence indicating that various aspects of research can pose challenges to your mental well-being. These specific factors include:
 
-    Low Pay and Quality-of-Life Concerns: This is particularly evident when factoring in the cost of living in Atlanta.
-
-    Feelings of Isolation: Research can often be an isolated endeavor, where each individual pursues their unique topic, leading to a sense of working in isolation.
-
-    Uncertainty in Research: Research inherently involves uncertainty, not only in the outcomes but also in the formulation of the research questions themselves.
-
-    Career Uncertainty: The path in research careers can be uncertain and daunting.
-
-    Dealing with "Negative Results": In the course of your research, you may encounter questions that are more challenging to answer than initially expected, or you might feel that you've invested a significant amount of time with little visible progress.
-
-    Burnout: The pressure to compensate for these challenges can lead to burnout, as individuals may feel compelled to work excessive hours.
++ Low Pay and Quality-of-Life Concerns: This is particularly evident when factoring in the cost of living in Atlanta.
++ Feelings of Isolation: Research can often be an isolated endeavor, where each individual pursues their unique topic, leading to a sense of working in isolation.
++ Uncertainty in Research: Research inherently involves uncertainty, not only in the outcomes but also in the formulation of the research questions themselves.
++ Career Uncertainty: The path in research careers can be uncertain and daunting.
++ Dealing with "Negative Results": In the course of your research, you may encounter questions that are more challenging to answer than initially expected, or you might feel that you've invested a significant amount of time with little visible progress.
++ Burnout: The pressure to compensate for these challenges can lead to burnout, as individuals may feel compelled to work excessive hours.
 
 It's important to recognize that most researchers encounter some level of these issues (Joyce can tell you all about it). Everyone in the group is strongly encouraged to proactively prioritize their mental well-being. Joyce will do everything necessary to make sure you have the necessary time and resources for achieving success in your research. If anything is causing undue stress or hindering your potential, please don't hesitate to reach out to Joyce or any of the postgraduate tutors in the department for assistance. Additionally, please familiarize yourself with the available resources on campus, which can be found at http://counseling.gatech.edu/. We are committed to helping you access the appropriate support networks to ensure your well-being.
 
