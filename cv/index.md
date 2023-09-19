@@ -53,23 +53,13 @@ Crust project, data compilation of crustal thicknesses from seismic reflection s
 ## POSTDOCTORAL SCHOLARS
 **Dr Mitchell McMillan** May 2022 - present.   
 
-## FIELD EXPERIENCE
-**Stillwater Intrusive Complex and the Columbia River Flood Basalt 2015**.  
-Collecting rock samples for geochemical analysis.  
-**[MIST Expedition 2014](https://scripps.ucsd.edu/expeditions/mist/)**.  
-Multibeam bathymetry, CHIRP, and sediment coring, 23 days at sea on R/V Revelle.  
-
-## TEACHING EXPERIENCE
-**EAS 3610: Introduction to Geophysics Fall 2022**.   
-Guest lecturer on \Overview of Geodynamics".   
-**Computational Infrastructure for Geodynamics Summer MOdeling Research Experiences (CIG SMOREs) Lecturer Summer 2021**.   
-Introduction to python in geodynamics, Magmatism.   
-**SIO10: The Earth Spring 2017**.    
-Teaching Assistant for Prof. Adrian Borsa.  
-**Guest lecture for GLADE: Parallel computing and using Paraview for visualization Summer 2016**.  
-Prof. Dave Stegman.  
-**SIO15: Natural Hazards Fall 2010**.  
-Teaching Assistant for Prof. Gabi Laske.  
+## PEER-REVIEWED PUBLICATIONS
+[6] **S.J. Sim**, M. Spiegelman, D.R. Stegman, C. Wilson (In revisions) M3LT: A new open source model to explore the dynamics of Melt in the Mantle beneath Mid-ocean ridge, *Geochem. Geophys. Geosyst.*.  
+[5] A. Robel, **S.J. Sim**, C. Meyer, M. Siegfried, C. Gustafson (2023) Contemporary Ice Sheet Thinning Drives Subglacial Groundwater Exfiltration.   
+[4] **S.J. Sim** (2022) Persistent magma-rich waves beneath mid-ocean ridges explain long periodicity on ocean floor fabric.  
+[3] R. Parnell-Turner, **S.J. Sim**, J.A. Olive, (2020) Time-dependent crustal accretion on the Southeast Indian Ridge from Malaysia Airlines flight MH370 search data, *Geophysical Research Letters*,  https://doi.org/10.1029/2020GL087349.  
+[2] **S.J. Sim**, M. Spiegelman, D.R. Stegman, C. Wilson, (2020) Influence of permeability and spreading rate on melt focusing beneath mid-ocean ridges, *Physics of the Earth and Planetary Interiors*, https://doi.org/10.1016/j.pepi.2020.106486.  
+[1] **S.J. Sim**, D.R. Stegman, N. Coltice, (2016) Influence of Continental growth on mid-ocean ridge depth, *Geochem. Geophys. Geosyst.*, 17 (11), 4425-4437,  https://doi.org/10.1002/2016GC006629.
 
 ## HONORS AND AWARDS
 **CIDER 2015 Group Research Proposal grant ($5,000) 2015**.  
@@ -77,35 +67,6 @@ Teaching Assistant for Prof. Gabi Laske.
 **Earth Science (B.S. Honors) Top of Class Award 2011**.  
 Thurgood Marshall College and Scripps Institution of Oceanography.  
 **AGU Outstanding Student Paper Award, Fall AGU meeting 2010**
-
-## PROFESSIONAL ACTIVITIES
-**Reviewer:** NSF, Geophysical research letters, Gcubed, Earth and Planetary Science Letters, Nature Geoscience, Science Advances, Geology, Geophysical Journal International.
-**Executive Secretary and Panelist**, NASA Solar Systems Workings ROSES.
-**MCS Steering Committee**, Subduction Zone 4D Modeling Collaboratory for Subduction RCN 2022.
-**Writing committee**, Rift2Ridge NSF-sponsored Workshop report 2022.
-**Co-Convenor**, Tectonic session on 'Connecting the Ins and Outs of Subduction Zones' (T41D, T43A, T44A, and T45B) 2021, *AGU Fall Meeting*.
-**Co-Organizer**, Rift2Ridge Workshop 2021, *Virtual*.      
-**Co-Organizer**, FEniCS conference 2019, *Carnegie Institution of Washington, Washington, DC*.      
-**Participant**, Gordon Research Conference Interior of the Earth 2019, *Mount Holyoke College, MA*.  
-**Invited presenter**, SZ4D Fluid migration modeling RCN 2019, *University of Minnesota, Minnesota*.  
-**Participant**, GeoPRISMS TEI Synthesis and Integration 2019, *San Antonio, Texas*.  
-**Participant**, Gordon Research Conference Deep Carbon Science 2018, *Bryant University, Smithfleld, RI*.  
-**Executive Secretary and Panelist**, NASA Solar Systems Workings ROSES 2018.  
-**Session co-chair**, DI session on 'Lithosphere-asthenosphere boundary' 2017, *Fall AGU meeting*.  
-**Participant**, Melt in the Mantle workshop 2016, *University of Cambridge, UK*.  
-**Participant**, San Diego Supercomputer Center Summer Institute 2015, *UC San Diego*.  
-**Participant**, CIDER summer program 2015, *UC Berkeley*.  
-**Participant**, Volcanology fleld trip to Kamchatka 2013, *University of Alaska, Fairbanks*.  
-**Participant**, Infrasound post-IAVCEI workshop 2013, *Kagoshima, Japan*.  
-**Co-organizer**, Earth Section Seminar 2013-2014, *Scripps Institution of Oceanography, UC San Diego*.  
-
-## PEER-REVIEWED PUBLICATIONS
-[6] **S.J. Sim**, M. Spiegelman, D.R. Stegman, C. Wilson (In revisions) M3LT: A new open source model to explore the dynamics of Melt in the Mantle beneath Mid-ocean ridge, *Geochem. Geophys. Geosyst.*.  
-[5] A. Robel, **S.J. Sim**, C. Meyer, M. Siegfried, C. Gustafson (In Press) Contemporary Ice Sheet Thinning Drives Subglacial Groundwater Exfiltration.   
-[4] **S.J. Sim** (2022) Persistent magma-rich waves beneath mid-ocean ridges explain long periodicity on ocean floor fabric.  
-[3] R. Parnell-Turner, **S.J. Sim**, J.A. Olive, (2020) Time-dependent crustal accretion on the Southeast Indian Ridge from Malaysia Airlines flight MH370 search data, *Geophysical Research Letters*,  https://doi.org/10.1029/2020GL087349.  
-[2] **S.J. Sim**, M. Spiegelman, D.R. Stegman, C. Wilson, (2020) Influence of permeability and spreading rate on melt focusing beneath mid-ocean ridges, *Physics of the Earth and Planetary Interiors*, https://doi.org/10.1016/j.pepi.2020.106486.  
-[1] **S.J. Sim**, D.R. Stegman, N. Coltice, (2016) Influence of Continental growth on mid-ocean ridge depth, *Geochem. Geophys. Geosyst.*, 17 (11), 4425-4437,  https://doi.org/10.1002/2016GC006629.
 
 ## INVITED PRESENTATIONS
 [25] [CIDER Lecturer](https://www.deep-earth.org/summer23), 2023.    
@@ -140,6 +101,45 @@ Thurgood Marshall College and Scripps Institution of Oceanography.
 **Team for Inclusion & Diversity in Education & Science (SIO)** 2012 - 2016.  
 **Mechanical Engineering Graduate Women group (UCSD)** 2014 - 2016.  
 
+## FIELD EXPERIENCE
+**Stillwater Intrusive Complex and the Columbia River Flood Basalt 2015**.  
+Collecting rock samples for geochemical analysis.  
+**[MIST Expedition 2014](https://scripps.ucsd.edu/expeditions/mist/)**.  
+Multibeam bathymetry, CHIRP, and sediment coring, 23 days at sea on R/V Revelle.  
+
+## TEACHING EXPERIENCE
+**EAS 3610: Introduction to Geophysics Fall 2022**.   
+Guest lecturer on \Overview of Geodynamics".   
+**Computational Infrastructure for Geodynamics Summer MOdeling Research Experiences (CIG SMOREs) Lecturer Summer 2021**.   
+Introduction to python in geodynamics, Magmatism.   
+**SIO10: The Earth Spring 2017**.    
+Teaching Assistant for Prof. Adrian Borsa.  
+**Guest lecture for GLADE: Parallel computing and using Paraview for visualization Summer 2016**.  
+Prof. Dave Stegman.  
+**SIO15: Natural Hazards Fall 2010**.  
+Teaching Assistant for Prof. Gabi Laske.  
+
+## PROFESSIONAL ACTIVITIES
+**Reviewer:** NSF, Geophysical research letters, Gcubed, Earth and Planetary Science Letters, Nature Geoscience, Science Advances, Geology, Geophysical Journal International.
+**Executive Secretary and Panelist**, NASA Solar Systems Workings ROSES.
+**MCS Steering Committee**, Subduction Zone 4D Modeling Collaboratory for Subduction RCN 2022.
+**Writing committee**, Rift2Ridge NSF-sponsored Workshop report 2022.
+**Co-Convenor**, Tectonic session on 'Connecting the Ins and Outs of Subduction Zones' (T41D, T43A, T44A, and T45B) 2021, *AGU Fall Meeting*.
+**Co-Organizer**, Rift2Ridge Workshop 2021, *Virtual*.      
+**Co-Organizer**, FEniCS conference 2019, *Carnegie Institution of Washington, Washington, DC*.      
+**Participant**, Gordon Research Conference Interior of the Earth 2019, *Mount Holyoke College, MA*.  
+**Invited presenter**, SZ4D Fluid migration modeling RCN 2019, *University of Minnesota, Minnesota*.  
+**Participant**, GeoPRISMS TEI Synthesis and Integration 2019, *San Antonio, Texas*.  
+**Participant**, Gordon Research Conference Deep Carbon Science 2018, *Bryant University, Smithfleld, RI*.  
+**Executive Secretary and Panelist**, NASA Solar Systems Workings ROSES 2018.  
+**Session co-chair**, DI session on 'Lithosphere-asthenosphere boundary' 2017, *Fall AGU meeting*.  
+**Participant**, Melt in the Mantle workshop 2016, *University of Cambridge, UK*.  
+**Participant**, San Diego Supercomputer Center Summer Institute 2015, *UC San Diego*.  
+**Participant**, CIDER summer program 2015, *UC Berkeley*.  
+**Participant**, Volcanology fleld trip to Kamchatka 2013, *University of Alaska, Fairbanks*.  
+**Participant**, Infrasound post-IAVCEI workshop 2013, *Kagoshima, Japan*.  
+**Co-organizer**, Earth Section Seminar 2013-2014, *Scripps Institution of Oceanography, UC San Diego*.  
+
 ## CONFERENCE PRESENTATIONS
 [20] **Fall AGU Meeting**, Chicago (Withdrawn).   
 [19] **Ada Lovelace Workshop**, Heviv, Hungary (Invited).   
@@ -162,3 +162,11 @@ Thurgood Marshall College and Scripps Institution of Oceanography.
 [2] **Fall AGU meeting**, San Francisco, CA, 2011. "(Invited) NH51A-1692 Source Analysis of Two Unique Microseismic Signatures of
 Hurricane Katrina (2005) and Ioke (2006)".  
 [1] **Fall AGU meeting**, San Francisco, CA, 2010. "NH13A-1142 Comparison of the Microseism of Katrina (2005) and Ioke (2006)".  
+
+## LANGUAGES
+**English** Native (Read and Write)
+**Mandarin** Native (Read and Write) - Hokkien and Cantonese spoken
+**Spanish** College-level (Read and Write)
+**Malay** Native (Spoken only)
+**Programming** python, C++, java, fortran
+
