@@ -164,9 +164,9 @@ Hurricane Katrina (2005) and Ioke (2006)".
 [1] **Fall AGU meeting**, San Francisco, CA, 2010. "NH13A-1142 Comparison of the Microseism of Katrina (2005) and Ioke (2006)".  
 
 ## LANGUAGES
-**English** Native (Read and Write)
-**Mandarin** Native (Read and Write) - Hokkien and Cantonese spoken
-**Spanish** College-level (Read and Write)
-**Malay** Native (Spoken only)
-**Programming** python, C++, java, fortran
+**English** Native (Read and Write).  
+**Mandarin** Native (Read and Write) - Hokkien and Cantonese spoken   
+**Spanish** College-level (Read and Write)   
+**Malay** Native (Spoken only)   
+**Programming** python, C++, java, fortran   
 
