@@ -58,7 +58,7 @@ Similar to ice on Earth, there are icy environments in other planetary systems s
 
 ### Education
 * [Science Education Resource Center (SERC) at Carleton College](https://serc.carleton.edu/NAGTWorkshops/earlycareer/index.html)
-* [Center for Teaching and Learning (CTL) at Stanford University](https://ctl.stanford.edu/)
+* [Center for Teaching and Learning (CTL) at Georgia Tech](https://ctl.gatech.edu/)
 * [The Chronicle of Higher Education](https://www.chronicle.com/)
 
 ### Workshops
