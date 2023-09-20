@@ -67,7 +67,7 @@ Similar to ice on Earth, there are icy environments in other planetary systems s
 * [Cooperative Institute for Dynamic Earth Research (CIDER)](https://www.deep-earth.org/)
 
 ### Lectures/Tutorials/Articles
-* 50 years of Plate Tectonics: [Parisian Collège de France 2018](https://www.college-de-france.fr/site/barbara-romanowicz/symposium-2018-06-26-11h00.htm), [Lamont 2016](https://www.ldeo.columbia.edu/news-events/events/plate-tectonics), [Geological Society](https://www.geolsoc.org.uk/wsmith17)
+* 50 years of Plate Tectonics: [Parisian Collège de France 2018](https://www.college-de-france.fr/fr/agenda/colloque/50-years-of-plate-tectonics-then-now-and-beyond), [Lamont 2016](https://lamont.columbia.edu/about/luminaries-signature-events/plate-tectonics-symposium-2016), [Geological Society](https://www.geolsoc.org.uk/wsmith17)
 * [ADVANCEGeo](https://serc.carleton.edu/advancegeo/resources/index.html): Empowering (geo)scientists to transform workplace climate
 * [National Parks and Plate Tectonics](https://www.nps.gov/subjects/geology/plate-tectonics.htm)
 * [URGE](https://urgeoscience.org/): Unlearning Racism in Geosciences
