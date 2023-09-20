@@ -125,6 +125,7 @@ Do sign up for ‘mail alerts’ from specific journals and more general publica
 
 We generally have alternating group meetings once every two weeks and group lunch once a month. 
 Everyone can discuss their progress, problems, and goals during the group meetings and more informally during group lunch.
+Group meetings can beomce journal club etc as the group wishes. 
 These typically last 1-1.5 hrs.
 When we have new people or guests, be prepared to give your 5-minute introduction on who you are and what project you are working on.
 
