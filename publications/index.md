@@ -17,6 +17,8 @@ Please email me (jssim at eas dot gatech dot edu) for paper if you have trouble 
 [1] **S.J. Sim**, D.R. Stegman, N. Coltice, (2016) Influence of Continental growth on mid-ocean ridge depth, *Geochem. Geophys. Geosyst.*, 17 (11), 4425-4437, [https://doi.org/10.1002/2016GC006629](https://doi.org/10.1002/2016GC006629).
 
 ## In preparation
+[5] M. McMillan**, **S.J. Sim**, C. Wilson (in prep) Reactive thermodynamics of crustal foundering
+
 [4] **S.J. Sim**, T.Y. Yu*, C. Havlin, B. Holtzman (in prep) Persistence of fabrics in the oceanic lithosphere due to differential freezing
 
 [3] **S.J.Sim**, S.Hier-Majumder, M.Hirschmann (in prep) Volatile and TraceElement Storage in a Crystallizing Martian Magma Ocean
