@@ -61,6 +61,7 @@ Similar to ice on Earth, there are icy environments in other planetary systems s
 * [Science Education Resource Center (SERC) at Carleton College](https://serc.carleton.edu/NAGTWorkshops/earlycareer/index.html)
 * [Center for Teaching and Learning (CTL) at Georgia Tech](https://ctl.gatech.edu/)
 * [The Chronicle of Higher Education](https://www.chronicle.com/)
+* [Center for the Integration of Research, Teaching and Learning (CIRTL)](https://cirtl.net/)
 
 ### Workshops
 * [Ada Lovelace Workshop](https://www.egu.eu/gd/meetings/conference-series/ada-lovelace-workshops-on-modelling-mantle-and-lithosphere-dynamics/)
