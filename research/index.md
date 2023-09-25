@@ -57,7 +57,7 @@ Similar to ice on Earth, there are icy environments in other planetary systems s
 * [National Science Foundation (NSF)](https://www.nsf.gov/), [NSF Resource Center](https://nsfpolicyoutreach.com/resource-center/), [NSF Active CSEDI Awards](https://www.nsf.gov/awardsearch/advancedSearchResult?PIId=&PIFirstName=&PILastName=&PIOrganization=&PIState=&PIZip=&PICountry=&ProgOrganization=&ProgEleCode=1585&BooleanElement=All&ProgRefCode=&BooleanRef=All&Program=&ProgOfficer=&Keyword=&AwardNumberOperator=&AwardAmount=&AwardInstrument=&ActiveAwards=true&OriginalAwardDateOperator=&StartDateOperator=&ExpDateOperator=)
 * [National Aeronautics and Space Administration (NASA)](https://www.nasa.gov/)
 
-### Education
+### Instruction
 * [Science Education Resource Center (SERC) at Carleton College](https://serc.carleton.edu/NAGTWorkshops/earlycareer/index.html)
 * [Center for Teaching and Learning (CTL) at Georgia Tech](https://ctl.gatech.edu/)
 * [The Chronicle of Higher Education](https://www.chronicle.com/)
