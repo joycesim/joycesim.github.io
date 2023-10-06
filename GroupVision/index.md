@@ -23,10 +23,14 @@ The pursuit of enjoyable and high-quality research can only thrive in an environ
 + Maintain professionalism at all times. Offensive jokes, harassment, sexism, racism, and exclusionary behavior are not acceptable.
 + Harassment encompasses offensive verbal comments related to gender, sexual orientation, disability, physical appearance, body size, race, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of discussions, inappropriate physical contact, and unwelcome sexual attention.
 + Individuals requested to cease any harassing behavior are expected to comply promptly.
-+ Contribute to meetings with a constructive and positive attitude, fostering meaningful discussions.
++ Contribute to meetings with a constructive attitude, fostering meaningful discussions (we are here for each other!).
 + Be mindful not to talk over others during group discussions, and be receptive to the ideas of your peers. Speaking over others disrupts the flow of communication and may make others feel undervalued. To promote productive discussions and ensure everyone's voice is heard:
     - Wait for others to pause or finish their thoughts before speaking or making gestures.
     - Allow sufficient pauses between thoughts or explicitly invite others to respond, creating an inclusive atmosphere where all contributions are encouraged and respected.
+    - Do also be mindful of different cultures where the conversation styles might be different.
+    - Be wary of monopolising the conversation.
+    - Be mindful of others, do self advocate and group advocate to have a cohesive group conversation.
+    - If unsure about anything, do bring it up and we can be transparent and work through it together (Group growth mindset!). 
 
 ### Mental health
 There is a growing body of evidence indicating that various aspects of research can pose challenges to your mental well-being. These specific factors include:
@@ -36,9 +40,9 @@ There is a growing body of evidence indicating that various aspects of research 
 + Uncertainty in Research: Research inherently involves uncertainty, not only in the outcomes but also in the formulation of the research questions themselves.
 + Career Uncertainty: The path in research careers can be uncertain and daunting.
 + Dealing with "Negative Results": In the course of your research, you may encounter questions that are more challenging to answer than initially expected, or you might feel that you've invested a significant amount of time with little visible progress.
-+ Burnout: The pressure to compensate for these challenges can lead to burnout, as individuals may feel compelled to work excessive hours.
++ Burnout: The pressure to compensate for these challenges can lead to burnout, as individuals may feel compelled to work excessive hours. Do take time for yourself and be protective of that time. 
 
-It's important to recognize that most researchers encounter some level of these issues (Joyce can tell you all about it). Everyone in the group is strongly encouraged to proactively prioritize their mental well-being. Joyce will do everything necessary to make sure you have the necessary time and resources for achieving success in your research. If anything is causing undue stress or hindering your potential, please don't hesitate to reach out to Joyce or any of the postgraduate tutors in the department for assistance. Additionally, please familiarize yourself with the available resources on campus, which can be found at http://counseling.gatech.edu/. We are committed to helping you access the appropriate support networks to ensure your well-being.
+It's important to recognize that most researchers encounter some level of these issues (Joyce can tell you all about it). Everyone in the group is strongly encouraged to proactively prioritize their mental well-being. Joyce will do everything necessary to make sure you have the necessary time and resources for achieving success in your research. If anything is causing undue stress or hindering your potential, please don't hesitate to reach out to Joyce or any of the postgraduate tutors in the department for assistance. Additionally, please familiarize yourself with the available resources on campus, which can be found at http://counseling.gatech.edu/. We are committed to helping you access the appropriate support networks to ensure your well-being. Do not hesitate to check in every once in awhile. 
 
 ## THE BASICS
 
@@ -55,7 +59,7 @@ It can be difficult to know how to divide your time between reading and writing 
 A PhD from Georgia Tech takes ~5 years. 
 Joyce will do her best to make sure that you graduate within this time frame.
 Everyone except 1st year graduate students should have something new/presentable (e.g. a paper, a conference presentation, exciting results) every semester.
-You will take qualifying exam at the end of the second year. 
+You will take comprehensive exam at the end of the second year or first semester of the third year. 
 The department requires an informal annual evaluation outlining goals and progress. 
 Meet with your committee members at least once per year post qualifying exam.
 You should plan on writing a manuscript-based thesis that amounts to at least 3 papers that will be submitted to journals. 
@@ -116,6 +120,7 @@ Be familiar with recently published material relevant to your research project. 
 + Nature
 + Science
 + Proceedings of the National Academy of Sciences
++ Planetary Science Journal (Society journal)
 
 Do sign up for ‘mail alerts’ from specific journals and more general publication ‘feeds’ (e.g. Google Scholar or Web of Science); by doing this, you can be kept informed of newly published literature related to your studies. If there is anything interesting, you can always bring it up for journal club! 
 
@@ -125,7 +130,7 @@ Do sign up for ‘mail alerts’ from specific journals and more general publica
 
 We generally have alternating group meetings once every two weeks and group lunch once a month. 
 Everyone can discuss their progress, problems, and goals during the group meetings and more informally during group lunch.
-Group meetings can beomce journal club etc as the group wishes. 
+Group meetings can become journal club etc as the group wishes. 
 These typically last 1-1.5 hrs.
 When we have new people or guests, be prepared to give your 5-minute introduction on who you are and what project you are working on.
 
@@ -153,7 +158,7 @@ Work together to find a common agreement when conflict arises. If you ever need 
 ### a)     Funding
 
 You will be supported for a guaranteed 5 years while in EAS, Georgia Tech. Your support will likely come from a mixture of TA/RA and fellowship funds.
-Especially in your 1st year, you are expected to apply for external fellowships, for example, NASA, NSF GRFP, Hertz  (though it can be harder to find options if you are an international student).
+Especially in your 1st year, you are expected to apply for external fellowships, for example, NASA, NSF GRFP, Hertz (though it can be harder to find options if you are an international student).
 
 ### b)    Good practices
 
@@ -164,7 +169,7 @@ Backing up your work at least once a week is also crucial. Consider backing up y
 
 Tracking and recording work is important. Taking clear notes feels boring but pays off massively later when you are writing. Use whatever you are most comfortable with to take notes during meetings.
 You may want to keep a separate journal to take notes on the department seminars you attend.
-You should use a citation management software, like Zotero, EndNote, or BibTeX, to manage the papers you’ve read (or will read) for each project (e.g., a class, your qualifying exam, a research project). It is very helpful to write a short summary in the notes about the paper so you don’t have to read the entire paper again down the road.
+You should use a citation management software, like Zotero, Mandalay, EndNote, or BibTeX, to manage the papers you’ve read (or will read) for each project (e.g., a class, your qualifying exam, a research project). It is very helpful to write a short summary in the notes about the paper so you don’t have to read the entire paper again down the road.
 
 ### d)    Coauthorship
 
@@ -179,9 +184,9 @@ An Individual Development Plan (IDP) is essentially a roadmap that helps you pin
 
 As a graduate student, you will be treated as a junior colleague who is maturing into a professional scientist. This means that you can actively co-create opportunities to meet your goals. This framework also puts a large responsibility on your shoulders to live up to the expectations of performance that are required of a colleague. As a part of your PhD, you will ideally learn: 
 
-how to do good science along with how to do your specific project
-creative problem solving and a sense of fearlessness about technical issues and new ideas 
-technical writing and presentation skills, a sense of professionalism and project management 
-to support colleagues and value a collegial, challenging, fun and interdisciplinary environment. 
+* how to do good science along with how to do your specific project
+* creative problem solving and a sense of fearlessness about technical issues and new ideas
+* technical writing and presentation skills, a sense of professionalism and project management
+* to support colleagues and value a collegial, challenging, fun and interdisciplinary environment. 
 
 Adapted from [Jerry Mitrovica's group](https://mitrovica.eps.harvard.edu/group-expectations) and [Alex Robel's group](https://docs.google.com/document/d/15qi4GBsAfotkzY7kvZrQu328zVv0gZFoO-ofWFRw3JY/edit)
