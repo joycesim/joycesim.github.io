@@ -124,6 +124,17 @@ Be familiar with recently published material relevant to your research project. 
 
 Do sign up for ‘mail alerts’ from specific journals and more general publication ‘feeds’ (e.g. Google Scholar or Web of Science); by doing this, you can be kept informed of newly published literature related to your studies. If there is anything interesting, you can always bring it up for journal club! 
 
+### j) Writing is part of thinking
+Writing is an important part of academia. Writing is part of the thinking process. Joyce encourages you to set aside some time to write weekly. Even if you are just taking classes, you can write about what you have learned. Writing takes practice. Scientific writing is all about revising your writing and is not intuitive to most. When you are reading scientific journals, take note of what are the part that are good and try to use it in your own writing. If you need help with writing, please let Joyce know or talk to others in the group. Everyone has a different way of writing. Outlining and brainstorming etc helps to organize your writing. Get feedback from Joyce and others in the group and try not to be offended by criticism. We are here to help you grow to be a better science writer so do not take it personally. Joyce is not the best writer so we are all here to learn together. 
+
+Students often have these questions when it comes to writing:   
+1) What is the timeline for writing? There are usually no datelines for manuscript. Since writing is part of the thinking process, this can be up to you. If you think your progress is too slow, do consult with Joyce. She will be happy to help you along.   
+2) When should I write? This is up to you but do set aside time for writing. If you do not set aside time and wait for inspiration, that might not happen. Even if it is for a few minutes. If you need the writing to be broken down more, please reach out to Joyce, she will be happy to help.   
+3) Am I expected to know how to write scientifically? No, especially not for your first paper. Scientific writing is a whole different beast from regular writing essay. Typically for a class, you write an essay and the only feedback you get is your grade. In scientific writing, there will be many revisions as our thinking changes and we discover more of the results as we write. The writing will also be different depending on who your audience are. Writing a proposal will be different from writing for scientific publication.     
+4) Why is there so many edits in my first draft? Am I a bad writer? No, you are not a bad writer but might just not be a good scientific writer yet. If you are unsure about edits, do talk to Joyce or whoever gave you the edits to help you understand their thought process. Note that it usually take some time to go through just one paragraph. Do not be offended by edits or criticism. They are meant to help you grow as a scientific writer.
+
+Take part in scientific writing workshops, take a course to write your fellowship proposal. The way to get better is to practise and get feedback. Joyce encourages you to have a conversation with her about writing. Everyone has different idea of what drafting means. Some people just writes everything onto paper before organising, others like to outline or brainstorm before organizing. Write. Write. Write.    
+
 ## ESTABLISHING LINES OF COMMUNICATION
 
 ### a)     Group Meetings/lunch/Journal – how frequently
