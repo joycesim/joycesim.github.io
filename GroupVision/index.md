@@ -133,7 +133,9 @@ Students often have these questions when it comes to writing:
 3) Am I expected to know how to write scientifically? No, especially not for your first paper. Scientific writing is a whole different beast from regular writing essay. Typically for a class, you write an essay and the only feedback you get is your grade. In scientific writing, there will be many revisions as our thinking changes and we discover more of the results as we write. The writing will also be different depending on who your audience are. Writing a proposal will be different from writing for scientific publication.     
 4) Why is there so many edits in my first draft? Am I a bad writer? No, you are not a bad writer but might just not be a good scientific writer yet. If you are unsure about edits, do talk to Joyce or whoever gave you the edits to help you understand their thought process. Note that it usually take some time to go through just one paragraph. Do not be offended by edits or criticism. They are meant to help you grow as a scientific writer.
 
-Take part in scientific writing workshops, take a course to write your fellowship proposal. The way to get better is to practise and get feedback. Joyce encourages you to have a conversation with her about writing. Everyone has different idea of what drafting means. Some people just writes everything onto paper before organising, others like to outline or brainstorm before organizing. Write. Write. Write.    
+Take part in scientific writing workshops, take a course to write your fellowship proposal. The way to get better is to practise and get feedback. Joyce encourages you to have a conversation with her about writing. Everyone has different idea of what drafting means. Some people just writes everything onto paper before organising, others like to outline or brainstorm before organizing. If you want a group writing time, reach out to the group and organize it. Setting aside group writing time with the lab group or your peers can help you be accountable for the few hours you sit down to write.
+
+Write. Write. Write.    
 
 ## ESTABLISHING LINES OF COMMUNICATION
 
