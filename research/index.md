@@ -60,7 +60,7 @@ Tech has led to the understanding of the potential for groundwater exfiltration 
 
 Similar to ice on Earth, there are icy environments in other planetary systems such as on the moons of Jupiter, Ganymede or Europa. [NASA Europa Clipper Mission has a launch date on October 2024](https://europa.nasa.gov/) and will reach Jupiter orbit around 2030. Europa has diameter about a quarter that of Earth but has a relatively sizable water body that has been hypothesized to potentially host life. Europa has an icy surface estimated to be around 3-30km thick with an liquid salty ocean beneath followed by a rocky floor. The icy surface layer has been hypothesized to transport materials between the ocean and the surface in various ways including two-phase flow transport briny water. We aim to simulate this transport in the hopes to better understand this exchange and help guide the Clipper mission.
 
-![](/image/nsflogo.png)  
+
 
 ## Resources
 ### Software
