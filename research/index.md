@@ -14,7 +14,7 @@ title: Research
 ## Mid-ocean ridges
 
 ### Early Earth
-<img src="/image/P1F5_comp.png" alt="early Earth" width="500"/>
+<img align="right" src="/image/P1F5_comp.png" alt="early Earth" width="500"/>
 
 The interconnectedness of life, water, and plate tectonics is strikingly apparent along mid‐ocean ridges (MOR) where communities of organisms flourish off the disequilibrium of chemical potentials created by circulation of hydrothermal fluids driven by Earth's heat. Moreover, submarine hydrothermal environments may be critical for the emergence of life on Earth. Oceans were likely present in the Hadean but questions remain about early Earth's global tectonics, including when seafloor spreading began and whether mid‐oceanic ridges were deep enough for maximum hydrothermal activities. For example, plate tectonics influences global sea level by driving secular variations in the volume of ocean basins due to continental growth. Similarly, variations in the distribution of seafloor age and associated subsidence, due to assembly and dispersal of supercontinents, explain the largest sea level variation over the past 140 Myr. Using synthetic plate configurations derived from numerical models of mantle convection appropriate for early Earth, we show that MOR have remained submerged and their depths potentially constant over geologic time. Thus, conditions in the early Earth existed for hydrothermal vents at similar depths as today, providing environments conducive for the development of life and allowing for processes such as hydrothermal alteration of oceanic crust to influence the mantle's geochemical evolution. [[Sim et al 2016]](https://doi.org/10.1002/2016GC006629).  
 
