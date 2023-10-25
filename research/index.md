@@ -32,6 +32,24 @@ The ocean floor makes up the majority of the Earth's surface and yet, its geomor
 In the deep carbon cycle, the largest contributor of CO2 to the atmosphere are both diffused and concentrated emissions from the subduction zone system. The changing amount of CO2 in the atmosphere affects long term global climate that may be a positive feedback mechanism with tectonic activities. The main potential source for carbon emitted in the arc system is carbonate that enters the subduction zone as seafloor sediments and altered ocean crust. The traditional view of the fate of this carbon after subduction is that most of it is carried into the deep mantle past the subduction zone, due to its high decarbonation temperature and predicted low solubility in H2O-rich fluids. However, recent experimental and thermodynamic modeling of carbon solubility in aqueous fluids at high pressure and temperature settings suggest that a substantial amount of carbon can be carried by aqueous fluids released from the oceanic lithosphere. In this work, we use the carbon solubility model from Kelemen & Manning 2015 (based on DEW, Sverjensky et al 2014) and apply it to a global suite of subduction zone convection models with the goal of understanding the the potential for carbon storage in the mantle wedge. The results presented give us an idea of where carbon species might be dissolved, deposited or stored as aqueous fluids released from the subducting slab move through the mantle wedge.
 [Carnegie video highlights for AGU 2019](https://www.youtube.com/watch?v=EU2N0_0KZz8&feature=emb_logo)
 
+### Eclogitization of continental lithosphere from subduction zone devolatilization    
+Subduction zones are regions where one tectonic plate slides and sinks beneath another, and they have been a major focus of research in the field of Earth Science due to their association with mountain-building and with natural hazards like earthquakes and volcanic eruptions. 
+Improving the understanding of processes involving the sinking of these rocks into the Earth's interior, known as foundering, holds valuable insights for subduction zones and continental crust research. 
+The foundering process requires the rocks are of greater density than their surroundings. 
+This project will explore the processes controlling the transformation of rocks in the lower continental crust to greater density resulting from mineral transformations and the degree to which the process requires fluid-mediated reactions common in subduction zones. 
+The results of this modeling study will be compared to rocks found in Norway that are thought to have returned to the surface after undergoing this densification process. 
+This project seeks to address a notable knowledge gap concerning the mechanisms behind mountain-building processes beneath the Earth's surface, known as orogenesis. 
+The primary focus of this project is on understanding the role of reactive fluids and the thermodynamics of eclogitization in the deep crust. 
+To accomplish this, the project aims to develop advanced models that integrate the thermodynamics of eclogitization with simulations of fluid flow. 
+These models will enable researchers to investigate the interactions between fluids and the eclogitization process and determine the timescales associated with metamorphism and the sinking of the lithosphere. 
+The project will consist of two interconnected numerical modeling studies. 
+First, models of disequilibrium thermodynamics will be developed to capture the behavior of key mineral phases and reactions. These models will then be coupled with simulations of fluid flow and rock deformation. 
+To validate and gain insights from the models, the researchers will compare the model outputs with the grain-scale to regional-scale structures observed in well-documented eclogites from Norway. 
+This analysis will allow them to test the hypothesis that lithospheric foundering is a global phenomenon and a consequence of orogenesis. 
+Moreover, the models will provide valuable information about the specific conditions under which eclogitization becomes thermodynamically favorable and the timescales required for significant accumulations of eclogite in the lower crust. 
+The researchers will explore these processes across a diverse range of initial rock compositions, representing the wide variety found in the Earth's continental crust. 
+Ultimately, the project aims to enhance our overall understanding of the complex metamorphic and metasomatic processes that occurs during mountain formation. 
+
 ## Cryosphere and planetary systems
 ![](/image/Exfiltration.png)
 
@@ -41,6 +59,8 @@ Tech has led to the understanding of the potential for groundwater exfiltration 
 ![NASA](/image/Europa.jpg)
 
 Similar to ice on Earth, there are icy environments in other planetary systems such as on the moons of Jupiter, Ganymede or Europa. [NASA Europa Clipper Mission has a launch date on October 2024](https://europa.nasa.gov/) and will reach Jupiter orbit around 2030. Europa has diameter about a quarter that of Earth but has a relatively sizable water body that has been hypothesized to potentially host life. Europa has an icy surface estimated to be around 3-30km thick with an liquid salty ocean beneath followed by a rocky floor. The icy surface layer has been hypothesized to transport materials between the ocean and the surface in various ways including two-phase flow transport briny water. We aim to simulate this transport in the hopes to better understand this exchange and help guide the Clipper mission.
+
+![](/image/nsflogo.png)  
 
 ## Resources
 ### Software
