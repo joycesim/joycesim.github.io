@@ -38,7 +38,7 @@ Our understanding of oceanic crustal formation is mostly limited to observations
 
 The ocean floor makes up the majority of the Earth's surface and yet, its geomorphology is not fully understood. Recent debate has focused on whether sea level changes—driven by Milankovitch glacial cycles—generate the abyssal hill fabric of the ocean floor by modulating mid-ocean ridge magma supply. However, periodicities longer than Milankovitch cycles are prominent in the ocean bathymetry. Using crustal thickness estimates from two-phase flow simulations of ridge magma transport, I show that persistent melt-rich porosity waves could be responsible for the ocean floor fabric at periods of 100 kyr and longer, except in the case of fast-spreading ridges. For periods longer than 100 kyr, spectral energy is notably present at large mantle permeabilities regardless of spreading rates. Therefore, two-phase flow models can provide constraints on elusive mantle parameters such as permeability and viscosity when directly linked to the ocean floor fabric produced. [Sim 2022](https://doi.org/10.1029/2022GL098110)    
 
-
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 ## Subduction zones
 ### Carbon potential at subduction zones
@@ -78,6 +78,8 @@ Tech has led to the understanding of the potential for groundwater exfiltration 
 <img align="left" src="/image/Europa.jpg" alt="Europa" width="500"/>
 
 Similar to ice on Earth, there are icy environments in other planetary systems such as on the moons of Jupiter, Ganymede or Europa. [NASA Europa Clipper Mission has a launch date on October 2024](https://europa.nasa.gov/) and will reach Jupiter orbit around 2030. Europa has diameter about a quarter that of Earth but has a relatively sizable water body that has been hypothesized to potentially host life. Europa has an icy surface estimated to be around 3-30km thick with an liquid salty ocean beneath followed by a rocky floor. The icy surface layer has been hypothesized to transport materials between the ocean and the surface in various ways including two-phase flow transport briny water. We aim to simulate this transport in the hopes to better understand this exchange and help guide the Clipper mission.
+
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 ### Volatile trapping during magma ocean crystallization on Mars
 
