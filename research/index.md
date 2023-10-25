@@ -18,15 +18,21 @@ title: Research
 
 The interconnectedness of life, water, and plate tectonics is strikingly apparent along mid‐ocean ridges (MOR) where communities of organisms flourish off the disequilibrium of chemical potentials created by circulation of hydrothermal fluids driven by Earth's heat. Moreover, submarine hydrothermal environments may be critical for the emergence of life on Earth. Oceans were likely present in the Hadean but questions remain about early Earth's global tectonics, including when seafloor spreading began and whether mid‐oceanic ridges were deep enough for maximum hydrothermal activities. For example, plate tectonics influences global sea level by driving secular variations in the volume of ocean basins due to continental growth. Similarly, variations in the distribution of seafloor age and associated subsidence, due to assembly and dispersal of supercontinents, explain the largest sea level variation over the past 140 Myr. Using synthetic plate configurations derived from numerical models of mantle convection appropriate for early Earth, we show that MOR have remained submerged and their depths potentially constant over geologic time. Thus, conditions in the early Earth existed for hydrothermal vents at similar depths as today, providing environments conducive for the development of life and allowing for processes such as hydrothermal alteration of oceanic crust to influence the mantle's geochemical evolution. [[Sim et al 2016]](https://doi.org/10.1002/2016GC006629).  
 
+&nbsp;&nbsp;&nbsp;&nbsp;
+
 ### Melt transport at modern mid-ocean ridges
 <img align="left" src="/image/P2F2_porosity.png" alt="Melt transport model" width="500"/>
 
 At mid-ocean ridges, oceanic crust is emplaced in a narrow neovolcanic region on the seafloor, whereas basaltic melt that forms this oceanic crust is generated in a wide region beneath as suggested by a few geophysical surveys. The combined observations suggest that melt generated in a wide region at depths has to be transported horizontally to a small region at the surface. We present results from a suite of two-phase models applied to the mid-ocean ridges, varying half-spreading rate and intrinsic mantle permeability using new openly available models, with the goal of understanding melt focusing beneath mid-ocean ridges and its relevance to the lithosphere-asthenosphere boundary (LAB). Three distinct melt focusing mechanisms are recognized in these models: 1) melting pressure focusing, 2) decompaction layers and 3) ridge suction, of which the first two play dominant roles in focusing melt. All three of these mechanisms exist in the fundamental two phase flow formulation but the manifestation depends largely on the choice of rheological model. The models also show that regardless of spreading rates, the amount of melt and melt transport patterns are sensitive to changes in intrinsic permeability, K0. In these models, the LAB is delineated by the melt-rich decompaction layers, which are essentially defined by the temperature dependent rheological and freezing boundaries. Geophysical observations place the LAB at a steeper incline as compared to the gentler profile suggested by most of our models. The models suggest that one way to reconcile this discrepancy is to have stronger melting pressure focusing mechanism as it is the only mechanism in these models that can focus melt before reaching the typical model thermal LAB. The apparent lack of observable decompaction layers in the geophysical observations hints at the possibility that melting pressure focusing could be significant. These models help improve our understanding of melt focusing beneath mid-ocean ridges and could provide new constraints for mantle rheology and permeability. [[Sim et al 2020]](https://doi.org/10.1016/j.pepi.2020.106486), [Carnegie video highlights for AGU 2019](https://www.youtube.com/watch?time_continue=16&v=3lsfoYLv-20&feature=emb_logo), [Geodynamics and Tectonics Virtual Seminar](https://www.youtube.com/watch?v=Sswf_4NkMvc), [Invited seminar at University of Maryland](https://www.youtube.com/watch?v=5I66LxrcUj8), [Github repository for model inputs](https://github.com/joycesim/M3LT_one_Uall)   
 
+&nbsp;&nbsp;&nbsp;&nbsp;
+
 ### Porosity waves mid-ocean ridges
 <img align="left" src="/image/P3_SpectralU35K7.png" alt="Porosity waves and seafloor bathymetry" width="500"/>   
 
 Our understanding of oceanic crustal formation is mostly limited to observations of young crust formed in the past several million years, due to the thick sediments on older crust and the remote location of many spreading centers. Here we use 40 m-resolution bathymetric data collected over hundreds of square kilometers during the search for Malaysia Airlines Flight 370 on the flank of the Southeast Indian Ridge, which provides a record of crustal accretion from 11–23 Ma. Spectra calculated from the data show a characteristic timescale of 300–400 kyr and no evidence for periodicity coinciding with glacial cycles. This characteristic timescale could be explained by fluctuations in melt supply and the amount of faulting, leading to variations in crustal thickness. We show that this timescale of variation is consistent with porosity waves observed in a two-phase flow model, which persist over millions of years. [[Parnell-Turner, Sim and Olive 2020]](https://doi.org/10.1029/2020GL087349)   
+
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <img align="left" src="/image/Param.png" alt="Porosity waves" width="500"/>   
 
@@ -57,12 +63,16 @@ Moreover, the models will provide valuable information about the specific condit
 The researchers will explore these processes across a diverse range of initial rock compositions, representing the wide variety found in the Earth's continental crust. 
 Ultimately, the project aims to enhance our overall understanding of the complex metamorphic and metasomatic processes that occurs during mountain formation. 
 
+&nbsp;&nbsp;&nbsp;&nbsp;
+
 ## Cryosphere and planetary systems
 ### Exfiltration of ground water beneath thinning Antarctic ice sheets
 <img align="left" src="/image/Exfiltration.png" alt="Exfiltration" width="500"/>
 
 The two-phase flow formulation applies to many environments including the icy poles on Earth and water worlds. Collaborations at Georgia
 Tech has led to the understanding of the potential for groundwater exfiltration beneath the thinning Antarctic ice sheets. Groundwater-laden sedimentary aquifers are extensive beneath large portions of the Greenland and Antarctic ice sheets. With a simple theory, it is shown that as the ice sheets thin, there is a potential for exfiltration that can be a dominant component of the subglacial water budget. Continued Antarctic Ice Sheet thinning over the coming decades to centuries guarantees that the role of exfiltration in the basal water budget will only continue to grow into the future, suggesting the need to develop better integrated models of interactions between subglacial groundwater and drainage.
+
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 ### Melt water transport in icy shell of ocean worlds to understand potential habitability
 <img align="left" src="/image/Europa.jpg" alt="Europa" width="500"/>
