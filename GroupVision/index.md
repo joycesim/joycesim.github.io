@@ -73,18 +73,40 @@ Aim for a well-rounded education of Earth Science and classes that will help wit
 Joyce will be happy to discuss with you on what classes to take. 
 
 Recommended classes:    
-Earth System Modeling - 86150 - EAS 6130 - A   
-Special Topics - 93277 - EAS 8802 - COM (2 credits) - Practical Math coding course     
-Earthquake Physics - 93439 - EAS 6316 - A    
-Intro Research & Ethics - 91153 - EAS 6000 - A (1 credit)     
+EAS 6130. Earth System Modeling - 86150 - A   
+EAS 6312. Geodynamics     
+EAS 6314. Seismology. The propagation of seismic waves, the description of earthquake motion, and evaluation of earthquake damage. Examples provide experience in the interpretation of seismic data.      
+EAS 6315. Geofluids. 3 Credit Hours. This course focuses on the fundamental concepts of fluid dynamics merged with geophysical applications.   
+EAS 6331. Physical Volcanology. 3 Credit Hours. This class examines the dynamics and thermodynamics of planetary volcanism. The course material covers the generation and transport of magma in the mantle and crust, and the fluid dynamics of eruptions and their impact on the landscape and atmosphere.    
+EAS 6370. Physics of the Planets     
+EAS 8826. Geophysics Field Methods     
+EAS 8001. Planetary Science and Astrobiology Seminar   
+EAS 8802. Special Topics - 93277 -  COM (2 credits) - Practical Math coding course     
+EAS 8803. Intro Geophysics   
+EAS 8997. Teaching Assistantship. 1-9 Credit Hours. For at least the first two semesters, you will be doing this.   
+EAS 8998. Research Assistantship. 1-9 Credit Hours.   
+EAS 8999. Preparation for Doctoral Dissertation. 1-21 Credit Hours.   
+EAS 9000. Doctoral Thesis. 1-21 Credit Hours.   
 
-Required seminar (both single credit seminars):    
-Seminar - 91849 - EAS 8001 - GEO    
-Geophysics Seminar - 85402 - EAS 8001 - AVN    
+Required courses/seminar:    
+EAS 8001 Seminar - 91849 - GEO - Department seminar    
+EAS 8001 Geophysics Seminar - 85402        
+EAS 6000 Intro Research & Ethics - 91153 - A (1 credit)     
 
 Classes to consider:    
-Introduction to Fluid Mechanics - 94307 - ME 6601 - B     
-Fluid Mechanics - ME 3340 - A,B,C,D     
+EAS 4801. Mini Planetary Sound    
+EAS 8801. Career Development
+EAS 6053. Preparing Future Faculty.
+EAS 6316. Earthquake Physics - 93439 - Fundamental physics of processes that control fault slips and earthquakes with a focus on the latest emerging research topics in the field.
+EAS 8803 Modern Geodetic Methods.     
+ME 6601. Introduction to Fluid Mechanics - 94307 - B     
+ME 3340. Fluid Mechanics - A,B,C,D 
+ME 6602. Viscous Flow. (3 Credit Hours). The mechanics of Newtonian viscous fluids. The use of modern analytical techniques to obtain solutions for flows with small and large Reynolds numbers.       
+ME 6124. Finite-Element Method: Theory and Practice (3 Credit Hours). Line, plane, solid, plate, and shell elements-theory: practical aspects of modeling; applications in mechanical engineering; final project.    
+ME 6201. Principles of Continuum Mechanics (3 Credit Hours). Introductory treatment of the fundamental, unifying concepts of the mechanics of continua.    
+ME 7301. Transport Phenomena in Multiphase Flow (3 Credit Hours).    
+ME 7751. Computational Fluid Mechanics (3 Credit Hours). Numerical methods for solving the time-dependent Navier-Stokes equations in complex geometrics, including theory, implementation, and applications. Crosslisted with CEE 7751.    
+
 
 ### d)    How frequently to attend seminars, reading groups, and other academic activities
 
