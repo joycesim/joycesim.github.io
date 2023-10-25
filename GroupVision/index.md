@@ -85,10 +85,10 @@ EAS 8826. Geophysics Field Methods
 EAS 8001. Planetary Science and Astrobiology Seminar   
 EAS 8802. Special Topics - 93277 -  COM (2 credits) - Practical Math coding course     
 EAS 8803. Intro Geophysics   
-EAS 8997. Teaching Assistantship. 1-9 Credit Hours. For at least the first two semesters, you will be doing this.   
-EAS 8998. Research Assistantship. 1-9 Credit Hours.   
-EAS 8999. Preparation for Doctoral Dissertation. 1-21 Credit Hours.   
-EAS 9000. Doctoral Thesis. 1-21 Credit Hours.   
+EAS 8997. Teaching Assistantship. 1-9 Credit Hours. For at least the first two semesters, you will be doing this.    
+EAS 8998. Research Assistantship. 1-9 Credit Hours.    
+EAS 8999. Preparation for Doctoral Dissertation. 1-21 Credit Hours.    
+EAS 9000. Doctoral Thesis. 1-21 Credit Hours.    
 
 Required courses/seminar:    
 EAS 8001 Seminar - 91849 - GEO - Department seminar    
@@ -96,10 +96,10 @@ EAS 8001 Geophysics Seminar - 85402
 EAS 6000 Intro Research & Ethics - 91153 - A (1 credit)     
 
 Classes to consider:    
-EAS 4801. Mini Planetary Sound    
-EAS 8801. Career Development
-EAS 6053. Preparing Future Faculty.
-EAS 6316. Earthquake Physics - 93439 - Fundamental physics of processes that control fault slips and earthquakes with a focus on the latest emerging research topics in the field.
+EAS 4801. Mini Planetary Sound       
+EAS 8801. Career Development.  
+EAS 6053. Preparing Future Faculty.   
+EAS 6316. Earthquake Physics - 93439 - Fundamental physics of processes that control fault slips and earthquakes with a focus on the latest emerging research topics in the field.    
 EAS 8803 Modern Geodetic Methods.     
 ME 6601. Introduction to Fluid Mechanics - 94307 - B     
 ME 3340. Fluid Mechanics - A,B,C,D 
