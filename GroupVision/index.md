@@ -70,7 +70,7 @@ Joyce will work closely with you to plan/outline figures and content and then wi
 First years typically take 2-3 courses each semester.
 There are no set course list but there is a set knowledge list that you will try to take classes to fulfil for your qualifying exam in your second year.
 Aim for a well-rounded education of Earth Science and classes that will help with your research. 
-Joyce will be happy to discuss with you on what classes to take. 
+Joyce will be happy to discuss with you on what classes to take.     
 Here is the EAS graduate course list: https://catalog.gatech.edu/courses-grad/eas/   
 Here is the Mechanical engineering graduate course list: https://catalog.gatech.edu/courses-grad/me/        
 
