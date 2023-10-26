@@ -6,11 +6,11 @@ title: Group
 AKA The SIMulators
 
 ### Dr Shi Joyce Sim (PI, She/her)
-<img align="left" src="/image/Profile3.JPG" alt="Kamchatka 2013" title="Kamchatka 2013." width="400" />    
+<img align="right" src="/image/Profile3.JPG" alt="Kamchatka 2013" title="Kamchatka 2013." width="400" />    
 
 &nbsp; I am a geodynamicist working on two-phase flow magma dynamics at tectonic boundaries such as subduction zones and mid-ocean ridges and am expanding this research into the planetary realm. Currently, I am a research scientist at the School of Earth and Atmospheric Sciences at Georgia Institute of Technology. At Scripps Institution of Oceanography, I worked on understanding the depth of mid-ocean ridges through Earth's evolution and the two-phase study of melt focusing at mid-ocean ridges with advisors Dave Stegman, James Day and Marc Spiegelman. As a Deep Carbon Observatory (DCO) postdoctoral fellow at Carnegie Institution for Science, I worked on carbon fluxes at subduction zones employing a combination of two phase flow and geochemical thermodynamics with the late Erik Hauri. [My CV is here.](https://joycesim.github.io/cv/)    
 
-<br clear="left"/>
+<br clear="right"/>
 
 * [ORCID](https://orcid.org/0000-0002-2469-1665).   
 * [Google Scholar](https://scholar.google.com/citations?user=u2L2NLEAAAAJ&hl=en&authuser=1).   
@@ -25,21 +25,19 @@ Here is the living [group vision document](https://joycesim.github.io/GroupVisio
 &nbsp;&nbsp;&nbsp;&nbsp;    
 
 ### Mitchell McMillan (Postdoctoral Scholar May 2022 -- Present)
-<img align="left" src="/image/MitchellMcMillan.jpg" alt="Mitchell" title="Mitchell" width="400" />    
+<img align="right" src="/image/MitchellMcMillan.jpg" alt="Mitchell" title="Mitchell" width="400" />    
 
 &nbsp; I am a geologist interested in the interactions among tectonics, lithology, and erosion that control the evolution of Earth’s surface. My research includes geologic mapping and eolian geomorphology in the Central Andes, geodynamic modelling, and low-temperature thermochronology. My current focus is on understanding the behavior of aqueous fluids in continental subduction zones, especially as they facilitate chemical reactions in the upper plate. Reactions such as eclogitization and flux melting may be significant drivers of the geodynamics of mountain belts. [Website](https://www.mitchell-mcmillan.com/)    
 
-<br clear="left"/>
-
-&nbsp;&nbsp;&nbsp;&nbsp;     
-
-&nbsp;&nbsp;&nbsp;&nbsp;      
+<br clear="right"/> 
 
 ### Chazerae (Ayo) Pierce-Walker (PhD student Fall 2023 -- Present)
 
 ### Brandon J. Lopez (PhD student Fall 2023 -- Present)
 
 ### [Your name and picture here! Join us!]
+
+&nbsp;&nbsp;&nbsp;&nbsp;   
 
 ## Alumni
 ### Shradha Ravikumar (Summer UNAVCO RESESS Programme 2023) -- Onwards to intern program at Lamont-Doherty Earth Observatory, Columbia University
