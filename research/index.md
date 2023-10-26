@@ -21,11 +21,7 @@ The interconnectedness of life, water, and plate tectonics is strikingly apparen
 
 <br clear="left"/>
 
-&nbsp;&nbsp;&nbsp;&nbsp;     
-
-&nbsp;&nbsp;&nbsp;&nbsp;     
-
-&nbsp;&nbsp;&nbsp;&nbsp;     
+&nbsp;&nbsp;&nbsp;&nbsp;       
 
 <img align="left" src="/image/P2F2_porosity.png" alt="Melt transport model" width="500"/>
 
@@ -37,31 +33,25 @@ At mid-ocean ridges, oceanic crust is emplaced in a narrow neovolcanic region on
 
 &nbsp;&nbsp;&nbsp;&nbsp;    
 
-&nbsp;&nbsp;&nbsp;&nbsp;    
-
 <img align="left" src="/image/P3_SpectralU35K7.png" alt="Porosity waves and seafloor bathymetry" width="500"/>   
 
 ### Porosity waves mid-ocean ridges
 
 Our understanding of oceanic crustal formation is mostly limited to observations of young crust formed in the past several million years, due to the thick sediments on older crust and the remote location of many spreading centers. Here we use 40 m-resolution bathymetric data collected over hundreds of square kilometers during the search for Malaysia Airlines Flight 370 on the flank of the Southeast Indian Ridge, which provides a record of crustal accretion from 11–23 Ma. Spectra calculated from the data show a characteristic timescale of 300–400 kyr and no evidence for periodicity coinciding with glacial cycles. This characteristic timescale could be explained by fluctuations in melt supply and the amount of faulting, leading to variations in crustal thickness. We show that this timescale of variation is consistent with porosity waves observed in a two-phase flow model, which persist over millions of years. [[Parnell-Turner, Sim and Olive 2020]](https://doi.org/10.1029/2020GL087349)   
 
-&nbsp;&nbsp;&nbsp;&nbsp;    
-
-&nbsp;&nbsp;&nbsp;&nbsp;    
-
-&nbsp;&nbsp;&nbsp;&nbsp;     
-
 <br clear="left"/>
+
+&nbsp;&nbsp;&nbsp;&nbsp;    
 
 <img align="left" src="/image/Param.png" alt="Porosity waves" width="500"/>   
 
 The ocean floor makes up the majority of the Earth's surface and yet, its geomorphology is not fully understood. Recent debate has focused on whether sea level changes—driven by Milankovitch glacial cycles—generate the abyssal hill fabric of the ocean floor by modulating mid-ocean ridge magma supply. However, periodicities longer than Milankovitch cycles are prominent in the ocean bathymetry. Using crustal thickness estimates from two-phase flow simulations of ridge magma transport, I show that persistent melt-rich porosity waves could be responsible for the ocean floor fabric at periods of 100 kyr and longer, except in the case of fast-spreading ridges. For periods longer than 100 kyr, spectral energy is notably present at large mantle permeabilities regardless of spreading rates. Therefore, two-phase flow models can provide constraints on elusive mantle parameters such as permeability and viscosity when directly linked to the ocean floor fabric produced. [Sim 2022](https://doi.org/10.1029/2022GL098110)    
 
-&nbsp;&nbsp;&nbsp;&nbsp;    
-
-&nbsp;&nbsp;&nbsp;&nbsp;    
-
 <br clear="left"/>
+
+&nbsp;&nbsp;&nbsp;&nbsp;    
+
+&nbsp;&nbsp;&nbsp;&nbsp;    
 
 ## Subduction zones
 ### Carbon potential at subduction zones
@@ -105,9 +95,6 @@ Tech has led to the understanding of the potential for groundwater exfiltration 
 
 &nbsp;&nbsp;&nbsp;&nbsp;    
 
-&nbsp;&nbsp;&nbsp;&nbsp;    
-
-&nbsp;&nbsp;&nbsp;&nbsp;     
 
 <img align="left" src="/image/Europa.jpg" alt="Europa" width="500"/>
 
@@ -117,11 +104,7 @@ Similar to ice on Earth, there are icy environments in other planetary systems s
 
 <br clear="left"/>
 
-&nbsp;&nbsp;&nbsp;&nbsp;    
-
-&nbsp;&nbsp;&nbsp;&nbsp;    
-
-&nbsp;&nbsp;&nbsp;&nbsp;     
+&nbsp;&nbsp;&nbsp;&nbsp;       
 
 ### Volatile trapping during magma ocean crystallization on Mars
 
