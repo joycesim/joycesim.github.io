@@ -118,7 +118,7 @@ Recommended: Explorigins
 ### e)     Expected working hours
 
 This is a work environment, where you are expected to be on task for the number of hours equivalent to a standard work day. In practical terms, however, you will find that the job of being a scientist does not always conform to standard hours.  
-Regard graduate school as a full-time job (with room for both vacations and overtime). You should work a 40 hour work week on average in a given semester. On the subject of ‘overtime’, there will probably be times when you will need to work on weekends if a deadline is near.
+You can regard graduate school as a full-time job (with room for both vacations and overtime) with a twist. You should work a 40 hour work week on average in a given semester. Do realise that you are working towards your degree in the end. You get what you put in so in that sense, it is different from a regular job. On the subject of ‘overtime’, there will probably be times when you will need to work on weekends if a deadline is near. 
 
 ### f)     Vacation policy
 
