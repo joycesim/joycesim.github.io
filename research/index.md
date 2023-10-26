@@ -22,6 +22,8 @@ The interconnectedness of life, water, and plate tectonics is strikingly apparen
 
 &nbsp;&nbsp;&nbsp;&nbsp;     
 
+&nbsp;&nbsp;&nbsp;&nbsp;     
+
 ### Melt transport at modern mid-ocean ridges
 <img align="left" src="/image/P2F2_porosity.png" alt="Melt transport model" width="500"/>
 
@@ -39,6 +41,8 @@ Our understanding of oceanic crustal formation is mostly limited to observations
 &nbsp;&nbsp;&nbsp;&nbsp;    
 
 &nbsp;&nbsp;&nbsp;&nbsp;    
+
+&nbsp;&nbsp;&nbsp;&nbsp;     
 
 <img align="left" src="/image/Param.png" alt="Porosity waves" width="500"/>   
 
@@ -77,7 +81,7 @@ Ultimately, the project aims to enhance our overall understanding of the complex
 
 ## Cryosphere and planetary systems
 ### Exfiltration of ground water beneath thinning Antarctic ice sheets
-<img align="left" src="/image/Exfiltration.png" alt="Exfiltration" width="500"/>
+<img align="left" src="/image/Exfiltration.png" alt="Exfiltration" width="400"/>
 
 The two-phase flow formulation applies to many environments including the icy poles on Earth and water worlds. Collaborations at Georgia
 Tech has led to the understanding of the potential for groundwater exfiltration beneath the thinning Antarctic ice sheets. Groundwater-laden sedimentary aquifers are extensive beneath large portions of the Greenland and Antarctic ice sheets. With a simple theory, it is shown that as the ice sheets thin, there is a potential for exfiltration that can be a dominant component of the subglacial water budget. Continued Antarctic Ice Sheet thinning over the coming decades to centuries guarantees that the role of exfiltration in the basal water budget will only continue to grow into the future, suggesting the need to develop better integrated models of interactions between subglacial groundwater and drainage.
@@ -85,6 +89,8 @@ Tech has led to the understanding of the potential for groundwater exfiltration 
 &nbsp;&nbsp;&nbsp;&nbsp;    
 
 &nbsp;&nbsp;&nbsp;&nbsp;    
+
+&nbsp;&nbsp;&nbsp;&nbsp;     
 
 ### Melt water transport in icy shell of ocean worlds to understand potential habitability
 <img align="left" src="/image/Europa.jpg" alt="Europa" width="500"/>
@@ -94,6 +100,8 @@ Similar to ice on Earth, there are icy environments in other planetary systems s
 &nbsp;&nbsp;&nbsp;&nbsp;    
 
 &nbsp;&nbsp;&nbsp;&nbsp;    
+
+&nbsp;&nbsp;&nbsp;&nbsp;     
 
 ### Volatile trapping during magma ocean crystallization on Mars
 
