@@ -96,7 +96,7 @@ Tech has led to the understanding of the potential for groundwater exfiltration 
 &nbsp;&nbsp;&nbsp;&nbsp;    
 
 
-<img align="left" src="/image/Europa.jpg" alt="Europa" width="500"/>
+<img align="left" src="/image/Europa.jpg" alt="Europa" width="400"/>
 
 ### Melt water transport in icy shell of ocean worlds to understand potential habitability
 
