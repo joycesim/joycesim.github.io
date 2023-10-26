@@ -6,6 +6,8 @@ title: News
 
 ### 2023
 
+September: Off to the EAS camping trip at Cloudland Canyon state park! 
+
 August: We welcome new graduate students Brandon Lopez and Chazerae Pierce-Walker (Ayo) to the team! Hot off the press: Collaboration with Georgia Tech's ice wizard [Alex Robel](https://iceclimate.eas.gatech.edu/) on [Contemporary ice sheet thinning drives subglacial groundwater exfiltration with potential feedbacks on glacier flow](https://www.science.org/doi/epdf/10.1126/sciadv.adh3693)! [Here is the Georgia Tech news coverage](https://cos.gatech.edu/thinning-ice-sheets-may-drive-sharp-rise-subglacial-waters)!
 
 June/July: Dr Joyce Sim will be lecturing at [Cooperative Institute for Dynamic Earth Research (CIDER)](https://www.deep-earth.org/summer23)! This year's topic is Causes and consequences of fluid and magma transport at plate boundaries. 
