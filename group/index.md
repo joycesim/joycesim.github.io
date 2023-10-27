@@ -50,7 +50,7 @@ I am a third-year Physics major at Georgia Tech, with particular interests in co
 ### Casey Vigil Smith (Summer REU Programme 2022)
 Hey! I am Vigil Smith, from Harding University. I will be working on understanding how regularization of bulk viscosity affect melt transport beneath mid-ocean ridges here at Georgia Tech for the Summer REU. See ya Planetside!
 
-### Keneni Godana (Summer REU Programme 2021) Now a graduate student at UCSC
+### Keneni Godana (Summer REU Programme 2021) Now a graduate student at UCSB
 Keneni is a rising Earth Science senior at University of illinois, Chicago and will be working on understanding how radiogenic heating affected seafloor subsidence and therefore ocean basins during the early Earth as part of the Georgia Tech EAS Summer REU program. Keneni will be presenting this work at AGU Fall meeting 2021. 
 
 ### Susan Harrison (Georgia Tech EAS Undergraduate Summer research 2021) Now a graduate student at Georgia Tech
