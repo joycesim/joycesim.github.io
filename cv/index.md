@@ -7,7 +7,7 @@ title: CV
 ## Dr Shi Joyce Sim 
 
 ## RESEARCH INTERESTS
-Early Earth, tectonic boundaries, geodynamics, melt generation & transport in the mantle, numerical modeling, thermodynamic modeling, aqueous geochemistry, parallel computing, planetary formation & evolution, fluid dynamics, multi-phase flows.
+Early Earth, potential habitability, tectonic boundaries, geodynamics, melt generation & transport in the mantle, numerical modeling, reactive thermodynamic modeling, aqueous geochemistry, parallel computing, planetary formation & evolution, fluid dynamics, multi-phase flows.
 
 ## EDUCATION
 **Ph.D., Earth Sciences 2018**.  
