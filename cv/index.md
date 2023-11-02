@@ -55,7 +55,7 @@ Crust project, data compilation of crustal thicknesses from seismic reflection s
 
 ## GRANTS
 **CIDER 2015 Group Research Proposal grant ($5,000) 2015**.    
-**NSF Geophysics/Petrology and Geochemistry ``Eclogitization of continental lithosphere from subduction zone devolatilization," EAR 2323318 (PI) $385k**.   
+**NSF Geophysics/Petrology and Geochemistry "Eclogitization of continental lithosphere from subduction zone devolatilization," EAR 2323318 (PI) $385k**.   
 
 ## HONORS AND AWARDS
 **Paul G. Silver Young Scholar Research Enhancement Award, IGPP, SIO 2015**.  
