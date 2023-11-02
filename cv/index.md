@@ -111,8 +111,10 @@ Collecting rock samples for geochemical analysis.
 Multibeam bathymetry, CHIRP, and sediment coring, 23 days at sea on R/V Revelle.  
 
 ## TEACHING EXPERIENCE
+**[Tech to Teaching](https://ctl.gatech.edu/content/tech-teaching-0)**
+Center for Teaching and Learning, Georgia Institute of Technology
 **EAS 3610: Introduction to Geophysics Fall 2022**.   
-Guest lecturer on \Overview of Geodynamics".   
+Guest lecturer on "Overview of Geodynamics".   
 **Computational Infrastructure for Geodynamics Summer MOdeling Research Experiences (CIG SMOREs) Lecturer Summer 2021**.   
 Introduction to python in geodynamics, Magmatism.   
 **SIO10: The Earth Spring 2017**.    
@@ -171,5 +173,5 @@ Hurricane Katrina (2005) and Ioke (2006)".
 **Mandarin** Native (Read and Write) - Hokkien and Cantonese spoken   
 **Spanish** College-level (Read and Write)   
 **Malay** Native (Spoken only)   
-**Programming** python, C++, java, fortran   
+**Programming** python, C++, java, fortran    
 
