@@ -18,7 +18,7 @@ AKA The SIMulators
 
 I highly encourage everyone in Geoscience to take a look at the online program for Unlearning Racism in Geoscience or [URGE](www.urgeoscience.org). It is an 8-session "community-wide journal reading and policy-design curriculum to help Geoscientists unlearn racism and improve accessibility, justice, equity, diversity, and inclusion (AJEDI) in our discipline." Even if you did not get to take part, all the paper readings, video interviews and deliverables by all the Pods across the country/globe are posted on the website. I am happy to chat/discuss if you want as I am continually learning too.    
 
-Here is the living [group vision document](https://joycesim.github.io/GroupVision/) that serves as a guide with regards to expectations, vision and policies.     
+Here is the living [group vision document](https://joycesim.github.io/GroupVision/) that serves as a guide with regards to expectations, vision and policies in the group.     
 
 <br clear="right"/>
 
