@@ -95,11 +95,11 @@ Similar to ice on Earth, there are icy environments in other planetary systems s
 ### Volatile trapping during magma ocean crystallization on Mars
 
 
-<img src="/image/nsflogo.png" alt="NSF logo" width="200"/>
+[<img src="/image/nsflogo.png" alt="NSF logo" width="200"/>](https://www.nsf.gov/)
 
-<img src="/image/GTAstrobio_logo.png" alt="GT Astrbio logo" width="400"/>
+[<img src="/image/GTAstrobio_logo.png" alt="GT Astrbio logo" width="400"/>](https://astrobiology.gatech.edu/)
 
-<img src="/image/GTCSTARlogo.png" alt="GT CSTAR logo" width="400"/>
+[<img src="/image/GTCSTARlogo.png" alt="GT CSTAR logo" width="400"/>](https://www.cstar.gatech.edu/)
 
 
 ## Resources
