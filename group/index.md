@@ -33,12 +33,12 @@ Here is the living [group vision document](https://joycesim.github.io/GroupVisio
 ### Chazerae (Ayo) Pierce-Walker (PhD student Fall 2023 -- Present)
 <img align="center" src="/image/Ayo.JPG" alt="Ayo" title="Ayo" width="200" />    
 
-<br clear="right"/> 
+<br clear="center"/> 
 
 ### Brandon J. Lopez (PhD student Fall 2023 -- Present)
 <img align="center" src="/image/Brandon.JPG" alt="Brandon" title="Brandon" width="200" />    
 
-<br clear="right"/> 
+<br clear="center"/> 
 
 ### [Your name and picture here! Join us!]
 
