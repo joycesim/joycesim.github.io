@@ -5,7 +5,7 @@ title: Group
 # {{page.title}}
 AKA The SIMulators
 
-<img align="center" src="/image/GroupFall2023.JPG" alt="Sim Lab Fall 2023" title="Sim Lab Fall 2023" width="400" />    
+<img align="center" src="/image/GroupFall2023.JPG" alt="Sim Lab Fall 2023" title="Sim Lab Fall 2023" width="600" />    
 
 ### Dr Shi Joyce Sim (PI, She/her)
 <img align="right" src="/image/Profile3.JPG" alt="Kamchatka 2013" title="Kamchatka 2013." width="400" />    
@@ -32,14 +32,14 @@ Here is the living [group vision document](https://joycesim.github.io/GroupVisio
 <br clear="right"/> 
 
 ### Chazerae (Ayo) Pierce-Walker (PhD student Fall 2023 -- Present)
-<img align="right" src="/image/Ayo.JPG" alt="Ayo" title="Ayo" width="400" />    
+<img align="center" src="/image/Ayo.JPG" alt="Ayo" title="Ayo" width="200" />    
 
 <br clear="right"/> 
 
 &nbsp;&nbsp;&nbsp;&nbsp; 
 
 ### Brandon J. Lopez (PhD student Fall 2023 -- Present)
-<img align="right" src="/image/Brandon.JPG" alt="Brandon" title="Brandon" width="400" />    
+<img align="center" src="/image/Brandon.JPG" alt="Brandon" title="Brandon" width="200" />    
 
 <br clear="right"/> 
 
