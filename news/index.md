@@ -6,6 +6,8 @@ title: News
 
 ### 2023
 
+December: The group will be at [AGU Fall meeting, 2023](https://www.agu.org/fall-meeting) in San Francisco! Former member [Shradha will be presenting on her summer research on Thursday: DI41B-0016 The Influence of Plate Cooling Models and Convection on Early Earth Mid-Ocean Ridge Depths](https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1363056). [Mitchell will be presenting on Thursday as well: T41A-05 Reactive Thermodynamics of Crustal Foundering](https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1313240). [Dr Joyce Sim will be presenting on Monday: DI13A-01 Persistent heterogeneities in the oceanic lithosphere due to differential freezing beneath ridges](https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1335735). See you there!
+
 September: Off to the EAS camping trip at Cloudland Canyon state park! 
 
 August: We welcome new graduate students Brandon Lopez and Chazerae Pierce-Walker (Ayo) to the team! Hot off the press: Collaboration with Georgia Tech's ice wizard [Alex Robel](https://iceclimate.eas.gatech.edu/) on [Contemporary ice sheet thinning drives subglacial groundwater exfiltration with potential feedbacks on glacier flow](https://www.science.org/doi/epdf/10.1126/sciadv.adh3693)! [Here is the Georgia Tech news coverage](https://cos.gatech.edu/thinning-ice-sheets-may-drive-sharp-rise-subglacial-waters)!
