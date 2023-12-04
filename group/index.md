@@ -29,7 +29,7 @@ Here is the living [group vision document](https://joycesim.github.io/GroupVisio
 
 &nbsp; I am a geologist interested in the interactions among tectonics, lithology, and erosion that control the evolution of Earth’s surface. My research includes geologic mapping and eolian geomorphology in the Central Andes, geodynamic modelling, and low-temperature thermochronology. My current focus is on understanding the behavior of aqueous fluids in continental subduction zones, especially as they facilitate chemical reactions in the upper plate. Reactions such as eclogitization and flux melting may be significant drivers of the geodynamics of mountain belts. [Website](https://www.mitchell-mcmillan.com/)    
 
-<br clear="right"/> 
+<br clear="left"/> 
 
 ### Chazerae (Ayo) Pierce-Walker (PhD student Fall 2023 -- Present)
 <img align="center" src="/image/Ayo.JPG" alt="Ayo" title="Ayo" width="200" />    
