@@ -6,7 +6,7 @@ title: Research
 
 '*Two-phase or not two-phase*'
 
-## Two-phase flow at tectonic boundaries to understand Earth dynamics through its evolution. Fluid dynamic applications to planetary systems with a goal to understand potential habitability. Tackling modern day problems such as carbon storage and monitoring. 
+## Applying two-phase flow and reactive thermodynamics at tectonic boundaries to understand Earth dynamics through its evolution. Fluid dynamic applications to planetary systems with a goal to understand potential habitability. Tackling modern day problems such as carbon storage and monitoring. 
 
 
 [//]: # (Research to move the conversation forward)
