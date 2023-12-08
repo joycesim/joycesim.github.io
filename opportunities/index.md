@@ -13,6 +13,10 @@ For Georgia Tech undergraduates, please reach out to me with your cv for any cur
 
 For collaborations on Art and Science, please check out [Science.Art.Wonder](https://sciartwonderatl.wixsite.com/sawatl)!
 
+<img align="right" src="/image/FireandIce.jpg" alt="SAW: Fire and Ice by DIYA" title="SAW: Fire and Ice by DIYA" width="400" />    
+<img align="right" src="/image/LilySAW.jpg" alt="SAW: Lily" title="SAW: Lily" width="400" />    
+<br clear="right"/>
+
 ### Graduate students
 Please email me for information about current or upcoming opportunities in my lab and include a CV. Students with a background in Earth science, geophysics, mechanical engineering and closely related fields are encouraged to apply. I highly encourage underrepresented minorites to contact me with any questions and to apply. No GRE required.
 
