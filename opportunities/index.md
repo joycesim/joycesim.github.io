@@ -13,8 +13,8 @@ For Georgia Tech undergraduates, please reach out to me with your cv for any cur
 
 For collaborations on Art and Science, please check out [Science.Art.Wonder](https://sciartwonderatl.wixsite.com/sawatl)!
 
-<img align="right" src="/image/FireandIce.jpg" alt="SAW: Fire and Ice by DIYA" title="SAW: Fire and Ice by DIYA" width="400" />    
-<img align="right" src="/image/LilySAW.jpg" alt="SAW: Lily" title="SAW: Lily" width="400" />    
+<img align="left" src="/image/FireandIce.jpg" alt="SAW: Fire and Ice by DIYA" title="SAW: Fire and Ice by DIYA" height="200" />    
+<img align="right" src="/image/LilySAW.jpg" alt="SAW: Lily" title="SAW: Lily" height="200" />    
 <br clear="right"/>
 
 ### Graduate students
