@@ -94,9 +94,13 @@ Similar to ice on Earth, there are icy environments in other planetary systems s
 
 <br clear="right"/>   
 
+<img align="right" src="/image/Mars_Fig3.png" alt="Constant vs dynamic melt trapping" width="400"/>
+
 ### Volatile trapping during magma ocean crystallization on Mars
 Immediately following core formation on Mars, the planet underwent a magma ocean (MO) phase. Volatiles released from the MO fostered a primitive atmosphere (PA) which modulated heat loss from the cooling planet through the greenhouse effect. The solidification and degassing of the MO are therefore coupled. In this work, we investigate two important aspects of this evolution: 1) the dynamics of melt trapping at the freezing front of the residual mantle (RM) and 2) the oxidation state during crystallization. For crystallization rates applicable to the martian MO, compaction is inefficient, leading to large fractions of melt trapped together with the crystals accumulating in the RM. The H_2O content of the martian RM is strongly influenced by dynamic melt trapping. Following MO crystallization, up to 55.4% of the initial H_2O in the MO is sequestered in the RM, with the rest outgassed to the surface. Dynamic melt trapping also limits variations in trace element concentrations and fractionations. 
 Resulting variations in important isotopic parent/daughter ratios (Sm/Nd, Lu/Hf) cannot account for all of the isotopic diversity inferred for martian basalt source regions, hence requiring alternative mechanisms. The redox state of the MO exerts a strong control on the total CO_2 content of the RM and the time of crystallization. Under oxidizing conditions, the residual mantle stores 0.01% of the delivered CO_2 but under the most reducing conditions we examined, the residual mantle can sequester 80.4% in the form of trapped carbonated melt and graphite/diamond.
+
+<br clear="right"/>  
 
 [<img src="/image/nsflogo.png" alt="NSF logo" width="200"/>](https://www.nsf.gov/)
 
