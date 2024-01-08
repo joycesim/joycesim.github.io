@@ -4,6 +4,10 @@ title: News
 ---
 # {{page.title}}
 
+### 2024
+
+January: Happy new year! Dr Joyce Sim is co-organizing a Subduction fluids workshop March 1-3 in Montreal. More details [here](https://sites.google.com/view/2024subductionfluidsworkshop/home).
+
 ### 2023
 
 December: The group will be at [AGU Fall meeting, 2023](https://www.agu.org/fall-meeting) in San Francisco! Former member Shradha will be presenting on her summer research on Thursday: [DI41B-0016 The Influence of Plate Cooling Models and Convection on Early Earth Mid-Ocean Ridge Depths](https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1363056). Mitchell will be presenting on Thursday as well: [T41A-05 Reactive Thermodynamics of Crustal Foundering](https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1313240). Dr Joyce Sim will be presenting on Monday: [DI13A-01 Persistent heterogeneities in the oceanic lithosphere due to differential freezing beneath ridges](https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1335735). See you there!
