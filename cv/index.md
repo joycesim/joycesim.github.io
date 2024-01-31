@@ -126,7 +126,8 @@ Teaching Assistant for Prof. Gabi Laske.
 
 ## PROFESSIONAL ACTIVITIES
 **Reviewer:** NSF, Geophysical research letters, Gcubed, Earth and Planetary Science Letters, Nature Geoscience, Science Advances, Geology, Geophysical Journal International.    
-**Executive Secretary and Panelist**, NASA Solar Systems Workings ROSES.    
+**Executive Secretary and Panelist**, NASA Solar Systems Workings ROSES.   
+**Co-organizer**, Serpentinite, Fluids and Plate Boundary Deformation in Subduction Zones scientific workshop 2024, Québec, Canada.     
 **MCS Steering Committee**, Subduction Zone 4D Modeling Collaboratory for Subduction RCN 2022.    
 **Writing committee**, Rift2Ridge NSF-sponsored Workshop report 2022.    
 **Co-Convenor**, Tectonic session on 'Connecting the Ins and Outs of Subduction Zones' (T41D, T43A, T44A, and T45B) 2021, *AGU Fall Meeting*.    
