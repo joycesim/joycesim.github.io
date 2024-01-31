@@ -112,7 +112,7 @@ Multibeam bathymetry, CHIRP, and sediment coring, 23 days at sea on R/V Revelle.
 
 ## TEACHING EXPERIENCE
 **[Tech to Teaching](https://ctl.gatech.edu/content/tech-teaching-0)**
-Center for Teaching and Learning, Georgia Institute of Technology
+Center for Teaching and Learning, Georgia Institute of Technology.    
 **EAS 3610: Introduction to Geophysics Fall 2022**.   
 Guest lecturer on "Overview of Geodynamics".   
 **Computational Infrastructure for Geodynamics Summer MOdeling Research Experiences (CIG SMOREs) Lecturer Summer 2021**.   
@@ -125,11 +125,11 @@ Prof. Dave Stegman.
 Teaching Assistant for Prof. Gabi Laske.  
 
 ## PROFESSIONAL ACTIVITIES
-**Reviewer:** NSF, Geophysical research letters, Gcubed, Earth and Planetary Science Letters, Nature Geoscience, Science Advances, Geology, Geophysical Journal International.
-**Executive Secretary and Panelist**, NASA Solar Systems Workings ROSES.
-**MCS Steering Committee**, Subduction Zone 4D Modeling Collaboratory for Subduction RCN 2022.
-**Writing committee**, Rift2Ridge NSF-sponsored Workshop report 2022.
-**Co-Convenor**, Tectonic session on 'Connecting the Ins and Outs of Subduction Zones' (T41D, T43A, T44A, and T45B) 2021, *AGU Fall Meeting*.
+**Reviewer:** NSF, Geophysical research letters, Gcubed, Earth and Planetary Science Letters, Nature Geoscience, Science Advances, Geology, Geophysical Journal International.    
+**Executive Secretary and Panelist**, NASA Solar Systems Workings ROSES.    
+**MCS Steering Committee**, Subduction Zone 4D Modeling Collaboratory for Subduction RCN 2022.    
+**Writing committee**, Rift2Ridge NSF-sponsored Workshop report 2022.    
+**Co-Convenor**, Tectonic session on 'Connecting the Ins and Outs of Subduction Zones' (T41D, T43A, T44A, and T45B) 2021, *AGU Fall Meeting*.    
 **Co-Organizer**, Rift2Ridge Workshop 2021, *Virtual*.      
 **Co-Organizer**, FEniCS conference 2019, *Carnegie Institution of Washington, Washington, DC*.      
 **Participant**, Gordon Research Conference Interior of the Earth 2019, *Mount Holyoke College, MA*.  
