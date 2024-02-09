@@ -6,7 +6,7 @@ title: Publications
 
 Please email me (jssim at eas dot gatech dot edu) for paper if you have trouble getting it. 
 
-[6] **S.J.Sim**, M.Hirschmann, S.Hier-Majumder (Submitted) Volatile and Trace Element Storage in a Crystallizing Martian Magma Ocean
+[6] **S.J.Sim**, M.Hirschmann, S.Hier-Majumder (In review) Volatile and Trace Element Storage in a Crystallizing Martian Magma Ocean
 
 [5] A. Robel, **S.J. Sim**, C. Meyer, M. Siegfried, C. Gustafson (2023) Contemporary Ice Sheet Thinning Drives Subglacial Groundwater Exfiltration, *Science Advances*, [https://www.science.org/doi/10.1126/sciadv.adh3693](https://www.science.org/doi/10.1126/sciadv.adh3693). 
 
