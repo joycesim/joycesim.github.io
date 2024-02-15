@@ -46,16 +46,16 @@ Here is the living [group vision document](https://joycesim.github.io/GroupVisio
 ### Shradha Ravikumar (Summer UNAVCO RESESS Programme 2023) -- Onwards to intern program at Lamont-Doherty Earth Observatory, Columbia University
 Shradha Ravikumar is a recent graduate of Arizona State University (B.S. Astrobiology & Biogeosciences). She is interested in studying how the Earth evolved into a habitable planet from a geologic perspective. She will be doing geodynamics modeling at Georgia Tech, and she will present the results of this research at the 2023 AGU Fall Meeting.
 
-### Rosen Ting-Ying Yu (Georgia Tech Undergraduate research Fall 2021 -- Spring 2023) PURA award Fall 2022 - Onwards to graduate school at MIT
+### Rosen Ting-Ying Yu (Georgia Tech Undergraduate research Fall 2021 -- Spring 2023) PURA award Fall 2022 - Currently a graduate student at MIT
 I am a junior at Georgia Tech majoring in Electrical Engineering. My passion for computational simulations and eath science inspired me to apply my engineering background to learn more about the geophysics of the Earth. [Website](https://rosenyu304.github.io/)
 
 ### Allen Moore (Georgia Tech Undergraduate research Spring 2022 -- Fall 2022) PURA award Fall 2022
 I am a third-year Physics major at Georgia Tech, with particular interests in computational physics and nonlinear dynamics. I am excited to see how my physics education can be applied to geophysical systems!
 
-### Casey Vigil Smith (Summer REU Programme 2022)
+### Casey Vigil Smith (Summer REU Programme 2022) Currently a Geoscience undergraduate at University of Arkansas, Fort Smith
 Hey! I am Vigil Smith, from Harding University. I will be working on understanding how regularization of bulk viscosity affect melt transport beneath mid-ocean ridges here at Georgia Tech for the Summer REU. See ya Planetside!
 
-### Keneni Godana (Summer REU Programme 2021) Now a graduate student at UCSB
+### Keneni Godana (Summer REU Programme 2021) Currently a graduate student at UCSB
 Keneni is a rising Earth Science senior at University of illinois, Chicago and will be working on understanding how radiogenic heating affected seafloor subsidence and therefore ocean basins during the early Earth as part of the Georgia Tech EAS Summer REU program. Keneni will be presenting this work at AGU Fall meeting 2021. 
 
 ### Susan Harrison (Georgia Tech EAS Undergraduate Summer research 2021) Now a graduate student at Georgia Tech
