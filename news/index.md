@@ -6,7 +6,7 @@ title: News
 
 ### 2024
 
-February: Dr Joyce sim will be traveling and giving seminars at Virginia Tech and University of New Mexico! 
+February: Dr Joyce sim will be giving seminars at Virginia Tech and University of New Mexico! 
 
 January: Happy new year! Dr Joyce Sim is co-organizing a Subduction fluids workshop March 1-3 in Montreal. More details [here](https://sites.google.com/view/2024subductionfluidsworkshop/home). 
 
