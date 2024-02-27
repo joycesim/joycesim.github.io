@@ -54,7 +54,7 @@ Crust project, data compilation of crustal thicknesses from seismic reflection s
 **Dr Mitchell McMillan** May 2022 - present.   
 
 ## GRANTS
-**NSF Geophysics/Petrology and Geochemistry** "Eclogitization of continental lithosphere from subduction zone devolatilization," EAR 2323318 (PI) $385k (2023-2025). 
+**NSF Geophysics/Petrology and Geochemistry** "Eclogitization of continental lithosphere from subduction zone devolatilization," EAR 2323318 (PI) $385k (2023-2025).    
 **CIDER 2015 Group Research Proposal grant ($5,000) 2015**.      
 
 ## HONORS AND AWARDS
@@ -128,7 +128,7 @@ Teaching Assistant for Prof. Gabi Laske.
 ## PROFESSIONAL ACTIVITIES
 **Reviewer:** NSF, Geophysical research letters, Gcubed, Earth and Planetary Science Letters, Nature Geoscience, Science Advances, Geology, Geophysical Journal International.    
 **Executive Secretary and Panelist**, NASA Solar Systems Workings ROSES.   
-**Co-organizer**, Serpentinite, Fluids and Plate Boundary Deformation in Subduction Zones scientific workshop 2024, Québec, Canada.     
+**Co-organizer**, Serpentinite, Fluids and Plate Boundary Deformation in Subduction Zones scientific workshop 2024, Québec, Canada.    
 **MCS Steering Committee**, Subduction Zone 4D Modeling Collaboratory for Subduction RCN 2022.    
 **Writing committee**, Rift2Ridge NSF-sponsored Workshop report 2022.    
 **Co-Convenor**, Tectonic session on 'Connecting the Ins and Outs of Subduction Zones' (T41D, T43A, T44A, and T45B) 2021, *AGU Fall Meeting*.    
