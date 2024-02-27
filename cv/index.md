@@ -54,8 +54,8 @@ Crust project, data compilation of crustal thicknesses from seismic reflection s
 **Dr Mitchell McMillan** May 2022 - present.   
 
 ## GRANTS
-**CIDER 2015 Group Research Proposal grant ($5,000) 2015**.    
-**NSF Geophysics/Petrology and Geochemistry "Eclogitization of continental lithosphere from subduction zone devolatilization," EAR 2323318 (PI) $385k**.   
+**NSF Geophysics/Petrology and Geochemistry** "Eclogitization of continental lithosphere from subduction zone devolatilization," EAR 2323318 (PI) $385k (2023-2025). 
+**CIDER 2015 Group Research Proposal grant ($5,000) 2015**.      
 
 ## HONORS AND AWARDS
 **Paul G. Silver Young Scholar Research Enhancement Award, IGPP, SIO 2015**.  
