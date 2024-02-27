@@ -150,10 +150,11 @@ Teaching Assistant for Prof. Gabi Laske.
 **Co-organizer**, Earth Section Seminar 2013-2014, *Scripps Institution of Oceanography, UC San Diego*.  
 
 ## CONFERENCE PRESENTATIONS
-[20] **Fall AGU Meeting**, Chicago (Withdrawn).   
-[19] **Ada Lovelace Workshop**, Heviv, Hungary (Invited).   
-[18] **GeoPRISMs Volatiles Workshop**, Montana. "Rift2Ridge vision".  
-[17] **Fall AGU meeting**, New Orleans (Withdrawn).  
+[22] **Fall AGU Meeting**, 2023, San Francisco.   
+[20] **Fall AGU Meeting**, 2022, Chicago (Withdrawn).   
+[19] **Ada Lovelace Workshop**, 2022, Heviv, Hungary (Invited).   
+[18] **GeoPRISMs Volatiles Workshop**, 2022, Montana. "Rift2Ridge vision".  
+[17] **Fall AGU meeting**, 2021, New Orleans (Withdrawn).  
 [16] **EGU meeting**, 2021. "(Invited) Melt transport beneath mid-ocean ridges".    
 [15] **Fall AGU meeting**, Virtual, 2020.      
 [14] **Fall AGU meeting**, San Francisco, 2019. "[Carbon solubility in the subducting slab and mantle wedge](https://www.youtube.com/watch?v=EU2N0_0KZz8)".     
