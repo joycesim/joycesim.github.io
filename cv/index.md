@@ -40,7 +40,7 @@ Crust project, data compilation of crustal thicknesses from seismic reflection s
 **Allen Moore** (Physics, Georgia Tech) Spring 2022-Fall 2022.   
 *PURA award (Fall 2022)*.   
 **Casey Smith** (Harding University) Summer 2022.   
-*EAS-REU*.   
+*EAS-REU; Geoscience major at University of Arkansas - Fort Smith*.   
 **Susan Harrison** (EAS, Georgia Tech) Summer 2021.   
 *Current Masters student at Georgia Tech*.   
 **Keneni Godana** (University of Illinois, Chicago) Summer 2021.   
@@ -73,8 +73,10 @@ Thurgood Marshall College and Scripps Institution of Oceanography.
 [1] **S.J. Sim**, D.R. Stegman, N. Coltice, (2016) Influence of Continental growth on mid-ocean ridge depth, *Geochem. Geophys. Geosyst.*, 17 (11), 4425-4437,  https://doi.org/10.1002/2016GC006629.
 
 ## INVITED PRESENTATIONS
+[27] Joint seminar between Physics and Earth and Planetary Sciences, University of New Mexico, 2024.   
+[26] Department of Geosciences seminar, Virginia Tech, 2024.     
 [25] [CIDER Lecturer](https://www.deep-earth.org/summer23), 2023.    
-[24] Caltech, 2023.   
+[24] Geophysics Seminar, Caltech, 2023.   
 [23] Western Washington University (virtual), 2023.   
 [22] AGU Fall meeting, 2022 (Withdrawn).  
 [21] Department of Planetary Physics, German Aerospace Center 2022.   
