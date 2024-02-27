@@ -64,6 +64,7 @@ Thurgood Marshall College and Scripps Institution of Oceanography.
 **AGU Outstanding Student Paper Award, Fall AGU meeting 2010**
  
 ## PEER-REVIEWED PUBLICATIONS
+[7] **S.J.Sim**, M.Hirschmann, S.Hier-Majumder (In review) Volatile and Trace Element Storage in a Crystallizing Martian Magma Ocean   
 [6] **S.J. Sim**, M. Spiegelman, D.R. Stegman, C. Wilson (In revisions) M3LT: A new open source model to explore the dynamics of Melt in the Mantle beneath Mid-ocean ridge, *Geochem. Geophys. Geosyst.*.  
 [5] A. Robel, **S.J. Sim**, C. Meyer, M. Siegfried, C. Gustafson (2023) Contemporary Ice Sheet Thinning Drives Subglacial Groundwater Exfiltration.   
 [4] **S.J. Sim** (2022) Persistent magma-rich waves beneath mid-ocean ridges explain long periodicity on ocean floor fabric.  
