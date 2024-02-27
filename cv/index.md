@@ -150,7 +150,7 @@ Teaching Assistant for Prof. Gabi Laske.
 **Co-organizer**, Earth Section Seminar 2013-2014, *Scripps Institution of Oceanography, UC San Diego*.  
 
 ## CONFERENCE PRESENTATIONS
-[22] **Fall AGU Meeting**, 2023, San Francisco.   
+[21] **Fall AGU Meeting**, 2023, San Francisco.   
 [20] **Fall AGU Meeting**, 2022, Chicago (Withdrawn).   
 [19] **Ada Lovelace Workshop**, 2022, Heviv, Hungary (Invited).   
 [18] **GeoPRISMs Volatiles Workshop**, 2022, Montana. "Rift2Ridge vision".  
