@@ -108,7 +108,6 @@ Resulting variations in important isotopic parent/daughter ratios (Sm/Nd, Lu/Hf)
 
 [<img src="/image/GTCSTARlogo.png" alt="GT CSTAR logo" width="400"/>](https://www.cstar.gatech.edu/)
 
-
 ## Resources
 ### Software
 * [TerraFERMA (FEM PDE)](http://terraferma.github.io/)
