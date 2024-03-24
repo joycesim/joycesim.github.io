@@ -64,10 +64,10 @@ Thurgood Marshall College and Scripps Institution of Oceanography.
 **AGU Outstanding Student Paper Award, Fall AGU meeting 2010**
  
 ## PEER-REVIEWED PUBLICATIONS
-[9] M. McMillan**, **S.J. Sim**, C. Wilson (Submitted) Reactive thermodynamics of crustal foundering
-[8] **S.J. Sim**, T.Y. Yu*, C. Havlin, B. Holtzman (Submitted) Persistence of fabrics in the oceanic lithosphere due to differential freezing
-[7] **S.J.Sim**, M.Hirschmann, S.Hier-Majumder (In review) Volatile and Trace Element Storage in a Crystallizing Martian Magma Ocean   
-[6] **S.J. Sim**, M. Spiegelman, D.R. Stegman, C. Wilson (In revisions) M3LT: A new open source model to explore the dynamics of Melt in the Mantle beneath Mid-ocean ridge, *Geochem. Geophys. Geosyst.*.  
+[9] M. McMillan**, **S.J. Sim**, C. Wilson (Submitted) Reactive thermodynamics of crustal foundering    
+[8] **S.J. Sim**, T.Y. Yu*, C. Havlin, B. Holtzman (Submitted) Persistence of fabrics in the oceanic lithosphere due to differential freezing     
+[7] **S.J.Sim**, M.Hirschmann, S.Hier-Majumder (In review) Volatile and Trace Element Storage in a Crystallizing Martian Magma Ocean      
+[6] **S.J. Sim**, M. Spiegelman, D.R. Stegman, C. Wilson (In revisions) M3LT: A new open source model to explore the dynamics of Melt in the Mantle beneath Mid-ocean ridge, *Geochem. Geophys. Geosyst.*.     
 [5] A. Robel, **S.J. Sim**, C. Meyer, M. Siegfried, C. Gustafson (2023) Contemporary Ice Sheet Thinning Drives Subglacial Groundwater Exfiltration.   
 [4] **S.J. Sim** (2022) Persistent magma-rich waves beneath mid-ocean ridges explain long periodicity on ocean floor fabric.  
 [3] R. Parnell-Turner, **S.J. Sim**, J.A. Olive, (2020) Time-dependent crustal accretion on the Southeast Indian Ridge from Malaysia Airlines flight MH370 search data, *Geophysical Research Letters*,  https://doi.org/10.1029/2020GL087349.  
