@@ -5,8 +5,11 @@ title: News
 # {{page.title}}
 
 ### 2024
+April: [Solar Eclipse is occuring](https://science.nasa.gov/eclipses/future-eclipses/eclipse-2024/)! [Future Solar Eclipse](https://eclipse.gsfc.nasa.gov/solar.html). 
 
-February: Dr Joyce sim will be giving seminars at Virginia Tech and University of New Mexico! 
+March: Dr Joyce Sim will be presenting at [LPSC](https://www.hou.usra.edu/meetings/lpsc2024/) on [Martian magma ocean](https://www.hou.usra.edu/meetings/lpsc2024/pdf/1559.pdf).
+
+February: Dr Joyce Sim will be giving seminars at Virginia Tech and University of New Mexico! 
 
 January: Happy new year! Dr Joyce Sim is co-organizing a Subduction fluids workshop March 1-3 in Montreal. More details [here](https://sites.google.com/view/2024subductionfluidsworkshop/home). 
 
