@@ -6,9 +6,9 @@ title: Publications
 
 Please email me (jssim at eas dot gatech dot edu) for paper if you have trouble getting it. 
 
-[8] M. McMillan***, **S.J. Sim**, C. Wilson (Submitted) Reactive thermodynamics of crustal foundering
+[8] *M. McMillan***, **S.J. Sim**, C. Wilson (Submitted) Reactive thermodynamics of crustal foundering
 
-[7] **S.J. Sim**, T.Y. Yu*, C. Havlin, B. Holtzman (Submitted) Persistence of fabrics in the oceanic lithosphere due to differential freezing
+[7] **S.J. Sim**, *T.Y. Yu**, C. Havlin, B. Holtzman (Submitted) Persistence of fabrics in the oceanic lithosphere due to differential freezing
 
 [6] **S.J.Sim**, M.Hirschmann, S.Hier-Majumder (In review) Volatile and Trace Element Storage in a Crystallizing Martian Magma Ocean
 
@@ -27,4 +27,4 @@ Please email me (jssim at eas dot gatech dot edu) for paper if you have trouble 
 
 [1] **S.J. Sim**, M. Spiegelman, D.R. Stegman, C. Wilson (major revisions) M3LT: A new open source model to explore the dynamics of Melt in the Mantle beneath Mid-ocean ridge.  
 
-Undergraduate*, graduate student**, Postdoc***
+*Undergraduate, graduate student*, *Postdoc***
