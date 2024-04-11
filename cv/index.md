@@ -22,7 +22,8 @@ Committee: Jan P. Kleissl and Eugene R. Pawlak.
 University of California, San Diego.  
 
 ## RESEARCH POSITIONS
-**Research Associate PI, Georgia Institute of Technology, 2020 - present**.    
+**Assistant professor, Georgia Institute of Technology, 2024 - present**.    
+**Research Associate PI, Georgia Institute of Technology, 2020 - 2024**.    
 **Postdoctoral Research Fellow, Carnegie Institution for Science, 2018 - 2020**.   
 Carbon transport at subduction zones using two-phase flow numerical models.   
 **Graduate Student Researcher, University of California, San Diego, 2014 - 2018**.  
@@ -33,6 +34,18 @@ Impact of vent asymmetry on explosive volcanic eruptions with Darcy Ogden.
 Microseismic signatures of hurricane Ioke and hurricane Katrina.   
 **Undergraduate Research Assistant, University of California, San Diego, 2010 - 2011**.  
 Crust project, data compilation of crustal thicknesses from seismic reflection surveys.   
+
+## POSTDOCTORAL SCHOLARS
+**Dr Mitchell McMillan** May 2022 - present. 
+
+## GRADUATE STUDENTS
+**Brandon Lopez** Fall 2023 - present.   
+**Chazerae (Ayo) Pierce-Walker** Fall 2023 - present.  
+
+## GRADUATE STUDENTS (Thesis committee)
+**Lindsay Chuang (PhD)** Graduated 2024   
+**Samuel Ofori (Masters)** In progress
+**Ashleigh Miller (PhD)** In progress
 
 ## UNDERGRADUATE STUDENTS
 **Ting-Ying Yu, Rosen** (ECE, Georgia Tech) Fall 2021-Spring 2023.   
@@ -45,13 +58,6 @@ Crust project, data compilation of crustal thicknesses from seismic reflection s
 *Current Masters student at Georgia Tech*.   
 **Keneni Godana** (University of Illinois, Chicago) Summer 2021.   
 *EAS-REU and CIG-SMOREs program; Current PhD student at UCSB*.   
-
-## GRADUATE STUDENTS
-**Brandon Lopez** Fall 2023 - present.   
-**Chazerae (Ayo) Pierce-Walker** Fall 2023 - present.    
-
-## POSTDOCTORAL SCHOLARS
-**Dr Mitchell McMillan** May 2022 - present.   
 
 ## GRANTS
 **NSF Geophysics/Petrology and Geochemistry** "Eclogitization of continental lithosphere from subduction zone devolatilization," EAR 2323318 (PI) $385k (2023-2025).    
