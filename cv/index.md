@@ -42,10 +42,11 @@ Crust project, data compilation of crustal thicknesses from seismic reflection s
 **Brandon Lopez** Fall 2023 - present.   
 **Chazerae (Ayo) Pierce-Walker** Fall 2023 - present.  
 
-### Thesis committee
+### THESIS COMMITTEE
 **Lindsay Chuang (PhD)** Graduated 2024     
 **Samuel Ofori (Masters)** In progress    
 **Ashleigh Miller (PhD)** In progress    
+**Neosha Narayanan (PhD)** In progress
 
 ## UNDERGRADUATE STUDENTS
 **Ting-Ying Yu, Rosen** (ECE, Georgia Tech) Fall 2021-Spring 2023.   
