@@ -29,11 +29,11 @@ Carbon transport at subduction zones using two-phase flow numerical models.
 **Graduate Student Researcher, University of California, San Diego, 2014 - 2018**.  
 Analyzed mantle convection model outputs to look at depths of mid-ocean ridges through Earth's evolution and developed two phase flow input codes, M3LT, for TerraFERMA software to study melt focusing at mid-ocean ridges.  
 **Graduate Student Researcher, University of California, San Diego, 2011 - 2014**.  
-Impact of vent asymmetry on explosive volcanic eruptions with Darcy Ogden.   
+Modeling of vent asymmetry on explosive volcanic eruptions using Cartablanca software (Los Alamos) with Darcy Ogden.   
 **Undergraduate Research Project, University of California, San Diego, 2010 - 2011**.  
-Microseismic signatures of hurricane Ioke and hurricane Katrina.   
+Microseismic signatures of hurricane Ioke and hurricane Katrina, Gabi Laska.   
 **Undergraduate Research Assistant, University of California, San Diego, 2010 - 2011**.  
-Crust project, data compilation of crustal thicknesses from seismic reflection surveys.   
+Crust project, data compilation of crustal thicknesses from seismic reflection surveys, Gabi Laske.   
 
 ## POSTDOCTORAL SCHOLARS
 **Dr Mitchell McMillan** May 2022 - present. 
@@ -50,7 +50,7 @@ Crust project, data compilation of crustal thicknesses from seismic reflection s
 
 ## UNDERGRADUATE STUDENTS
 **Shradha Ravikumar** Summer UNAVCO RESESS Programme 2023.   
-Currently Bridge to PhD fellow at Lamont-Doherty Earth Observatory, Columbia University.   
+Currently Bridge to Graduate school fellow at Lamont-Doherty Earth Observatory, Columbia University.   
 **Ting-Ying Yu, Rosen** (ECE, Georgia Tech) Fall 2021-Spring 2023.   
 *PURA award (Fall 2022); Current PhD student at MIT*.   
 **Allen Moore** (Physics, Georgia Tech) Spring 2022-Fall 2022.   
