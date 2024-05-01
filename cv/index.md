@@ -112,6 +112,7 @@ Thurgood Marshall College and Scripps Institution of Oceanography.
 [1] Fall AGU meeting, 2011.  
 
 ## LEADERSHIP AND OUTREACH EXPERIENCE
+**First Gen Faculty inaugural cohort (Georgia Tech)** 2023-2024
 **Elected Postdoctoral representative at Carnegie Institution for Science** 2019 - 2020.  
 **Women and Minorities in Science (SIO)** 2012 - 2017.  
 **Team for Inclusion & Diversity in Education & Science (SIO)** 2012 - 2016.  
@@ -140,8 +141,9 @@ Teaching Assistant for Prof. Gabi Laske.
 ## PROFESSIONAL ACTIVITIES
 **Reviewer:** NSF, Geophysical research letters, Gcubed, Earth and Planetary Science Letters, Nature Geoscience, Science Advances, Geology, Geophysical Journal International.    
 **Executive Secretary and Panelist**, NASA Solar Systems Workings ROSES.   
+**Co-chair**, Session at Lunar and Planetary Science Conference, Woodlands, TX.   
 **Co-organizer**, Serpentinite, Fluids and Plate Boundary Deformation in Subduction Zones scientific workshop 2024, Québec, Canada.    
-**MCS Steering Committee**, Subduction Zone 4D Modeling Collaboratory for Subduction RCN 2022.    
+**MCS Steering Committee**, Subduction Zone 4D Modeling Collaboratory for Subduction RCN 2022 --present.    
 **Writing committee**, Rift2Ridge NSF-sponsored Workshop report 2022.    
 **Co-Convenor**, Tectonic session on 'Connecting the Ins and Outs of Subduction Zones' (T41D, T43A, T44A, and T45B) 2021, *AGU Fall Meeting*.    
 **Co-Organizer**, Rift2Ridge Workshop 2021, *Virtual*.      
@@ -160,6 +162,7 @@ Teaching Assistant for Prof. Gabi Laske.
 **Co-organizer**, Earth Section Seminar 2013-2014, *Scripps Institution of Oceanography, UC San Diego*.  
 
 ## CONFERENCE PRESENTATIONS
+[22] **Lunar and Planetary Science Conference**, 2024, Woodlands, TX.   
 [21] **Fall AGU Meeting**, 2023, San Francisco.   
 [20] **Fall AGU Meeting**, 2022, Chicago (Withdrawn).   
 [19] **Ada Lovelace Workshop**, 2022, Heviv, Hungary (Invited).   
