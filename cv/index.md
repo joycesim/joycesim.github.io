@@ -62,9 +62,8 @@ Currently Bridge to PhD fellow at Lamont-Doherty Earth Observatory, Columbia Uni
 **Keneni Godana** (University of Illinois, Chicago) Summer 2021.   
 *EAS-REU and CIG-SMOREs program; Current PhD student at UCSB*.   
 
-## GRANTS
-**NSF Geophysics/Petrology and Geochemistry** "Eclogitization of continental lithosphere from subduction zone devolatilization," EAR 2323318 (PI) $385k (2023-2025).    
-**CIDER 2015 Group Research Proposal grant ($5,000) 2015**.      
+## ACTIVE GRANTS
+**NSF Geophysics/Petrology and Geochemistry** "Eclogitization of continental lithosphere from subduction zone devolatilization," EAR 2323318 (PI) $385k (2023-2025).         
 
 ## HONORS AND AWARDS
 **Paul G. Silver Young Scholar Research Enhancement Award, IGPP, SIO 2015**.  
@@ -78,7 +77,7 @@ Thurgood Marshall College and Scripps Institution of Oceanography.
 [7] **S.J.Sim**, M.Hirschmann, S.Hier-Majumder (In review) Volatile and Trace Element Storage in a Crystallizing Martian Magma Ocean      
 [6] **S.J. Sim**, M. Spiegelman, D.R. Stegman, C. Wilson (In revisions) M3LT: A new open source model to explore the dynamics of Melt in the Mantle beneath Mid-ocean ridge, *Geochem. Geophys. Geosyst.*.     
 [5] A. Robel, **S.J. Sim**, C. Meyer, M. Siegfried, C. Gustafson (2023) Contemporary Ice Sheet Thinning Drives Subglacial Groundwater Exfiltration.   
-[4] **S.J. Sim** (2022) Persistent magma-rich waves beneath mid-ocean ridges explain long periodicity on ocean floor fabric.  
+[4] **S.J. Sim** (2022) Persistent magma-rich waves beneath mid-ocean ridges explain long periodicity on ocean floor fabric. 
 [3] R. Parnell-Turner, **S.J. Sim**, J.A. Olive, (2020) Time-dependent crustal accretion on the Southeast Indian Ridge from Malaysia Airlines flight MH370 search data, *Geophysical Research Letters*,  https://doi.org/10.1029/2020GL087349.  
 [2] **S.J. Sim**, M. Spiegelman, D.R. Stegman, C. Wilson, (2020) Influence of permeability and spreading rate on melt focusing beneath mid-ocean ridges, *Physics of the Earth and Planetary Interiors*, https://doi.org/10.1016/j.pepi.2020.106486.  
 [1] **S.J. Sim**, D.R. Stegman, N. Coltice, (2016) Influence of Continental growth on mid-ocean ridge depth, *Geochem. Geophys. Geosyst.*, 17 (11), 4425-4437,  https://doi.org/10.1002/2016GC006629.
