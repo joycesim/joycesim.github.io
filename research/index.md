@@ -31,7 +31,7 @@ At mid-ocean ridges, oceanic crust is emplaced in a narrow neovolcanic region on
 
 <img align="right" src="/image/P3_SpectralU35K7.png" alt="Porosity waves and seafloor bathymetry" width="500"/>   
 
-### Porosity waves mid-ocean ridges
+## Porosity waves 
 
 Our understanding of oceanic crustal formation is mostly limited to observations of young crust formed in the past several million years, due to the thick sediments on older crust and the remote location of many spreading centers. Here we use 40 m-resolution bathymetric data collected over hundreds of square kilometers during the search for Malaysia Airlines Flight 370 on the flank of the Southeast Indian Ridge, which provides a record of crustal accretion from 11–23 Ma. Spectra calculated from the data show a characteristic timescale of 300–400 kyr and no evidence for periodicity coinciding with glacial cycles. This characteristic timescale could be explained by fluctuations in melt supply and the amount of faulting, leading to variations in crustal thickness. We show that this timescale of variation is consistent with porosity waves observed in a two-phase flow model, which persist over millions of years. [[Parnell-Turner, Sim and Olive 2020]](https://doi.org/10.1029/2020GL087349)   
 
