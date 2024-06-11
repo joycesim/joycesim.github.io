@@ -5,6 +5,11 @@ title: News
 # {{page.title}}
 
 ### 2024
+June: Dr Joyce Sim will be giving an invited talk at [SZ4D/NSF co-sponsored Workshop
+Workshop on Mantle Magma Supply and Imaging Magmatic Systems](https://www.sz4d.org/events/workshop-on-mantle-magma-supply-and-imaging-magmatic-systems) June 2-5, 2024, at Lamont-Doherty Earth Observatory!
+
+May: End of Semester at Georgia Tech! 
+
 April: [Solar Eclipse is occuring](https://science.nasa.gov/eclipses/future-eclipses/eclipse-2024/)! [Future Solar Eclipse](https://eclipse.gsfc.nasa.gov/solar.html). 
 
 March: Dr Joyce Sim will be presenting at [LPSC](https://www.hou.usra.edu/meetings/lpsc2024/) on [Martian magma ocean](https://www.hou.usra.edu/meetings/lpsc2024/pdf/1559.pdf).
