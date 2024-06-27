@@ -26,6 +26,7 @@ The Earth and Atmospheric Science department at Georgia Tech was selected as [on
 * [Georgia Tech FOCUS program for underrepresented minority](https://focus.gatech.edu/) (November dateline)
 * [NASA FINESST](https://nspires.nasaprs.com/external/solicitations/summary!init.do?solId=%7b87947100-56AE-C4DC-C511-0349862D658A%7d&path=open) (February dateline)
 * [NSF GRFP](https://www.nsfgrfp.org/) (October dateline): [Here is a good guide](https://www.alexhunterlang.com/nsf-fellowship) and [a list of previous awardees examples/advice](https://docs.google.com/spreadsheets/d/1xoezGhbtcpg3BvNdag2F5dTQM-Xl2EELUgAfG1eUg0s/edit#gid=0)
+* [Georgia Tech Fellowship and Funding](https://grad.gatech.edu/fellowships-and-funding)
 
 ### Postdoctoral Scholars
 Please email me for information about current or upcoming opportunities in my lab and include a CV. 
