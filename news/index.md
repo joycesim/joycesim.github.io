@@ -5,6 +5,10 @@ title: News
 # {{page.title}}
 
 ### 2024
+August: Please welcome Georgia Tech undergraduate Abdulaziz Alajlan to the group for the Fall semester! 
+
+July: Have a good summer everyone!
+
 June: Dr Joyce Sim will be giving an invited talk at [SZ4D/NSF co-sponsored Workshop
 Workshop on Mantle Magma Supply and Imaging Magmatic Systems](https://www.sz4d.org/events/workshop-on-mantle-magma-supply-and-imaging-magmatic-systems) June 2-5, 2024, at Lamont-Doherty Earth Observatory!
 
