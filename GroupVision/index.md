@@ -65,7 +65,10 @@ Meet with your committee members at least once per year post qualifying exam.
 You should plan on writing a manuscript-based thesis that amounts to at least 3 papers that will be submitted to journals. 
 Joyce will work closely with you to plan/outline figures and content and then will review complete drafts once finished. 
 
-### c)     Which and how many courses, and when to take them
+Undergraduates, my goal is for you to explore what it means to do research in Earth Sciences. 
+Work hard but also have fun. 
+
+### c)     Which and how many courses, and when to take them 
 
 First years typically take 2-3 courses each semester.
 There are no set course list but there is a set knowledge list that you will try to take classes to fulfil for your qualifying exam in your second year.
@@ -122,7 +125,7 @@ You can regard graduate school as a full-time job (with room for both vacations 
 
 ### f)     Vacation policy
 
-You will take vacations because you are being paid as a full-time graduate student. Joyce is happy to discuss longer-than-average vacations with students, depending on your particular situation. Joyce will be away in Malaysia almost annually. 
+You will take vacations because you are being paid as a full-time graduate student. Joyce is happy to discuss longer-than-average vacations with students, depending on your particular situation. Joyce will be away in Malaysia most year for a few weeks. 
 You are expected to work during academic ‘holidays’ such as reading break. However, you are not expected to work during official University holidays and recesses -- look up the Georgia Tech Academic Calendar.
 
 ### g)    Balancing formal teaching and informal outreach activities with research time
@@ -132,19 +135,22 @@ If you’re looking for ways to get involved in community and/or affinity organi
 
 ### h)    Conference attendance – when and where?
 
-We tend to attend the American Geophysical Union science meeting in December or the biannual Ada Lovelace workshop in Europe.
+We tend to attend the American Geophysical Union (AGU) science meeting in December or the biannual Ada Lovelace workshop in Europe.
 Other conferences/workshops are the SEDI Gordon conference and European Geophysical Union (EGU). 
+There are travels grants within the department and also associated with each conference/workshop. 
+[Computational Infrastruture for Geodynamics (CIG)](https://geodynamics.org/) typically sponsors US participants to Ada Lovelace workshop in Europe. 
 
 ### i) Journals
 Be familiar with recently published material relevant to your research project. Below are some academic journals that may be of interest:
 
 + Journal of Geophysical Research - Solid Earth/Planets
 + Geophysical Research Letters
-+ Nature Geoscience
-+ Nature
-+ Science
++ Nature (Nature Geosciences)
++ Science (Science Advances)
 + Proceedings of the National Academy of Sciences
 + Planetary Science Journal (Society journal)
++ Physics of the Earth and Planetary Interiors
++ Earth and Planetary Science Letters
 
 Do sign up for ‘mail alerts’ from specific journals and more general publication ‘feeds’ (e.g. Google Scholar or Web of Science); by doing this, you can be kept informed of newly published literature related to your studies. If there is anything interesting, you can always bring it up for journal club! 
 
@@ -204,7 +210,7 @@ Backing up your work at least once a week is also crucial. Consider backing up y
 
 ### c)     Note taking
 
-Tracking and recording work is important. Taking clear notes feels boring but pays off massively later when you are writing. Use whatever you are most comfortable with to take notes during meetings.
+Tracking and recording work is important. Taking clear notes feels boring but pays off massively later when you are writing. Use whatever you are most comfortable with to take notes during meetings. Write as you do your research, commenting on your plots etc. 
 You may want to keep a separate journal to take notes on the department seminars you attend.
 You should use a citation management software, like Zotero, Mandalay, EndNote, or BibTeX, to manage the papers you’ve read (or will read) for each project (e.g., a class, your qualifying exam, a research project). It is very helpful to write a short summary in the notes about the paper so you don’t have to read the entire paper again down the road.
 
