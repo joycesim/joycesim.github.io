@@ -10,7 +10,7 @@ Please email me (jssim at eas dot gatech dot edu) for paper if you have trouble 
 
 [7] **S.J. Sim**, *T.Y. Yu**, C. Havlin, B. Holtzman (In Revisions) Persistence of fabrics in the oceanic lithosphere due to differential freezing
 
-[6] **S.J.Sim**, M.Hirschmann, S.Hier-Majumder (Accepted) Volatile and Trace Element Storage in a Crystallizing Martian Magma Ocean
+[6] **S.J.Sim**, M.Hirschmann, S.Hier-Majumder (2024) Volatile and Trace Element Storage in a Crystallizing Martian Magma Ocean, *Journal of Geophysical Research: Planets* , [http://dx.doi.org/10.1029/2024JE008346](http://dx.doi.org/10.1029/2024JE008346).
 
 [5] A. Robel, **S.J. Sim**, C. Meyer, M. Siegfried, C. Gustafson (2023) Contemporary Ice Sheet Thinning Drives Subglacial Groundwater Exfiltration, *Science Advances*, [https://www.science.org/doi/10.1126/sciadv.adh3693](https://www.science.org/doi/10.1126/sciadv.adh3693). 
 
