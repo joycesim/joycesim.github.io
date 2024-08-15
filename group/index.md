@@ -40,6 +40,8 @@ Here is the living [group vision document](https://joycesim.github.io/GroupVisio
 
 <br clear="center"/> 
 
+### Abdulaziz Alajlan (Georgia Tech Undergraduate Fall 2024 -- Present)
+
 ### [Your name and picture here! Join us!]
 
 ## Alumni
