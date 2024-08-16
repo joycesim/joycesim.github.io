@@ -47,6 +47,10 @@ My name is Abdulaziz Alajlan. I am from Riyadh, Saudi Arabia. I’m a Computer S
 <br clear="right"/> 
 
 ### Amita Anand (Georgia Tech Undergraduate Fall 2024 -- Present)
+<img align="right" src="/image/AmitaAnand.png" alt="Amita" title="Amita" width="250" />    
+
+I am a 4th year mathematics major from New Jersey. Within math I am interested in probability theory, statistics, and dynamical systems. I want to apply the pure math I have learned to geophysics to understand how the Earth works through modeling and simulation.
+<br clear="right"/> 
 
 
 ### [Your name and picture here! Join us!]
