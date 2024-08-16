@@ -46,6 +46,9 @@ Here is the living [group vision document](https://joycesim.github.io/GroupVisio
 My name is Abdulaziz Alajlan. I am from Riyadh, Saudi Arabia. I’m a Computer Science major with a minor in Environmental Science. I’m passionate about research, bioinformatics, and Data Science! I’ve had lots of great experiences in the EAS department, and hope that more opportunities will arise.
 <br clear="right"/> 
 
+### Amita Anand (Georgia Tech Undergraduate Fall 2024 -- Present)
+
+
 ### [Your name and picture here! Join us!]
 
 ## Alumni
