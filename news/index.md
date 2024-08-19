@@ -12,7 +12,7 @@ July: Have a good summer everyone!
 June: Dr Joyce Sim will be giving an invited talk at [SZ4D/NSF co-sponsored Workshop
 Workshop on Mantle Magma Supply and Imaging Magmatic Systems](https://www.sz4d.org/events/workshop-on-mantle-magma-supply-and-imaging-magmatic-systems) June 2-5, 2024, at Lamont-Doherty Earth Observatory!
 
-May: End of Semester at Georgia Tech! 
+May: End of Semester at Georgia Tech! [Blog post on two-phase flow out on the EGU Geodynamics blog!](https://blogs.egu.eu/divisions/gd/2024/05/22/two-phase-or-not-two-phase/)
 
 April: [Solar Eclipse is occuring](https://science.nasa.gov/eclipses/future-eclipses/eclipse-2024/)! [Future Solar Eclipse](https://eclipse.gsfc.nasa.gov/solar.html). 
 
