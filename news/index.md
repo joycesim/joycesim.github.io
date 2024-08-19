@@ -5,7 +5,7 @@ title: News
 # {{page.title}}
 
 ### 2024
-August: Please welcome Georgia Tech undergraduate Abdulaziz Alajlan to the group for the Fall semester! 
+August: Please welcome Georgia Tech undergraduate Abdulaziz Alajlan and Amita Anand to the group for the Fall semester! 
 
 July: Have a good summer everyone!
 
