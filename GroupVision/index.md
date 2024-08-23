@@ -54,6 +54,8 @@ Be proactive about eliminating bottlenecks to progress. Do you need to meet with
 It can be difficult to know how to divide your time between reading and writing papers and your research. Most people underestimate how long writing and reading takes. 
 “Time is the *only irreplaceable resource” (*except for your life and health – work efficiently, but always be safe!)
 
+Undergraduate credits
+
 ### b)    Measures of productivity – what are the benchmarks for progress?
 
 A PhD from Georgia Tech takes ~5 years. 
@@ -115,13 +117,15 @@ ME 7751. Computational Fluid Mechanics (3 Credit Hours). Numerical methods for s
 
 ### d)    How frequently to attend seminars, reading groups, and other academic activities
 
-Required: Weekly Thursday Department seminar and Geophysics Friday seminar    
-Recommended: Explorigins     
+Required: Weekly Thursday Department seminar (11am) and Geophysics Friday seminar (330pm L1175)   
+Recommended: Explorigins, Astrobiology seminar 
 
 ### e)     Expected working hours
 
 This is a work environment, where you are expected to be on task for the number of hours equivalent to a standard work day. In practical terms, however, you will find that the job of being a scientist does not always conform to standard hours.  
 You can regard graduate school as a full-time job (with room for both vacations and overtime) with a twist. You should work a 40 hour work week on average in a given semester. Do realise that you are working towards your degree in the end. You get what you put in so in that sense, it is different from a regular job. On the subject of ‘overtime’, there will probably be times when you will need to work on weekends if a deadline is near. 
+
+Undergraduate: hours according to credits
 
 ### f)     Vacation policy
 
@@ -136,7 +140,7 @@ If you’re looking for ways to get involved in community and/or affinity organi
 ### h)    Conference attendance – when and where?
 
 We tend to attend the American Geophysical Union (AGU) science meeting in December or the biannual Ada Lovelace workshop in Europe.
-Other conferences/workshops are the SEDI Gordon conference and European Geophysical Union (EGU). 
+Other conferences/workshops are the SEDI Gordon conference, European Geophysical Union (EGU), LPSC. 
 There are travels grants within the department and also associated with each conference/workshop. 
 [Computational Infrastruture for Geodynamics (CIG)](https://geodynamics.org/) typically sponsors US participants to Ada Lovelace workshop in Europe. 
 
