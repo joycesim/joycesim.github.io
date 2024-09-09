@@ -112,9 +112,11 @@ Resulting variations in important isotopic parent/daughter ratios (Sm/Nd, Lu/Hf)
 ### Software
 * [TerraFERMA (FEM PDE)](http://terraferma.github.io/)
 * [FEniCS Project (FEM)](https://fenicsproject.org/)
-* [PETSc (Parallel solver)](https://www.mcs.anl.gov/petsc/)
+* [PETSc (Parallel solvers)](https://www.mcs.anl.gov/petsc/)
 * [Gmsh (mesh)](https://gmsh.info/)
 * [Cubit (mesh)](https://cubit.sandia.gov/)
+* [G-Adopt (adjoint)](https://gadopt.org/)
+* [Firedrake (FEM PDE)](https://www.firedrakeproject.org/)
 
 ### Organizations
 * [Computational Infrastructure for Geodynamics (CIG)](https://geodynamics.org/cig/)
