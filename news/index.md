@@ -5,6 +5,8 @@ title: News
 # {{page.title}}
 
 ### 2024
+September: Both Dr Joyce Sim and Dr Mitchell McMillan will be attending and presenting at the [Ada Lovelace Workshop on Modelling Mantle and Lithosphere Dynamics](https://meetings.copernicus.org/2024AdaLovelaceWorkshop/) in Sete, France! 
+
 August: Please welcome Georgia Tech undergraduate Abdulaziz Alajlan and Amita Anand to the group for the Fall semester! 
 
 July: Have a good summer everyone!
