@@ -27,4 +27,11 @@ Please email me (jssim at eas dot gatech dot edu) for paper if you have trouble 
 
 [1] **S.J. Sim**, M. Spiegelman, D.R. Stegman, C. Wilson (major revisions) M3LT: A new open source model to explore the dynamics of Melt in the Mantle beneath Mid-ocean ridge.  
 
+## Software on Github-Zenodo (Typically with publication)
+[3] **S.J. Sim**, *Yu, T.-Y.* *, & Havlin, C. (2023). Frozen Melt Data (0.1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.10288494.
+
+[2] Saswata Hier-Majumder, & **S.J. Sim**. (2024). joycesim/MOE: Publication (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.11250589.
+
+[1] **S.J. Sim**, M. Spiegelman, D.R. Stegman, C. Wilson, (2020) Influence of permeability and spreading rate on melt focusing beneath mid-ocean ridges, *Physics of the Earth and Planetary Interiors*, [https://github.com/joycesim/M3LT_one_Uall](https://github.com/joycesim/M3LT_one_Uall).
+
 *Students* * , *Postdoc* **
