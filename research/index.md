@@ -148,6 +148,7 @@ Resulting variations in important isotopic parent/daughter ratios (Sm/Nd, Lu/Hf)
 * [Scientific Colormaps](https://www.mathworks.com/matlabcentral/fileexchange/68546-crameri-perceptually-uniform-scientific-colormaps)
 * ["Consistent Thermo- and Geo-dynamics" by Cian Wilson, Carnegie Science](https://www.youtube.com/watch?v=vM21WwjC69c)
 * [Nature Racism special issue](https://www.nature.com/immersive/d42859-022-00031-8/index.html)
+* [Melt in the Mantle workshop lectures](https://www.newton.ac.uk/event/mim/)
 
 ### Writing
 * [Coursera: Writing in the Sciences (Stanford)](https://www.coursera.org/learn/sciwrite)
