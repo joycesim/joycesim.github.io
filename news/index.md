@@ -5,6 +5,8 @@ title: News
 # {{page.title}}
 
 ### 2024
+October: [NASA Europa Clipper mission is launching!](https://science.nasa.gov/mission/europa-clipper/) 
+
 September: Both Dr Joyce Sim and Dr Mitchell McMillan will be attending and presenting at the [Ada Lovelace Workshop on Modelling Mantle and Lithosphere Dynamics](https://meetings.copernicus.org/2024AdaLovelaceWorkshop/) in Sete, France! 
 
 August: Please welcome Georgia Tech undergraduate Abdulaziz Alajlan and Amita Anand to the group for the Fall semester! Hot off the press! Paper on [Volatile and Trace Element Storage in a Crystallizing Martian Magma Ocean](https://doi.org/10.1029/2024JE008346) is out in JGR-Planets! 
