@@ -63,7 +63,7 @@ Currently Bridge to Graduate school fellow at Lamont-Doherty Earth Observatory, 
 *EAS-REU and CIG-SMOREs program; Current PhD student at UCSB*.   
 
 ## ACTIVE GRANTS
-**NSF Tectonics** "RUI: Collaborative Research: Resolving the effects of lithospheric foundering on mountain building: An example from the southern Puna plateau, Argentina," EAR 2420822 (co-PI) $375k (2024-2027), Alex Tye (Lead PI; Utah Tech University), Marissa Trembley (co-PI; Purdue University), Lindsay Schoenbohm (Collaborator; University of Toronto).
+**NSF Tectonics** "RUI: Collaborative Research: Resolving the effects of lithospheric foundering on mountain building: An example from the southern Puna plateau, Argentina," EAR 2420822 (co-PI) $375k (2024-2027), Alex Tye (Lead PI; Utah Tech University), Marissa Trembley (co-PI; Purdue University), Lindsay Schoenbohm (Collaborator; University of Toronto).   
 **NSF Geophysics/Petrology and Geochemistry** "Eclogitization of continental lithosphere from subduction zone devolatilization," EAR 2323318 (PI) $385k (2023-2025), Cian Wilson (Collaborator; Carnegie Institution for Science).         
 
 ## HONORS AND AWARDS
