@@ -5,7 +5,7 @@ title: News
 # {{page.title}}
 
 ### 2024
-October: [NASA Europa Clipper mission is launching!](https://science.nasa.gov/mission/europa-clipper/) 
+October: [NASA Europa Clipper mission is launching!](https://science.nasa.gov/mission/europa-clipper/) Dr Joyce Sim will be part of [the PROGRESS Pathways panel held at Georgia Tech on 18 Oct](https://sites.google.com/rams.colostate.edu/atlanta2024/panelist-bios)!
 
 September: Both Dr Joyce Sim and Dr Mitchell McMillan will be attending and presenting at the [Ada Lovelace Workshop on Modelling Mantle and Lithosphere Dynamics](https://meetings.copernicus.org/2024AdaLovelaceWorkshop/) in Sete, France! 
 
