@@ -63,7 +63,8 @@ Currently Bridge to Graduate school fellow at Lamont-Doherty Earth Observatory, 
 *EAS-REU and CIG-SMOREs program; Current PhD student at UCSB*.   
 
 ## ACTIVE GRANTS
-**NSF Geophysics/Petrology and Geochemistry** "Eclogitization of continental lithosphere from subduction zone devolatilization," EAR 2323318 (PI) $385k (2023-2025).         
+**NSF Tectonics** "RUI: Collaborative Research: Resolving the effects of lithospheric foundering on mountain building: An example from the southern Puna plateau, Argentina," EAR 2420822 (co-PI) $375k (2024-2027), Alex Tye (Lead PI; Utah Tech University), Marissa Trembley (co-PI; Purdue University), Lindsay Schoenbohm (Collaborator; University of Toronto).
+**NSF Geophysics/Petrology and Geochemistry** "Eclogitization of continental lithosphere from subduction zone devolatilization," EAR 2323318 (PI) $385k (2023-2025), Cian Wilson (Collaborator; Carnegie Institution for Science).         
 
 ## HONORS AND AWARDS
 **Paul G. Silver Young Scholar Research Enhancement Award, IGPP, SIO 2015**.  
@@ -73,12 +74,12 @@ Thurgood Marshall College and Scripps Institution of Oceanography.
  
 ## PEER-REVIEWED PUBLICATIONS
 [9] M. McMillan**, **S.J. Sim**, C. Wilson (In revision) Reactive thermodynamics of crustal foundering    
-[8] **S.J. Sim**, T.Y. Yu*, C. Havlin, B. Holtzman (In revision) Persistence of fabrics in the oceanic lithosphere due to differential freezing     
-[7] **S.J.Sim**, M.Hirschmann, S.Hier-Majumder (Accepted) Volatile and Trace Element Storage in a Crystallizing Martian Magma Ocean      
+[8] **S.J. Sim**, T.Y. Yu*, C. Havlin, B. Holtzman (In revision) Persistence of fabrics in the oceanic lithosphere due to differential freezing       
+[7] **S.J.Sim**, M.Hirschmann, S.Hier-Majumder (2024) Volatile and Trace Element Storage in a Crystallizing Martian Magma Ocean, *JGR-Planets*, https://doi.org/10.1029/2024JE008346.   
 [6] **S.J. Sim**, M. Spiegelman, D.R. Stegman, C. Wilson (In revisions) M3LT: A new open source model to explore the dynamics of Melt in the Mantle beneath Mid-ocean ridge, *Geochem. Geophys. Geosyst.*.     
-[5] A. Robel, **S.J. Sim**, C. Meyer, M. Siegfried, C. Gustafson (2023) Contemporary Ice Sheet Thinning Drives Subglacial Groundwater Exfiltration.   
-[4] **S.J. Sim** (2022) Persistent magma-rich waves beneath mid-ocean ridges explain long periodicity on ocean floor fabric. 
-[3] R. Parnell-Turner, **S.J. Sim**, J.A. Olive, (2020) Time-dependent crustal accretion on the Southeast Indian Ridge from Malaysia Airlines flight MH370 search data, *Geophysical Research Letters*,  https://doi.org/10.1029/2020GL087349.  
+[5] A. Robel, **S.J. Sim**, C. Meyer, M. Siegfried, C. Gustafson (2023) Contemporary Ice Sheet Thinning Drives Subglacial Groundwater Exfiltration, *Science Advances*, doi/10.1126/sciadv.adh3693.     
+[4] **S.J. Sim** (2022) Persistent magma-rich waves beneath mid-ocean ridges explain long periodicity on ocean floor fabric *Geophysical Research Letters*,  https://doi.org/10.1029/2022GL098110.    
+[3] R. Parnell-Turner, **S.J. Sim**, J.A. Olive, (2020) Time-dependent crustal accretion on the Southeast Indian Ridge from Malaysia Airlines flight MH370 search data, *Geophysical Research Letters*,  https://doi.org/10.1029/2020GL087349.   
 [2] **S.J. Sim**, M. Spiegelman, D.R. Stegman, C. Wilson, (2020) Influence of permeability and spreading rate on melt focusing beneath mid-ocean ridges, *Physics of the Earth and Planetary Interiors*, https://doi.org/10.1016/j.pepi.2020.106486.  
 [1] **S.J. Sim**, D.R. Stegman, N. Coltice, (2016) Influence of Continental growth on mid-ocean ridge depth, *Geochem. Geophys. Geosyst.*, 17 (11), 4425-4437,  https://doi.org/10.1002/2016GC006629.
 
@@ -112,7 +113,9 @@ Thurgood Marshall College and Scripps Institution of Oceanography.
 [1] Fall AGU meeting, 2011.  
 
 ## LEADERSHIP AND OUTREACH EXPERIENCE
-**First Gen Faculty inaugural cohort (Georgia Tech)** 2023-2024
+**PROGRESS mentor** 2024-2025.   
+**PROGRESS Pathways panelist** Fall 2024.   
+**First Gen Faculty inaugural cohort (Georgia Tech)** 2023-2024.
 **Elected Postdoctoral representative at Carnegie Institution for Science** 2019 - 2020.  
 **Women and Minorities in Science (SIO)** 2012 - 2017.  
 **Team for Inclusion & Diversity in Education & Science (SIO)** 2012 - 2016.  
@@ -139,7 +142,7 @@ Prof. Dave Stegman.
 Teaching Assistant for Prof. Gabi Laske.  
 
 ## PROFESSIONAL ACTIVITIES
-**Reviewer:** NSF, Geophysical research letters, Gcubed, Earth and Planetary Science Letters, Nature Geoscience, Science Advances, Geology, Geophysical Journal International.    
+**Reviewer:** NSF, NASA, Geophysical research letters, Gcubed, Earth and Planetary Science Letters, Nature Geoscience, Science Advances, Geology, Geophysical Journal International.    
 **Executive Secretary and Panelist**, NASA Solar Systems Workings ROSES.   
 **Co-chair**, Session at Lunar and Planetary Science Conference, Woodlands, TX.   
 **Co-organizer**, Serpentinite, Fluids and Plate Boundary Deformation in Subduction Zones scientific workshop 2024, Québec, Canada.    
