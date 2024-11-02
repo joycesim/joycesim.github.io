@@ -126,6 +126,7 @@ Resulting variations in important isotopic parent/daughter ratios (Sm/Nd, Lu/Hf)
 * [Advanced Cyberinfrastructure Coordination Ecosystem: Services & Support (ACCESS)](https://access-ci.org/)
 * [National Science Foundation (NSF)](https://www.nsf.gov/), [NSF Resource Center](https://nsfpolicyoutreach.com/resource-center/), [NSF Active CSEDI Awards](https://www.nsf.gov/awardsearch/advancedSearchResult?PIId=&PIFirstName=&PILastName=&PIOrganization=&PIState=&PIZip=&PICountry=&ProgOrganization=&ProgEleCode=1585&BooleanElement=All&ProgRefCode=&BooleanRef=All&Program=&ProgOfficer=&Keyword=&AwardNumberOperator=&AwardAmount=&AwardInstrument=&ActiveAwards=true&OriginalAwardDateOperator=&StartDateOperator=&ExpDateOperator=)
 * [National Aeronautics and Space Administration (NASA)](https://www.nasa.gov/)
+* [Subduction Zone 4D (SZ4D)](https://www.sz4d.org/)
 
 ### Instruction
 * [Science Education Resource Center (SERC) at Carleton College](https://serc.carleton.edu/NAGTWorkshops/earlycareer/index.html)
@@ -136,6 +137,11 @@ Resulting variations in important isotopic parent/daughter ratios (Sm/Nd, Lu/Hf)
 ### Workshops
 * [Ada Lovelace Workshop](https://www.egu.eu/gd/meetings/conference-series/ada-lovelace-workshops-on-modelling-mantle-and-lithosphere-dynamics/)
 * [Cooperative Institute for Dynamic Earth Research (CIDER)](https://www.deep-earth.org/)
+
+### Seminars
+* [Georgia Tech EAS Solid Earth seminar](https://sites.gatech.edu/eas-solid-earth/)
+* [Georgia Tech EAS departmental seminar](https://eas.gatech.edu/eas-seminar-schedule)
+* [Virtual Seminar in Precambrian Geology (VS-PG) Seminar](https://sites.google.com/ucr.edu/vs-pg/home)
 
 ### Lectures/Tutorials/Articles
 * 50 years of Plate Tectonics: [Parisian Collège de France 2018](https://www.college-de-france.fr/fr/agenda/colloque/50-years-of-plate-tectonics-then-now-and-beyond), [Lamont 2016](https://lamont.columbia.edu/about/luminaries-signature-events/plate-tectonics-symposium-2016), [Geological Society](https://www.geolsoc.org.uk/wsmith17)
@@ -149,6 +155,7 @@ Resulting variations in important isotopic parent/daughter ratios (Sm/Nd, Lu/Hf)
 * ["Consistent Thermo- and Geo-dynamics" by Cian Wilson, Carnegie Science](https://www.youtube.com/watch?v=vM21WwjC69c)
 * [Nature Racism special issue](https://www.nature.com/immersive/d42859-022-00031-8/index.html)
 * [Melt in the Mantle workshop lectures](https://www.newton.ac.uk/event/mim/)
+* [SZ4D webinar](https://www.sz4d.org/past)
 
 ### Writing
 * [Coursera: Writing in the Sciences (Stanford)](https://www.coursera.org/learn/sciwrite)
