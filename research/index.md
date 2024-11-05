@@ -127,6 +127,7 @@ Resulting variations in important isotopic parent/daughter ratios (Sm/Nd, Lu/Hf)
 * [National Science Foundation (NSF)](https://www.nsf.gov/), [NSF Resource Center](https://nsfpolicyoutreach.com/resource-center/), [NSF Active CSEDI Awards](https://www.nsf.gov/awardsearch/advancedSearchResult?PIId=&PIFirstName=&PILastName=&PIOrganization=&PIState=&PIZip=&PICountry=&ProgOrganization=&ProgEleCode=1585&BooleanElement=All&ProgRefCode=&BooleanRef=All&Program=&ProgOfficer=&Keyword=&AwardNumberOperator=&AwardAmount=&AwardInstrument=&ActiveAwards=true&OriginalAwardDateOperator=&StartDateOperator=&ExpDateOperator=)
 * [National Aeronautics and Space Administration (NASA)](https://www.nasa.gov/)
 * [Subduction Zone 4D (SZ4D)](https://www.sz4d.org/)
+* [Volcanology Infrastructure for Computational Tools and Resources (VICTOR)](https://victor.ldeo.columbia.edu/),[VICTOR software](https://docs.victorproject.org/en/latest/index.html)
 
 ### Instruction
 * [Science Education Resource Center (SERC) at Carleton College](https://serc.carleton.edu/NAGTWorkshops/earlycareer/index.html)
