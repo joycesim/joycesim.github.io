@@ -14,5 +14,5 @@ Hi, Welcome to the Sim Lab! I am Dr Shi Joyce Sim, an assistant professor at the
 Science flourishes in an open and inclusive culture. At SimLab, we strongly support diversity, equity, and inclusion, with respect to race, ethnicity, nationality, gender, gender identity, disability status, religion, and socioeconomic background. We strive to build a healthy scientific community where scientists of any backgrounds are welcomed and respected. Come learn with us! (Adapted from [Hannah Choi's group](https://hannahchoi.math.gatech.edu/))
 
 ### Land Acknowledgment
-We acknowledge the Muscogee Creek and Cherokee people, who have lived on and nurtured the land on which the lab is currently situated. (Adapted from [Hannah Choi's group](https://hannahchoi.math.gatech.edu/))
+We acknowledge the Muscogee Creek and Cherokee people, who have lived on and nurtured the land on which the lab is currently situated. Learn more about [the Muscogee Nation](https://www.muscogeenation.com/) and [ the Cherokee Nation](https://cherokee.org/).
 
