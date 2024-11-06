@@ -70,6 +70,8 @@ Lindsay Schoenbohm (University of Toronto)
 Marissa Tremblay (Purdue University).  
 Saswata Hier-Majumder (DOE).  
 Alex Robel (Georgia Tech)    
+Maelis Arnould (University of Lyon, France)   
+
 
 ## Alumni
 ### Shradha Ravikumar (Summer UNAVCO RESESS Programme 2023) -- Onwards to intern program at Lamont-Doherty Earth Observatory, Columbia University
