@@ -56,20 +56,20 @@ I am a 4th year mathematics major from New Jersey. Within math I am interested i
 
 ## Collaborators
 
-### Ross Parnell-Turner (SIO)
-### Jean-Arthur Olive (CNRS, France)
-### Marc Hirschmann (University of Minnesota)
-### Adina Pusok (University of Oxford, UK)
-### Mousumi Roy (University of New Mexico)
-### Dave Stegman (SIO)
-### Cian Wilson (Carnegie Institution for Science)
-### Chris Havlin (University of Illinois at Urbana‐Champaign)
-### Marc Spiegelman (Columbia University)
-### Alex Tye (Utah Tech University)
-### Lindsay Schoenbohm (University of Toronto)
-### Marissa Tremblay (Purdue University)
-### Saswata Hier-Majumder (DOE)
-### Alex Robel (Georgia Tech) 
+Ross Parnell-Turner (SIO)   
+Jean-Arthur Olive (CNRS, France).  
+Marc Hirschmann (University of Minnesota).  
+Adina Pusok (University of Oxford, UK).  
+Mousumi Roy (University of New Mexico).  
+Dave Stegman (SIO)   
+Cian Wilson (Carnegie Institution for Science)   
+Chris Havlin (University of Illinois at Urbana‐Champaign).  
+Marc Spiegelman (Columbia University).  
+Alex Tye (Utah Tech University).  
+Lindsay Schoenbohm (University of Toronto)   
+Marissa Tremblay (Purdue University).  
+Saswata Hier-Majumder (DOE).  
+Alex Robel (Georgia Tech)    
 
 ## Alumni
 ### Shradha Ravikumar (Summer UNAVCO RESESS Programme 2023) -- Onwards to intern program at Lamont-Doherty Earth Observatory, Columbia University
