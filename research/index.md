@@ -59,7 +59,7 @@ Regional metamorphism and densification (eclogitization) of the lower crust can 
 We present a reactive thermodynamic model of the granulite--eclogite transition to investigate the long-term buoyancy and gravitational stability of the lower crust.
 First, we characterize the conditions for which orogenic crust attains negative buoyancy by determining its reactive mineral assemblage and density under prescribed pressure--temperature--time paths.
 Using existing metamorphic rate data, we calibrate a Damko\"hler number (a relative reaction rate) to parameterize the catalytic effect of aqueous fluids.
-The depth necessary for negative buoyancy is sensitive to temperature and Da, ranging from about 45-70 km for a basaltic-andesite composition (54 wt.\% \SiOtwo).
+The depth necessary for negative buoyancy is sensitive to temperature and Da, ranging from about 45-70 km for a basaltic-andesite composition (54 wt.\% $SiO_2$).
 Second, using a Rayleigh--Taylor instability analysis, we suggest that, while cold eclogitic crusts would be strong enough to resist foundering within 50 Myr, warm crusts could obtain large thicknesses of about 10-30 km and would founder within 50 Myr.
 We hypothesize that such foundering events are a natural consequence of convergent tectonics, where the aqueous fluids and high pressures required for metamorphism are known to exist.
 The Pampean flat slab in the Central Andes provides geophysical evidence linking slab fluids to eclogitization and densification of the thickened continental crust.
@@ -78,11 +78,6 @@ The Puna plateau preserves a unique sedimentary record of Cenozoic mountain-buil
 
 
 
-<img align="right" src="/image/f01.png" alt="Subduction fluid flux to the overlying lower crust" width="500"/>   
-
-
-<br clear="right"/>
-
 &nbsp;&nbsp;&nbsp;&nbsp;    
 
 ## Cryosphere and planetary systems
@@ -91,7 +86,7 @@ The Puna plateau preserves a unique sedimentary record of Cenozoic mountain-buil
 
 ### Exfiltration of ground water beneath thinning Antarctic ice sheets
 
-The two-phase flow formulation applies to many environments including the icy poles on Earth and water worlds. Collaborations at GeorgiaTech has led to the understanding of the potential for groundwater exfiltration beneath the thinning Antarctic ice sheets. Groundwater-laden sedimentary aquifers are extensive beneath large portions of the Greenland and Antarctic ice sheets. With a simple theory, it is shown that as the ice sheets thin, there is a potential for exfiltration that can be a dominant component of the subglacial water budget. Continued Antarctic Ice Sheet thinning over the coming decades to centuries guarantees that the role of exfiltration in the basal water budget will only continue to grow into the future, suggesting the need to develop better integrated models of interactions between subglacial groundwater and drainage.
+The two-phase flow formulation applies to many environments including the icy poles on Earth and water worlds. Collaborations at GeorgiaTech has led to the understanding of the potential for groundwater exfiltration beneath the thinning Antarctic ice sheets. Groundwater-laden sedimentary aquifers are extensive beneath large portions of the Greenland and Antarctic ice sheets. With a simple theory, it is shown that as the ice sheets thin, there is a potential for exfiltration that can be a dominant component of the subglacial water budget. Continued Antarctic Ice Sheet thinning over the coming decades to centuries guarantees that the role of exfiltration in the basal water budget will only continue to grow into the future, suggesting the need to develop better integrated models of interactions between subglacial groundwater and drainage. [Robel et al, 2023](https://www.science.org/doi/10.1126/sciadv.adh3693)
 
 <br clear="right"/> 
 
@@ -107,7 +102,7 @@ Similar to ice on Earth, there are icy environments in other planetary systems s
 
 ### Volatile trapping during magma ocean crystallization on Mars
 Immediately following core formation on Mars, the planet underwent a magma ocean (MO) phase. Volatiles released from the MO fostered a primitive atmosphere (PA) which modulated heat loss from the cooling planet through the greenhouse effect. The solidification and degassing of the MO are therefore coupled. In this work, we investigate two important aspects of this evolution: 1) the dynamics of melt trapping at the freezing front of the residual mantle (RM) and 2) the oxidation state during crystallization. For crystallization rates applicable to the martian MO, compaction is inefficient, leading to large fractions of melt trapped together with the crystals accumulating in the RM. The $H_2O$ content of the martian RM is strongly influenced by dynamic melt trapping. Following MO crystallization, up to 55.4% of the initial $H_2O$ in the MO is sequestered in the RM, with the rest outgassed to the surface. Dynamic melt trapping also limits variations in trace element concentrations and fractionations. 
-Resulting variations in important isotopic parent/daughter ratios (Sm/Nd, Lu/Hf) cannot account for all of the isotopic diversity inferred for martian basalt source regions, hence requiring alternative mechanisms. The redox state of the MO exerts a strong control on the total $CO_2$ content of the RM and the time of crystallization. Under oxidizing conditions, the residual mantle stores 0.01% of the delivered $CO_2$ but under the most reducing conditions we examined, the residual mantle can sequester 80.4% in the form of trapped carbonated melt and graphite/diamond.
+Resulting variations in important isotopic parent/daughter ratios (Sm/Nd, Lu/Hf) cannot account for all of the isotopic diversity inferred for martian basalt source regions, hence requiring alternative mechanisms. The redox state of the MO exerts a strong control on the total $CO_2$ content of the RM and the time of crystallization. Under oxidizing conditions, the residual mantle stores 0.01% of the delivered $CO_2$ but under the most reducing conditions we examined, the residual mantle can sequester 80.4% in the form of trapped carbonated melt and graphite/diamond. [Sim et. al., 2024](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024JE008346), [LPSC 2024](https://www.hou.usra.edu/meetings/lpsc2024/pdf/1559.pdf)
 
 <br clear="right"/>  
 
