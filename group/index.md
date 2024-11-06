@@ -59,7 +59,7 @@ I am a 4th year mathematics major from New Jersey. Within math I am interested i
 [Ross Parnell-Turner (SIO)](https://rosspt.weebly.com/)   
 [Jean-Arthur Olive (CNRS, France)](https://jaolive.weebly.com/)   
 [Marc Hirschmann (University of Minnesota)](https://cse.umn.edu/esci/marc-hirschmann)   
-[Adina Pusok (University of Oxford, UK)]((https://apusok.github.io/)    
+[Adina Pusok (University of Oxford, UK)](https://apusok.github.io/)    
 [Mousumi Roy (University of New Mexico)](https://physics.unm.edu/people/faculty/mousumi-roy.html)     
 [Dave Stegman (SIO)](https://dstegman.scrippsprofiles.ucsd.edu/)   
 [Cian Wilson (Carnegie Institution for Science)](https://carnegiescience.edu/dr-cian-wilson)   
