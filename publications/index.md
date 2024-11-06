@@ -6,9 +6,9 @@ title: Publications
 
 Please email me (jssim at eas dot gatech dot edu) for paper if you have trouble getting it. 
 
-[8] *M. McMillan* ** , **S.J. Sim**, C. Wilson (In Revisions) Reactive thermodynamics of crustal foundering
+[8] *M. McMillan* ** , **S.J. Sim**, C. Wilson (Submitted) Reactive thermodynamics of crustal foundering
 
-[7] **S.J. Sim**, *T.Y. Yu* * , C. Havlin, B. Holtzman (In Revisions) Persistence of fabrics in the oceanic lithosphere due to differential freezing
+[7] **S.J. Sim**, *T.Y. Yu* * , C. Havlin (Accepted) Persistence of fabrics in the oceanic lithosphere due to differential freezing, *Geophysical Research Letters*.
 
 [6] **S.J.Sim**, M.Hirschmann, S.Hier-Majumder (2024) Volatile and Trace Element Storage in a Crystallizing Martian Magma Ocean, *Journal of Geophysical Research: Planets* , [http://dx.doi.org/10.1029/2024JE008346](http://dx.doi.org/10.1029/2024JE008346).
 
