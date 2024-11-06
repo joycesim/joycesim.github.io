@@ -53,25 +53,35 @@ In the deep carbon cycle, the largest contributor of CO2 to the atmosphere are b
 ### Eclogitization of continental lithosphere from subduction zone devolatilization   
 <img align="right" src="/image/f01.png" alt="Subduction fluid flux to the overlying lower crust" width="500"/>   
 
-Subduction zones are regions where one tectonic plate slides and sinks beneath another, and they have been a major focus of research in the field of Earth Science due to their association with mountain-building and with natural hazards like earthquakes and volcanic eruptions. 
-Improving the understanding of processes involving the sinking of these rocks into the Earth's interior, known as foundering, holds valuable insights for subduction zones and continental crust research. 
-The foundering process requires the rocks are of greater density than their surroundings. 
-This project will explore the processes controlling the transformation of rocks in the lower continental crust to greater density resulting from mineral transformations and the degree to which the process requires fluid-mediated reactions common in subduction zones. 
-The results of this modeling study will be compared to rocks found in Norway that are thought to have returned to the surface after undergoing this densification process. 
-This project seeks to address a notable knowledge gap concerning the mechanisms behind mountain-building processes beneath the Earth's surface, known as orogenesis. 
-The primary focus of this project is on understanding the role of reactive fluids and the thermodynamics of eclogitization in the deep crust. 
-To accomplish this, the project aims to develop advanced models that integrate the thermodynamics of eclogitization with simulations of fluid flow. 
-These models will enable researchers to investigate the interactions between fluids and the eclogitization process and determine the timescales associated with metamorphism and the sinking of the lithosphere. 
-The project will consist of two interconnected numerical modeling studies. 
-First, models of disequilibrium thermodynamics will be developed to capture the behavior of key mineral phases and reactions. These models will then be coupled with simulations of fluid flow and rock deformation. 
-To validate and gain insights from the models, the researchers will compare the model outputs with the grain-scale to regional-scale structures observed in well-documented eclogites from Norway. 
-This analysis will allow them to test the hypothesis that lithospheric foundering is a global phenomenon and a consequence of orogenesis. 
-Moreover, the models will provide valuable information about the specific conditions under which eclogitization becomes thermodynamically favorable and the timescales required for significant accumulations of eclogite in the lower crust. 
-The researchers will explore these processes across a diverse range of initial rock compositions, representing the wide variety found in the Earth's continental crust. 
-Ultimately, the project aims to enhance our overall understanding of the complex metamorphic and metasomatic processes that occurs during mountain formation. 
+Subduction zones are regions where one tectonic plate collide and is forced beneath another plate, resulting in natural hazards like earthquakes and volcanic eruptions along with mountain building (orogenesis). 
+Where the continental crust is thick, foundering or the removal of the lower crust can sometimes occur due to a phase change (eclogitization) that makes it denser than the surrounding and therefore unstable. 
+Regional metamorphism and densification (eclogitization) of the lower crust can affect the lithospheric dynamics of mountain belts, but the coupled effects of reaction rate, temperature, and composition on metamorphism are poorly understood.
+We present a reactive thermodynamic model of the granulite--eclogite transition to investigate the long-term buoyancy and gravitational stability of the lower crust.
+First, we characterize the conditions for which orogenic crust attains negative buoyancy by determining its reactive mineral assemblage and density under prescribed pressure--temperature--time paths.
+Using existing metamorphic rate data, we calibrate a Damko\"hler number (a relative reaction rate) to parameterize the catalytic effect of aqueous fluids.
+The depth necessary for negative buoyancy is sensitive to temperature and Da, ranging from about 45-70 km for a basaltic-andesite composition (54 wt.\% \SiOtwo).
+Second, using a Rayleigh--Taylor instability analysis, we suggest that, while cold eclogitic crusts would be strong enough to resist foundering within 50 Myr, warm crusts could obtain large thicknesses of about 10-30 km and would founder within 50 Myr.
+We hypothesize that such foundering events are a natural consequence of convergent tectonics, where the aqueous fluids and high pressures required for metamorphism are known to exist.
+The Pampean flat slab in the Central Andes provides geophysical evidence linking slab fluids to eclogitization and densification of the thickened continental crust.
+Lithospheric foundering coupled to convergent tectonics through eclogitization could explain many observations of orogenic hinterland deformation and magmatism.
+Next, we couple this reactive thermodynamic model to fluid transport to recreate the observations of Norwegian eclogites. 
 
 <br clear="right"/>
- 
+
+
+### Resolving the effects of lithospheric foundering on mountain building: An example from the southern Puna plateau, Argentina
+
+Earth’s largest mountain belts and high plateaus are supported by thick, buoyant crust and an anomalous lack of dense lower crust and mantle lithosphere.  
+This project will investigate the processes by which the lower crust and lithosphere are removed by sinking, known as foundering, and the imprint of such processes on the geologic record.  The work will focus on the southern Puna plateau, NW Argentina, where multiple lithosphere removal events are hypothesized from geological, geophysical, and geochemical datasets.  
+By pairing dense geological datasets with numerical modeling results, the project will test the geological evidence and physical feasibility of hypothesized modes of lithosphere removal.  
+The Puna plateau preserves a unique sedimentary record of Cenozoic mountain-building, and Miocene lithospheric foundering has long been proposed from geophysical and geochemical datasets. Recent studies suggest foundering as an explanation for anomalous Miocene subsidence/shortening and uplift/extension of the Arizaro and Antofalla Basins, respectively, ~150 km apart.  The opposite senses of deformation associated with these potential foundering events suggests that foundering may induce highly diverse modes of deformation in the overlying crust, potentially controlled by the thermal, compositional, or structural state of the crust.  We will undertake a multi-disciplinary study using geologic mapping, measured stratigraphic sections, and geo- and thermochronology to better constrain the spatial-temporal distribution of deformation and subsidence in the southern Puna plateau, as well as cutting-edge numerical modeling to characterize controls on foundering style or other processes that may have driven deformation in the region.  This integrated approach will allow rigorous testing of whether foundering is consistent with observations from the Antofalla and Arizaro Basins, and if so, what crustal parameters control the effects of foundering.
+
+
+
+<img align="right" src="/image/f01.png" alt="Subduction fluid flux to the overlying lower crust" width="500"/>   
+
+
+<br clear="right"/>
 
 &nbsp;&nbsp;&nbsp;&nbsp;    
 
@@ -81,8 +91,7 @@ Ultimately, the project aims to enhance our overall understanding of the complex
 
 ### Exfiltration of ground water beneath thinning Antarctic ice sheets
 
-The two-phase flow formulation applies to many environments including the icy poles on Earth and water worlds. Collaborations at Georgia
-Tech has led to the understanding of the potential for groundwater exfiltration beneath the thinning Antarctic ice sheets. Groundwater-laden sedimentary aquifers are extensive beneath large portions of the Greenland and Antarctic ice sheets. With a simple theory, it is shown that as the ice sheets thin, there is a potential for exfiltration that can be a dominant component of the subglacial water budget. Continued Antarctic Ice Sheet thinning over the coming decades to centuries guarantees that the role of exfiltration in the basal water budget will only continue to grow into the future, suggesting the need to develop better integrated models of interactions between subglacial groundwater and drainage.
+The two-phase flow formulation applies to many environments including the icy poles on Earth and water worlds. Collaborations at GeorgiaTech has led to the understanding of the potential for groundwater exfiltration beneath the thinning Antarctic ice sheets. Groundwater-laden sedimentary aquifers are extensive beneath large portions of the Greenland and Antarctic ice sheets. With a simple theory, it is shown that as the ice sheets thin, there is a potential for exfiltration that can be a dominant component of the subglacial water budget. Continued Antarctic Ice Sheet thinning over the coming decades to centuries guarantees that the role of exfiltration in the basal water budget will only continue to grow into the future, suggesting the need to develop better integrated models of interactions between subglacial groundwater and drainage.
 
 <br clear="right"/> 
 
