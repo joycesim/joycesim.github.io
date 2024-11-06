@@ -56,21 +56,21 @@ I am a 4th year mathematics major from New Jersey. Within math I am interested i
 
 ## Collaborators
 
-Ross Parnell-Turner (SIO)   
-Jean-Arthur Olive (CNRS, France).  
-Marc Hirschmann (University of Minnesota).  
-Adina Pusok (University of Oxford, UK).  
-Mousumi Roy (University of New Mexico).  
-Dave Stegman (SIO)   
-Cian Wilson (Carnegie Institution for Science)   
-Chris Havlin (University of Illinois at Urbana‐Champaign).  
-Marc Spiegelman (Columbia University).  
-Alex Tye (Utah Tech University).  
-Lindsay Schoenbohm (University of Toronto)   
-Marissa Tremblay (Purdue University).  
-Saswata Hier-Majumder (DOE).  
-Alex Robel (Georgia Tech)    
-Maelis Arnould (University of Lyon, France)   
+[Ross Parnell-Turner (SIO)](https://rosspt.weebly.com/)   
+[Jean-Arthur Olive (CNRS, France)](https://jaolive.weebly.com/)   
+[Marc Hirschmann (University of Minnesota)](https://cse.umn.edu/esci/marc-hirschmann)   
+[Adina Pusok (University of Oxford, UK)]((https://apusok.github.io/)    
+[Mousumi Roy (University of New Mexico)](https://physics.unm.edu/people/faculty/mousumi-roy.html)     
+[Dave Stegman (SIO)](https://dstegman.scrippsprofiles.ucsd.edu/)   
+[Cian Wilson (Carnegie Institution for Science)](https://carnegiescience.edu/dr-cian-wilson)   
+[Chris Havlin (University of Illinois at Urbana‐Champaign)](https://ischool.illinois.edu/people/chris-havlin)    
+[Marc Spiegelman (Columbia University)](https://www.apam.columbia.edu/faculty/marc-spiegelman)   
+[Alex Tye (Utah Tech University)](https://www.alextye.com/)   
+[Lindsay Schoenbohm (University of Toronto)](https://discover.research.utoronto.ca/24060-lindsay-schoenbohm)   
+[Marissa Tremblay (Purdue University)](https://www.eaps.purdue.edu/people/profile/tremblam.html)   
+Saswata Hier-Majumder (DOE)   
+[Alex Robel (Georgia Tech)](https://iceclimate.eas.gatech.edu/)    
+[Maelis Arnould (University of Lyon, France)](https://lgltpe.ens-lyon.fr/annuaire/arnould-maelis)   
 
 
 ## Alumni
