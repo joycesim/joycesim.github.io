@@ -32,12 +32,14 @@ Here is the living [group vision document](https://joycesim.github.io/GroupVisio
 
 ### Chazerae (Ayo) Pierce-Walker (PhD student Fall 2023 -- Present)
 <img align="center" src="/image/Ayo.JPG" alt="Ayo" title="Ayo" width="200" />    
+*working on Europa icy shell melt water transport
 
 <br clear="center"/> 
 
 ### Brandon J. Lopez (PhD student Fall 2023 -- Present)
 <img align="center" src="/image/Brandon.JPG" alt="Brandon" title="Brandon" width="200" />    
-
+*working on magma ocean-atmospheric dynamics on Earth, Venus and exoplanets
+  
 <br clear="center"/> 
 
 ### Abdulaziz Alajlan (Georgia Tech Undergraduate Fall 2024 -- Present)
