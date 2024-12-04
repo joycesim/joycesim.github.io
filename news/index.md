@@ -5,6 +5,8 @@ title: News
 # {{page.title}}
 
 ### 2024
+December: Hot off the press! Paper on [Persistent Heterogeneities in the Oceanic Lithosphere Due To Differential Freezing Beneath Ridges now out in GRL](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024GL109440)!
+
 November: Dr Joyce Sim will be giving a [virtual seminar at Zhejiang University](https://docs.google.com/spreadsheets/d/1udaTAvG5XTjlpbUJWqldQI_Ohv8zHn_25aut6FvcRWI/edit#gid=0)!
 
 October: [NASA Europa Clipper mission is launching!](https://science.nasa.gov/mission/europa-clipper/) Dr Joyce Sim will be part of [the PROGRESS Pathways panel held at Georgia Tech on 18 Oct](https://sites.google.com/rams.colostate.edu/atlanta2024/panelist-bios)!
