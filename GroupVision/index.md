@@ -54,7 +54,7 @@ Be proactive about eliminating bottlenecks to progress. Do you need to meet with
 It can be difficult to know how to divide your time between reading and writing papers and your research. Most people underestimate how long writing and reading takes. 
 “Time is the *only irreplaceable resource” (*except for your life and health – work efficiently, but always be safe!)
 
-Undergraduate credits
+Undergraduate credits work the same as any classes, i.e. one credit is equivalent to about three hours of work. 
 
 ### b)    Measures of productivity – what are the benchmarks for progress?
 
@@ -74,7 +74,7 @@ Work hard but also have fun.
 
 First years typically take 2-3 courses each semester.
 There are no set course list but there is a set knowledge list that you will try to take classes to fulfil for your qualifying exam in your second year.
-Aim for a well-rounded education of Earth Science and classes that will help with your research. 
+Aim for a well-rounded education of Earth/planetary Science and classes that will help with your research. 
 Joyce will be happy to discuss with you on what classes to take.     
 Here is the EAS graduate course list: https://catalog.gatech.edu/courses-grad/eas/   
 Here is the Mechanical engineering graduate course list: https://catalog.gatech.edu/courses-grad/me/        
@@ -123,14 +123,14 @@ Recommended: Explorigins, Astrobiology seminar
 ### e)     Expected working hours
 
 This is a work environment, where you are expected to be on task for the number of hours equivalent to a standard work day. In practical terms, however, you will find that the job of being a scientist does not always conform to standard hours.  
-You can regard graduate school as a full-time job (with room for both vacations and overtime) with a twist. You should work a 40 hour work week on average in a given semester. Do realise that you are working towards your degree in the end. You get what you put in so in that sense, it is different from a regular job. On the subject of ‘overtime’, there will probably be times when you will need to work on weekends if a deadline is near. 
+You can regard graduate school as a full-time job (with room for both vacations and overtime) with a twist. You should work a 40 hour work week on average in a given semester. Do realise that you are working towards your degree in the end. You get what you put in so in that sense, it is different from a regular job. On the subject of ‘overtime’, there will probably be periods when you will need to work on weekends if a deadline is near. 
 
-Undergraduate: hours according to credits
+Undergraduate: Undergraduate credits work the same as any classes, i.e. one credit is equivalent to about three hours of work. 
 
 ### f)     Vacation policy
 
-You will take vacations because you are being paid as a full-time graduate student. Joyce is happy to discuss longer-than-average vacations with students, depending on your particular situation. Joyce will be away in Malaysia most year for a few weeks. 
-You are expected to work during academic ‘holidays’ such as reading break. However, you are not expected to work during official University holidays and recesses -- look up the Georgia Tech Academic Calendar.
+You will take vacations because you are being paid as a full-time graduate student. Joyce is happy to discuss longer-than-average vacations with students, depending on your particular situation. Joyce will be away in Malaysia most years for a few weeks. 
+You are expected to work during academic ‘holidays’ such as reading break. However, you are not expected to work during official University/federal holidays and recesses -- look up the Georgia Tech Academic Calendar.
 
 ### g)    Balancing formal teaching and informal outreach activities with research time
 
