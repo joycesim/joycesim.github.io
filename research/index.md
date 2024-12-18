@@ -146,6 +146,7 @@ Resulting variations in important isotopic parent/daughter ratios (Sm/Nd, Lu/Hf)
 * [Nature Racism special issue](https://www.nature.com/immersive/d42859-022-00031-8/index.html)
 * [Melt in the Mantle workshop lectures](https://www.newton.ac.uk/event/mim/)
 * [SZ4D webinar](https://www.sz4d.org/past)
+* [Field Safety](https://fieldsafe.colorado.edu/what-advanceing-fieldsafety), [SERC field safety](https://serc.carleton.edu/advancegeo/resources/field_work.html), [Field safety plan for NSF](https://www.esa.org/events/the-esa-weekly-water-cooler/what-goes-into-a-field-safety-plan/), [Report of the Workshop to Promote Safety in Field Sciences](https://zenodo.org/records/5841983), [example](https://hsrm.umn.edu/department-environmental-health-safety/lab-research-safety/other-services/field-research-safety)
 
 ### Writing
 * [Coursera: Writing in the Sciences (Stanford)](https://www.coursera.org/learn/sciwrite)
