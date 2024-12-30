@@ -6,7 +6,7 @@ title: Publications
 
 Please email me (jssim at eas dot gatech dot edu) for paper if you have trouble getting it. 
 
-[8] *M. McMillan* ** , **S.J. Sim**, C. Wilson (Submitted) Reactive thermodynamics of crustal foundering
+[8] *M. McMillan* ** , **S.J. Sim**, C. Wilson (In revision) Reactive thermodynamics of crustal foundering
 
 [7] **S.J. Sim**, *T.Y. Yu* * , C. Havlin (2024) Persistence of fabrics in the oceanic lithosphere due to differential freezing, *Geophysical Research Letters*, [https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024GL109440](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024GL109440).
 
