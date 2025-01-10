@@ -49,6 +49,10 @@ Crust project, data compilation of crustal thicknesses from seismic reflection s
 **Neosha Narayanan (PhD)** In progress
 
 ## UNDERGRADUATE STUDENTS
+**Amita Anand** (Mathematics, Georgia Tech) Fall 2024 - present    
+How does higher order effective shear rheology affect melt transport and porosity waves beneath mid-ocean ridges    
+**Abdulaziz Alajlan** (Computer Science, Georgia Tech) Fall 2024 - present   
+NSF-geophysics grant, Extending felsic thermodynamic reactions to mafic domains   
 **Shradha Ravikumar** Summer UNAVCO RESESS Programme 2023.   
 Currently Bridge to Graduate school fellow at Lamont-Doherty Earth Observatory, Columbia University.   
 **Ting-Ying Yu, Rosen** (ECE, Georgia Tech) Fall 2021-Spring 2023.   
