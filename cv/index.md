@@ -67,6 +67,8 @@ Currently Bridge to Graduate school fellow at Lamont-Doherty Earth Observatory, 
 **NSF Geophysics/Petrology and Geochemistry** "Eclogitization of continental lithosphere from subduction zone devolatilization," EAR 2323318 (PI) $385k (2023-2025), Cian Wilson (Collaborator; Carnegie Institution for Science).         
 
 ## HONORS AND AWARDS
+**CSTAR Co-location Fellowship, Georgia Tech**    
+**CSTAR Travel grant, Georgia Tech**    
 **Paul G. Silver Young Scholar Research Enhancement Award, IGPP, SIO 2015**.  
 **Earth Science (B.S. Honors) Top of Class Award 2011**.  
 Thurgood Marshall College and Scripps Institution of Oceanography.  
