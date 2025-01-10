@@ -135,7 +135,7 @@ Multibeam bathymetry, CHIRP, and sediment coring, 23 days at sea on R/V Revelle.
 
 ## TEACHING EXPERIENCE
 **EAS 4312/6312: Geodynamics, Spring 2025**.     
-**[Tech to Teaching](https://ctl.gatech.edu/content/tech-teaching-0)**
+**[Tech to Teaching](https://ctl.gatech.edu/content/tech-teaching-0), Spring 2024**
 Center for Teaching and Learning, Georgia Institute of Technology.    
 **EAS 3610: Introduction to Geophysics, Fall 2022**.   
 Guest lecturer on "Overview of Geodynamics".   
