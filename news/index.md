@@ -4,6 +4,9 @@ title: News
 ---
 # {{page.title}}
 
+### 2025
+January: Happy new year! Dr Joyce Sim will be teaching EAS 4312/6312 Geodynamics this Spring semester!  
+
 ### 2024
 December: Hot off the press! Paper on [Persistent Heterogeneities in the Oceanic Lithosphere Due To Differential Freezing Beneath Ridges now out in GRL](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024GL109440)! Postdoc Dr Mitchell McMillan and graduate student Brandon Lopez will be presenting their work at the AGU Fall meeting! Check out [Mitchell's abstract here](https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1754597) and [Brandon's abstract here](https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1573964). 
 
