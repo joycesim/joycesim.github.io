@@ -117,8 +117,8 @@ Thurgood Marshall College and Scripps Institution of Oceanography.
 ## LEADERSHIP AND OUTREACH EXPERIENCE
 **PROGRESS mentor** 2024-2025.   
 **PROGRESS Pathways panelist** Fall 2024.   
-**First Gen Faculty inaugural cohort (Georgia Tech)** 2023-2024.
-**Elected Postdoctoral representative at Carnegie Institution for Science** 2019 - 2020.  
+**First Gen Faculty inaugural cohort (Georgia Tech)** 2023-2024.    
+**Elected Postdoctoral representative at Carnegie Institution for Science** 2019 - 2020.    
 **Women and Minorities in Science (SIO)** 2012 - 2017.  
 **Team for Inclusion & Diversity in Education & Science (SIO)** 2012 - 2016.  
 **Mechanical Engineering Graduate Women group (UCSD)** 2014 - 2016.  
@@ -130,9 +130,10 @@ Collecting rock samples for geochemical analysis.
 Multibeam bathymetry, CHIRP, and sediment coring, 23 days at sea on R/V Revelle.  
 
 ## TEACHING EXPERIENCE
+**EAS 4312/6312: Geodynamics, Spring 2025**.     
 **[Tech to Teaching](https://ctl.gatech.edu/content/tech-teaching-0)**
 Center for Teaching and Learning, Georgia Institute of Technology.    
-**EAS 3610: Introduction to Geophysics Fall 2022**.   
+**EAS 3610: Introduction to Geophysics, Fall 2022**.   
 Guest lecturer on "Overview of Geodynamics".   
 **Computational Infrastructure for Geodynamics Summer MOdeling Research Experiences (CIG SMOREs) Lecturer Summer 2021**.   
 Introduction to python in geodynamics, Magmatism.   
