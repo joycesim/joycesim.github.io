@@ -31,7 +31,7 @@ Analyzed mantle convection model outputs to look at depths of mid-ocean ridges t
 **Graduate Student Researcher, University of California, San Diego, 2011 - 2014**.  
 Modeling of vent asymmetry on explosive volcanic eruptions using Cartablanca software (Los Alamos) with Darcy Ogden.   
 **Undergraduate Research Project, University of California, San Diego, 2010 - 2011**.  
-Microseismic signatures of hurricane Ioke and hurricane Katrina, Gabi Laska.   
+Microseismic signatures of hurricane Ioke and hurricane Katrina, Gabi Laske.   
 **Undergraduate Research Assistant, University of California, San Diego, 2010 - 2011**.  
 Crust project, data compilation of crustal thicknesses from seismic reflection surveys, Gabi Laske.   
 
