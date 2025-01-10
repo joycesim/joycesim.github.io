@@ -80,7 +80,7 @@ Thurgood Marshall College and Scripps Institution of Oceanography.
  
 ## PEER-REVIEWED PUBLICATIONS
 [9] M. McMillan**, **S.J. Sim**, C. Wilson (In revision) Reactive thermodynamics of crustal foundering     
-[8] **S.J. Sim**, T.Y. Yu*, C. Havlin, B. Holtzman (2024) Persistence of fabrics in the oceanic lithosphere due to differential freezing, *Geophysical Research Letters*, https://doi.org/10.1029/2024GL109440.    
+[8] **S.J. Sim**, T.Y. Yu * , C. Havlin, B. Holtzman (2024) Persistence of fabrics in the oceanic lithosphere due to differential freezing, *Geophysical Research Letters*, https://doi.org/10.1029/2024GL109440.    
 [7] **S.J.Sim**, M.Hirschmann, S.Hier-Majumder (2024) Volatile and Trace Element Storage in a Crystallizing Martian Magma Ocean, *JGR-Planets*, https://doi.org/10.1029/2024JE008346.   
 [6] **S.J. Sim**, M. Spiegelman, D.R. Stegman, C. Wilson (In revisions) M3LT: A new open source model to explore the dynamics of Melt in the Mantle beneath Mid-ocean ridge, *Geochem. Geophys. Geosyst.*.     
 [5] A. Robel, **S.J. Sim**, C. Meyer, M. Siegfried, C. Gustafson (2023) Contemporary Ice Sheet Thinning Drives Subglacial Groundwater Exfiltration, *Science Advances*, doi/10.1126/sciadv.adh3693.     
