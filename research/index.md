@@ -153,6 +153,7 @@ Resulting variations in important isotopic parent/daughter ratios (Sm/Nd, Lu/Hf)
 * [Writing Effectively](https://www.youtube.com/watch?v=vtIzMaLkCaM)
 
 ### Art/Outreach/Other fun stuff
+[<img src="egu_printables-29.webp" alt="Did this really happen" width="200"/>](https://didthisreallyhappen.net/)
 * [Did this really happen comics](https://didthisreallyhappen.net/)
 * [Science.Art.Wonder](https://sciartwonderatl.wixsite.com/sawatl)!
 * [Math Magazine](https://joycesim.github.io/image/Mathmagazine.pdf) by 8th Grader Mary Jones
