@@ -104,6 +104,7 @@ Resulting variations in important isotopic parent/daughter ratios (Sm/Nd, Lu/Hf)
 * [Cubit (mesh)](https://cubit.sandia.gov/)
 * [G-Adopt (adjoint)](https://gadopt.org/)
 * [Firedrake (FEM PDE)](https://www.firedrakeproject.org/)
+* [PlotDigitizer](https://web.eecs.utk.edu/~dcostine/personal/PowerDeviceLib/DigiTest/index.html)
 
 ### Organizations
 * [Computational Infrastructure for Geodynamics (CIG)](https://geodynamics.org/cig/)
