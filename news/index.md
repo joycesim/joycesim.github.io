@@ -8,7 +8,7 @@ title: News
 
 ### 2025
 
-March: Hot off the press! Paper on [Reactive thermodynamics of crustal eclogitization and foundering out in EPSL](https://www.sciencedirect.com/science/article/pii/S0012821X25001013)!
+March: Hot off the press! Paper on [Reactive thermodynamics of crustal eclogitization and foundering out in EPSL](https://www.sciencedirect.com/science/article/pii/S0012821X25001013)! Dr Joyce Sim will be visiting Dr Christine McCarthy's experimental lab at Lamont Doherty Earth Observatory during Spring Break on a CSTAR collocation grant. 
 
 January: Happy new year! Dr Joyce Sim will be teaching EAS 4312/6312 Geodynamics this Spring semester!  
 
