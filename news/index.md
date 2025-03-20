@@ -4,7 +4,12 @@ title: News
 ---
 # {{page.title}}
 
+## Discovery, Education, Innovation
+
 ### 2025
+
+March: Hot off the press! Paper on [Reactive thermodynamics of crustal eclogitization and foundering out in EPSL](https://www.sciencedirect.com/science/article/pii/S0012821X25001013)!
+
 January: Happy new year! Dr Joyce Sim will be teaching EAS 4312/6312 Geodynamics this Spring semester!  
 
 ### 2024
