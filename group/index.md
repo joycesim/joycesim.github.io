@@ -5,8 +5,10 @@ title: Group
 # {{page.title}}
 AKA The SIMulators
 
-<img align="center" src="/image/Group_Spring2025.JPG" alt="Sim Lab Spring 2025" title="Sim Lab Spring 2025" width="600" />    
+Spring 2025
+<img align="center" src="/image/Group_Spring2025.JPG" alt="Sim Lab Spring 2025" title="Sim Lab Spring 2025" width="600" />   
 
+Fall 2023
 <img align="center" src="/image/GroupFall2023.JPG" alt="Sim Lab Fall 2023" title="Sim Lab Fall 2023" width="600" />    
 
 ### Dr Shi Joyce Sim (PI, She/her)
