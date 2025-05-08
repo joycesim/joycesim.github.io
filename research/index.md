@@ -116,6 +116,8 @@ Resulting variations in important isotopic parent/daughter ratios (Sm/Nd, Lu/Hf)
 * [National Aeronautics and Space Administration (NASA)](https://www.nasa.gov/)
 * [Subduction Zone 4D (SZ4D)](https://www.sz4d.org/)
 * [Volcanology Infrastructure for Computational Tools and Resources (VICTOR)](https://victor.ldeo.columbia.edu/),[VICTOR software](https://docs.victorproject.org/en/latest/index.html)
+* [US InterRidge](https://usinterridge.org/)
+* 
 
 ### Instruction
 * [Science Education Resource Center (SERC) at Carleton College](https://serc.carleton.edu/NAGTWorkshops/earlycareer/index.html)
@@ -131,8 +133,8 @@ Resulting variations in important isotopic parent/daughter ratios (Sm/Nd, Lu/Hf)
 * [Georgia Tech EAS Solid Earth seminar](https://sites.gatech.edu/eas-solid-earth/)
 * [Georgia Tech EAS departmental seminar](https://eas.gatech.edu/eas-seminar-schedule)
 * [Virtual Seminar in Precambrian Geology (VS-PG) Seminar](https://sites.google.com/ucr.edu/vs-pg/home)
-* [Zhejiang Virtual Seminar]((https://docs.google.com/spreadsheets/d/1udaTAvG5XTjlpbUJWqldQI_Ohv8zHn_25aut6FvcRWI/edit#gid=0)
-)
+* [Zhejiang Virtual Seminar](https://docs.google.com/spreadsheets/d/1udaTAvG5XTjlpbUJWqldQI_Ohv8zHn_25aut6FvcRWI/edit#gid=0)
+* [GFZ Rift Seminar](https://www.gfz.de/sektion/geodynamische-modellierung/projekte/rift-and-rifted-margins-online-seminar)
 
 ### Lectures/Tutorials/Articles
 * 50 years of Plate Tectonics: [Parisian Collège de France 2018](https://www.college-de-france.fr/fr/agenda/colloque/50-years-of-plate-tectonics-then-now-and-beyond), [Lamont 2016](https://lamont.columbia.edu/about/luminaries-signature-events/plate-tectonics-symposium-2016), [Geological Society](https://www.geolsoc.org.uk/wsmith17)
