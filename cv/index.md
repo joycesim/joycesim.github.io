@@ -29,7 +29,7 @@ Carbon transport at subduction zones using two-phase flow numerical models.
 **Graduate Student Researcher, University of California, San Diego, 2014 - 2018**.  
 Analyzed mantle convection model outputs to look at depths of mid-ocean ridges through Earth's evolution and developed two phase flow input codes, M3LT, for TerraFERMA software to study melt focusing at mid-ocean ridges.  
 **Graduate Student Researcher, University of California, San Diego, 2011 - 2014**.  
-Modeling of vent asymmetry on explosive volcanic eruptions using Cartablanca software (Los Alamos) with Darcy Ogden.   
+Modeling of vent asymmetry on explosive volcanic eruptions using Cartablanca software (Los Alamos) with PI Darcy Ogden.   
 **Undergraduate Research Project, University of California, San Diego, 2010 - 2011**.  
 Microseismic signatures of hurricane Ioke and hurricane Katrina, Gabi Laske.   
 **Undergraduate Research Assistant, University of California, San Diego, 2010 - 2011**.  
@@ -43,11 +43,11 @@ Crust project, data compilation of crustal thicknesses from seismic reflection s
 **Chazerae (Ayo) Pierce-Walker** Fall 2023 - present.  
 
 ### THESIS COMMITTEE 
-**Lindsay Chuang (PhD, Georgia Tech)** Graduated 2024     
 **Samuel Ofori (Masters, Georgia Tech)** In progress    
 **Ashleigh Miller (PhD, Georgia Tech)** In progress    
 **Neosha Narayanan (PhD, Georgia Tech)** In progress
-**Shona Swan (MSc, University of Glasgow)** In progress
+**Shona Swan (MSc, University of Glasgow)** Graduated 2025
+**Lindsay Chuang (PhD, Georgia Tech)** Graduated 2024  
 
 ## UNDERGRADUATE STUDENTS
 **Amita Anand** (Mathematics, Georgia Tech) Fall 2024 - present    
@@ -72,6 +72,7 @@ Currently Bridge to Graduate school fellow at Lamont-Doherty Earth Observatory, 
 **NSF Geophysics/Petrology and Geochemistry** "Eclogitization of continental lithosphere from subduction zone devolatilization," EAR 2323318 (PI) $385k (2023-2025), Cian Wilson (Collaborator; Carnegie Institution for Science).         
 
 ## HONORS AND AWARDS
+**CIG Distinguised speaker, 2025-2026**
 **CSTAR Co-location Fellowship, Georgia Tech**    
 **CSTAR Travel grant, Georgia Tech**    
 **Paul G. Silver Young Scholar Research Enhancement Award, IGPP, SIO 2015**.  
@@ -80,7 +81,7 @@ Thurgood Marshall College and Scripps Institution of Oceanography.
 **AGU Outstanding Student Paper Award, Fall AGU meeting 2010**
  
 ## PEER-REVIEWED PUBLICATIONS
-[9] M. McMillan**, **S.J. Sim**, C. Wilson (In revision) Reactive thermodynamics of crustal foundering     
+[9] M. McMillan**, **S.J. Sim**, C. Wilson (2025) Reactive thermodynamics of crustal foundering, *Earth and Planetary Science Letters*, https://doi.org/10.1016/j.epsl.2025.119302.     
 [8] **S.J. Sim**, T.Y. Yu * , C. Havlin, B. Holtzman (2024) Persistence of fabrics in the oceanic lithosphere due to differential freezing, *Geophysical Research Letters*, https://doi.org/10.1029/2024GL109440.    
 [7] **S.J.Sim**, M.Hirschmann, S.Hier-Majumder (2024) Volatile and Trace Element Storage in a Crystallizing Martian Magma Ocean, *JGR-Planets*, https://doi.org/10.1029/2024JE008346.   
 [6] **S.J. Sim**, M. Spiegelman, D.R. Stegman, C. Wilson (In revisions) M3LT: A new open source model to explore the dynamics of Melt in the Mantle beneath Mid-ocean ridge, *Geochem. Geophys. Geosyst.*.     
@@ -91,6 +92,7 @@ Thurgood Marshall College and Scripps Institution of Oceanography.
 [1] **S.J. Sim**, D.R. Stegman, N. Coltice, (2016) Influence of Continental growth on mid-ocean ridge depth, *Geochem. Geophys. Geosyst.*, 17 (11), 4425-4437,  https://doi.org/10.1002/2016GC006629.
 
 ## INVITED PRESENTATIONS
+[28] Planetary Science and Astrobiology Seminar, Georgia Tech, 2025.    
 [27] Joint seminar between Physics and Earth and Planetary Sciences, University of New Mexico, 2024.   
 [26] Department of Geosciences seminar, Virginia Tech, 2024.     
 [25] [CIDER Lecturer](https://www.deep-earth.org/summer23), 2023.    
@@ -152,9 +154,10 @@ Teaching Assistant for Prof. Gabi Laske.
 ## PROFESSIONAL ACTIVITIES
 **Reviewer:** NSF, NASA, Geophysical research letters, Gcubed, Earth and Planetary Science Letters, Nature Geoscience, Science Advances, Geology, Geophysical Journal International.    
 **Executive Secretary and Panelist**, NASA Solar Systems Workings ROSES.   
-**Co-chair**, Session at Lunar and Planetary Science Conference, Woodlands, TX.   
-**Co-organizer**, Serpentinite, Fluids and Plate Boundary Deformation in Subduction Zones scientific workshop 2024, Québec, Canada.    
+**Science Steering Committee**, Computational Infrastructure for Geodynamics (CIG), 2025 --present.   
 **MCS Steering Committee**, Subduction Zone 4D Modeling Collaboratory for Subduction RCN 2022 --present.    
+**Co-chair**, Session at Lunar and Planetary Science Conference, Woodlands, TX, 2024.      
+**Co-organizer**, Serpentinite, Fluids and Plate Boundary Deformation in Subduction Zones scientific workshop 2024, Québec, Canada.    
 **Writing committee**, Rift2Ridge NSF-sponsored Workshop report 2022.    
 **Co-Convenor**, Tectonic session on 'Connecting the Ins and Outs of Subduction Zones' (T41D, T43A, T44A, and T45B) 2021, *AGU Fall Meeting*.    
 **Co-Organizer**, Rift2Ridge Workshop 2021, *Virtual*.      
@@ -184,7 +187,7 @@ Teaching Assistant for Prof. Gabi Laske.
 [14] **Fall AGU meeting**, San Francisco, 2019. "[Carbon solubility in the subducting slab and mantle wedge](https://www.youtube.com/watch?v=EU2N0_0KZz8)".     
 [13] **Fall AGU meeting**, San Francisco, 2019. "[(Invited) Melt focusing beneath mid-ocean ridges](https://www.youtube.com/watch?v=3lsfoYLv-20)".     
 [12] **FEniCS workshop**, Carnegie Institution for Science, DC, 2019. "Melt transport beneath mid-ocean ridges".  
-[11] **Gordon Conference: Interior of the Earth**, MA, 2019. "Tectonic boundaries: a modeling perspective from past to present".  
+[11] **Gordon Conference: Interior of the Earth**, MA, 2019. "Tectonic boundaries: a modeling perspective from past to present".   
 [10] **Fluids Modeling RCN**, University of Minnesota, 2019. "(Invited) Tectonic boundaries: a modeling perspective".  
 [9] **Fall AGU meeting**, Washington, DC, 2018. "[Melt focusing beneath mid-ocean ridges](https://www.youtube.com/watch?v=77Tfg5qZBbk)".  
 [8] **Gordon Conference: Deep Carbon**, RI, 2018. "Melt focusing at mid-ocean ridges using two phase numerical model".  
