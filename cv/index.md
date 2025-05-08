@@ -122,6 +122,7 @@ Thurgood Marshall College and Scripps Institution of Oceanography.
 [1] Fall AGU meeting, 2011.  
 
 ## LEADERSHIP AND OUTREACH EXPERIENCE
+**CoS EXPLORE Undergraduate Open House presentation** 2025.   
 **PROGRESS mentor** 2024-2025.   
 **PROGRESS Pathways panelist** Fall 2024.   
 **First Gen Faculty inaugural cohort (Georgia Tech)** 2023-2024.    
