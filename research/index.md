@@ -6,7 +6,7 @@ title: Research
 
 '*Two-phase or not two-phase*'
 
-## Applying two-phase flow and reactive thermodynamics at tectonic boundaries to understand Earth dynamics through its evolution. Fluid dynamic applications to planetary systems with a goal to understand potential habitability. Tackling modern day problems such as carbon storage and monitoring. 
+## Applying two-phase flow and reactive thermodynamics at tectonic boundaries to understand Earth dynamics through its evolution. Fluid dynamic applications to planetary systems with a goal to understand potential habitability. 
 
 
 [//]: # (Research to move the conversation forward)
@@ -152,9 +152,11 @@ Resulting variations in important isotopic parent/daughter ratios (Sm/Nd, Lu/Hf)
 ### Writing
 * [Coursera: Writing in the Sciences (Stanford)](https://www.coursera.org/learn/sciwrite)
 * [Writing Effectively](https://www.youtube.com/watch?v=vtIzMaLkCaM)
+* [Nature article to Graduate student on writing](https://www.nature.com/articles/s41587-025-02584-1.epdf?sharing_token=7nDET4a8CpDdNncoFJFUftRgN0jAjWel9jnR3ZoTv0OxiMNAWE0F8HeufSKyHN8aZGzFwsE4eFHd0OBxE2VNavwG_NTCrmHO69UjWpAde0gcOU2MzIISLiSB3JhUnkavFi1fQp49IE_HqrmBin-FyesbQ0akAywjCtdWoAlNBq8%3D)
 
 ### Art/Outreach/Other fun stuff
 [<img src="egu_printables-29.webp" alt="Did this really happen" width="200"/>](https://didthisreallyhappen.net/)
+
 * [Did this really happen comics](https://didthisreallyhappen.net/)
 * [Science.Art.Wonder](https://sciartwonderatl.wixsite.com/sawatl)!
 * [Math Magazine](https://joycesim.github.io/image/Mathmagazine.pdf) by 8th Grader Mary Jones
