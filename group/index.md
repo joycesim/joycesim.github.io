@@ -56,6 +56,8 @@ My name is Abdulaziz Alajlan. I am from Riyadh, Saudi Arabia. I’m a Computer S
 I am a 4th year mathematics major from New Jersey. Within math I am interested in probability theory, statistics, and dynamical systems. I want to apply the pure math I have learned to geophysics to understand how the Earth works through modeling and simulation.
 <br clear="right"/> 
 
+### Lyra Hameed (EAS REU undergraduate 2025)
+
 ### [Your name and picture here! Join us!]
 
 ## Collaborators
