@@ -8,6 +8,10 @@ title: News
 
 ### 2025
 
+June: Michelle McClendon will be joining the team for summer with the [CEISMC GIFT program](https://ceismc.gatech.edu/)! Congratulations to Dr Hee Choi for defending her PhD! Hee will be joining the team as a postdoctoral fellow this month! Dr Joyce Sim and Brandon Lopez will be at the GRC Interior of the Earth conference at Mount Holyoke at the end of the month! 
+
+May: Lyra Hameed will be joining the group for the EAS REU program! 
+
 April: Dr Joyce Sim will be presenting at the CoS EXPLORE Undergraduate Open House!
 
 March: Hot off the press! Paper on [Reactive thermodynamics of crustal eclogitization and foundering out in EPSL](https://www.sciencedirect.com/science/article/pii/S0012821X25001013)! Dr Joyce Sim will be visiting Dr Christine McCarthy's experimental lab at Lamont Doherty Earth Observatory during Spring Break on a CSTAR collocation grant. 
