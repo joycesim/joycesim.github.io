@@ -26,10 +26,17 @@ Here is the living [group vision document](https://joycesim.github.io/GroupVisio
 
 <br clear="right"/>
 
-### Mitchell McMillan (Postdoctoral Scholar May 2022 -- Present)
+### Dr Mitchell McMillan (Postdoctoral Scholar May 2022 -- Present)
 <img align="right" src="/image/MitchellMcMillan.jpg" alt="Mitchell" title="Mitchell" width="400" />    
 
 &nbsp; I am a geologist interested in the interactions among tectonics, lithology, and erosion that control the evolution of Earth’s surface. My research includes geologic mapping and eolian geomorphology in the Central Andes, geodynamic modelling, and low-temperature thermochronology. My current focus is on understanding the behavior of aqueous fluids in continental subduction zones, especially as they facilitate chemical reactions in the upper plate. Reactions such as eclogitization and flux melting may be significant drivers of the geodynamics of mountain belts. [Website](https://www.mitchell-mcmillan.com/)    
+<br clear="right"/> 
+
+### Dr Hee Choi (Postdoctoral Scholar June 2025 -- Present)
+<img align="right" src="/image/HeeChoi.jpg" alt="Hee" title="Hee" width="400" />    
+
+&nbsp; I am a geodynamicist broadly interested in how plate tectonics began on the early Earth. My research explores the dynamics of subduction initiation and evolution, using numerical models. More recently, I have been integrating 
+machine learning techniques to develop tools that can detect and track subduction zones from model outputs, helping to quantify changes in subduction style over time. I am passionate about understanding early Earth processes and how they inform the tectonic evolution of our planet — and potentially others. [Website](https://heec12.github.io/)    
 <br clear="right"/> 
 
 ### Chazerae (Ayo) Pierce-Walker (Masters student Fall 2023 -- Present)
