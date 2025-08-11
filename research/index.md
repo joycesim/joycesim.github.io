@@ -96,6 +96,8 @@ Resulting variations in important isotopic parent/daughter ratios (Sm/Nd, Lu/Hf)
 [<img src="/image/GTCSTARlogo.png" alt="GT CSTAR logo" width="400"/>](https://www.cstar.gatech.edu/)
 
 ## Resources
+* [The Declaration on Research Assessment (DORA)](https://sfdora.org/)
+
 ### Software
 * [TerraFERMA (FEM PDE)](http://terraferma.github.io/)
 * [FEniCS Project (FEM)](https://fenicsproject.org/)
