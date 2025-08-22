@@ -92,7 +92,9 @@ Thurgood Marshall College and Scripps Institution of Oceanography.
 [1] **S.J. Sim**, D.R. Stegman, N. Coltice, (2016) Influence of Continental growth on mid-ocean ridge depth, *Geochem. Geophys. Geosyst.*, 17 (11), 4425-4437,  https://doi.org/10.1002/2016GC006629.
 
 ## INVITED PRESENTATIONS
-[28] Planetary Science and Astrobiology Seminar, Georgia Tech, 2025.    
+[30] Planetary Science and Astrobiology Seminar, Georgia Tech, 2025.   
+[29] Zhejiang University virtual seminar, 2024.   
+[28] NSF sponsored workshop on ``Mantle Magma Supply and Imaging Magmatic Systems", 2024.    
 [27] Joint seminar between Physics and Earth and Planetary Sciences, University of New Mexico, 2024.   
 [26] Department of Geosciences seminar, Virginia Tech, 2024.     
 [25] [CIDER Lecturer](https://www.deep-earth.org/summer23), 2023.    
@@ -178,6 +180,9 @@ Teaching Assistant for Prof. Gabi Laske.
 **Co-organizer**, Earth Section Seminar 2013-2014, *Scripps Institution of Oceanography, UC San Diego*.  
 
 ## CONFERENCE PRESENTATIONS
+[25] **CIG-TNG Workshop**, 2025, Breckenridge, CO.   
+[24] **Asia Oceania Geosciences Society Meeting**, 2025, Singapore.    
+[23] **Ada Lovelace Workshop**, 2024, Seté, France.   
 [22] **Lunar and Planetary Science Conference**, 2024, Woodlands, TX.   
 [21] **Fall AGU Meeting**, 2023, San Francisco.   
 [20] **Fall AGU Meeting**, 2022, Chicago (Withdrawn).   
