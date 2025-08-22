@@ -138,6 +138,7 @@ Collecting rock samples for geochemical analysis.
 Multibeam bathymetry, CHIRP, and sediment coring, 23 days at sea on R/V Revelle.  
 
 ## TEACHING EXPERIENCE
+**EAS4610: Earth Systems Modeling**.   
 **EAS 4312/6312: Geodynamics, Spring 2025**.     
 **[Tech to Teaching](https://ctl.gatech.edu/content/tech-teaching-0), Spring 2024**
 Center for Teaching and Learning, Georgia Institute of Technology.    
