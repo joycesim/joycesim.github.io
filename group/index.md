@@ -51,17 +51,19 @@ machine learning techniques to develop tools that can detect and track subductio
   
 <br clear="center"/> 
 
+### Amita Anand (Masters student Fall 2025 -- Present)
+<img align="right" src="/image/AmitaAnand.png" alt="Amita" title="Amita" width="250" />    
+
+*working on effects of heterogeneous mantle on magmatic waves beneath mid-ocean ridges. 
+
+<br clear="right"/> 
+
 ### Abdulaziz Alajlan (Georgia Tech Undergraduate Fall 2024 -- Present)
 <img align="right" src="/image/AbdulazizAlajlan.png" alt="Abdulaziz" title="Abdulaziz" width="250" />    
 
 My name is Abdulaziz Alajlan. I am from Riyadh, Saudi Arabia. I’m a Computer Science major with a minor in Environmental Science. I’m passionate about research, bioinformatics, and Data Science! I’ve had lots of great experiences in the EAS department, and hope that more opportunities will arise.
 <br clear="right"/> 
 
-### Amita Anand (Georgia Tech Undergraduate Fall 2024 -- Present)
-<img align="right" src="/image/AmitaAnand.png" alt="Amita" title="Amita" width="250" />    
-
-I am a 4th year mathematics major from New Jersey. Within math I am interested in probability theory, statistics, and dynamical systems. I want to apply the pure math I have learned to geophysics to understand how the Earth works through modeling and simulation.
-<br clear="right"/> 
 
 ### Lyra Hameed (EAS REU undergraduate 2025)
 
