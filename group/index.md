@@ -64,9 +64,6 @@ machine learning techniques to develop tools that can detect and track subductio
 My name is Abdulaziz Alajlan. I am from Riyadh, Saudi Arabia. I’m a Computer Science major with a minor in Environmental Science. I’m passionate about research, bioinformatics, and Data Science! I’ve had lots of great experiences in the EAS department, and hope that more opportunities will arise.
 <br clear="right"/> 
 
-
-### Lyra Hameed (EAS REU undergraduate 2025)
-
 ### [Your name and picture here! Join us!]
 
 ## Collaborators
@@ -89,6 +86,12 @@ Saswata Hier-Majumder (DOE)
 
 
 ## Alumni
+
+### Michelle McClendon (CEISMC GIFT program, Summer 2025)
+K12 STEM Teacher 
+
+### Lyra Hameed (EAS REU undergraduate 2025)
+
 ### Shradha Ravikumar (Summer UNAVCO RESESS Programme 2023) -- Onwards to intern program at Lamont-Doherty Earth Observatory, Columbia University
 Shradha Ravikumar is a recent graduate of Arizona State University (B.S. Astrobiology & Biogeosciences). She is interested in studying how the Earth evolved into a habitable planet from a geologic perspective. She will be doing geodynamics modeling at Georgia Tech, and she will present the results of this research at the 2023 AGU Fall Meeting.
 
