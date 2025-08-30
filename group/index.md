@@ -54,7 +54,7 @@ machine learning techniques to develop tools that can detect and track subductio
 ### Amita Anand (Masters student Fall 2025 -- Present)
 <img align="right" src="/image/AmitaAnand.png" alt="Amita" title="Amita" width="250" />    
 
-*working on effects of heterogeneous mantle on magmatic waves beneath mid-ocean ridges. 
+I am a Masters student in the School of Earth and Atmospheric Sciences focusing on modeling melt transport at mid-ocean ridges. I investigate how to model mantle heterogeneities and how this impacts melt dynamics. I’m broadly interested in applying probabilistic models to geodynamics problems and making science more accessible.
 
 <br clear="right"/> 
 
