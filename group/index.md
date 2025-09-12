@@ -107,6 +107,6 @@ Hey! I am Vigil Smith, from Harding University. I will be working on understandi
 ### Keneni Godana (Summer REU Programme 2021) Currently a graduate student at UCSB
 Keneni is a rising Earth Science senior at University of illinois, Chicago and will be working on understanding how radiogenic heating affected seafloor subsidence and therefore ocean basins during the early Earth as part of the Georgia Tech EAS Summer REU program. Keneni will be presenting this work at AGU Fall meeting 2021. 
 
-### Susan Harrison (Georgia Tech EAS Undergraduate Summer research 2021) Now a graduate student at Georgia Tech
+### Susan Harrison (Georgia Tech EAS Undergraduate Summer research 2021) Currently a graduate student at University of Miami working on air-sea turbulence research   
 Susan is an EAS undergraduate who will work on understanding spectral differences from magma waves between symmetric and asymmetric two-phase flow mid ocean ridge models. Susan will be presenting this work at AGU fall meeting 2021.
 
