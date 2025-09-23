@@ -36,30 +36,35 @@ Microseismic signatures of hurricane Ioke and hurricane Katrina, Gabi Laske.
 Crust project, data compilation of crustal thicknesses from seismic reflection surveys, Gabi Laske.   
 
 ## POSTDOCTORAL SCHOLARS
-**Dr Mitchell McMillan** May 2022 - present. 
+**Dr Mitchell McMillan** May 2022 - present.    
+**Dr Hee Choi** June 2025 - present.   
 
 ## GRADUATE STUDENTS
 **Brandon Lopez** Fall 2023 - present.   
 **Chazerae (Ayo) Pierce-Walker** Fall 2023 - present.  
+**Amita Anand** Fall 2025 - present.   
 
 ### THESIS COMMITTEE 
-**Samuel Ofori (Masters, Georgia Tech)** In progress    
+**Yin Chu Lu (PhD, Georgia Tech)** In progress
 **Ashleigh Miller (PhD, Georgia Tech)** In progress    
 **Neosha Narayanan (PhD, Georgia Tech)** In progress
+**Samuel Ofori (Masters, Georgia Tech)** Graduated 2025       
 **Shona Swan (MSc, University of Glasgow)** Graduated 2025
 **Lindsay Chuang (PhD, Georgia Tech)** Graduated 2024  
 
 ## UNDERGRADUATE STUDENTS
-**Amita Anand** (Mathematics, Georgia Tech) Fall 2024 - present    
-How does higher order effective shear rheology affect melt transport and porosity waves beneath mid-ocean ridges    
 **Abdulaziz Alajlan** (Computer Science, Georgia Tech) Fall 2024 - present   
-NSF-geophysics grant, Extending felsic thermodynamic reactions to mafic domains   
+NSF-geophysics grant, Extending felsic thermodynamic reactions to mafic domains  
+**Lyra Hameed** (Georgia Perimeter Community College) Summer 2025
+*EAS-REU; Astrophysics major*.  
+**Amita Anand** (Mathematics, Georgia Tech) Fall 2024 - Spring 2025    
+How does higher order effective shear rheology affect melt transport and porosity waves beneath mid-ocean ridges     
 **Shradha Ravikumar** Summer UNAVCO RESESS Programme 2023.   
 Currently Bridge to Graduate school fellow at Lamont-Doherty Earth Observatory, Columbia University.   
 **Ting-Ying Yu, Rosen** (ECE, Georgia Tech) Fall 2021-Spring 2023.   
 *PURA award (Fall 2022); Current PhD student at MIT*.   
 **Allen Moore** (Physics, Georgia Tech) Spring 2022-Fall 2022.   
-*PURA award (Fall 2022)*.   
+*PURA award (Fall 2022); Currently at Sandia National laboratory*.   
 **Casey Smith** (Harding University) Summer 2022.   
 *EAS-REU; Geoscience major at University of Arkansas - Fort Smith*.   
 **Susan Harrison** (EAS, Georgia Tech) Summer 2021.   
@@ -73,8 +78,8 @@ Currently Bridge to Graduate school fellow at Lamont-Doherty Earth Observatory, 
 
 ## HONORS AND AWARDS
 **CIG Distinguised speaker, 2025-2026**
-**CSTAR Co-location Fellowship, Georgia Tech**    
-**CSTAR Travel grant, Georgia Tech**    
+**CSTAR Co-location Fellowship 2025, Georgia Tech**    
+**CSTAR Travel grant 2024, Georgia Tech**    
 **Paul G. Silver Young Scholar Research Enhancement Award, IGPP, SIO 2015**.  
 **Earth Science (B.S. Honors) Top of Class Award 2011**.  
 Thurgood Marshall College and Scripps Institution of Oceanography.  
