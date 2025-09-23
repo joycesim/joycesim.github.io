@@ -10,7 +10,7 @@ title: Research
 
 ## Recent abstracts from the group
 
-# CIG-TNG Workshop (Breckenridge, CO, 2025)
+### CIG-TNG Workshop (Breckenridge, CO, 2025)
 Quantifying Oxidant Transport via Two-Phase Flow on Europa, C. Pierce-Walker and S. J. Sim.   
 
 Exploring mechanisms for localizing eclogite in continental crust with reactive two-phase models, M. McMillan, S. J. Sim, and C. Wilson.   
