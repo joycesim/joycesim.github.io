@@ -164,7 +164,7 @@ Teaching Assistant for Prof. Gabi Laske.
 **Reviewer:** NSF, NASA, Geophysical research letters, Gcubed, Earth and Planetary Science Letters, Nature Geoscience, Science Advances, Geology, Geophysical Journal International.    
 **Executive Secretary and Panelist**, NASA Solar Systems Workings ROSES.   
 **Science Steering Committee**, Computational Infrastructure for Geodynamics (CIG), 2025 --present.   
-**MCS Steering Committee**, Subduction Zone 4D Modeling Collaboratory for Subduction RCN 2022 --present.    
+**MCS Steering Committee**, Subduction Zone 4D Modeling Collaboratory for Subduction RCN 2022-2025.    
 **Co-chair**, Session at Lunar and Planetary Science Conference, Woodlands, TX, 2024.      
 **Co-organizer**, Serpentinite, Fluids and Plate Boundary Deformation in Subduction Zones scientific workshop 2024, Québec, Canada.    
 **Writing committee**, Rift2Ridge NSF-sponsored Workshop report 2022.    
