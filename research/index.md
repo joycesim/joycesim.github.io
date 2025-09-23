@@ -43,6 +43,7 @@ The ocean floor makes up the majority of the Earth's surface and yet, its geomor
 
 <br clear="right"/>
 
+
 &nbsp;&nbsp;&nbsp;&nbsp;    
 
 ## Subduction zones
