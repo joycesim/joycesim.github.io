@@ -8,6 +8,16 @@ title: Research
 
 ## Applying two-phase flow and reactive thermodynamics at tectonic boundaries to understand Earth dynamics through its evolution. Fluid dynamic applications to planetary systems with a goal to understand potential habitability. 
 
+## Recent abstracts from the group
+
+# CIG-TNG Workshop (Breckenridge, CO, 2025)
+Quantifying Oxidant Transport via Two-Phase Flow on Europa, C. Pierce-Walker and S. J. Sim.   
+
+Exploring mechanisms for localizing eclogite in continental crust with reactive two-phase models, M. McMillan, S. J. Sim, and C. Wilson.   
+
+The Influence of Magma Ocean-Atmosphere: Interactions on Volatile Distributions on Early Earth and Venus, B. J. Lopez and S. J. Sim.   
+
+Dynamic Habitability: From Mid-ocean ridges to Europa, S. J. Sim.    
 
 [//]: # (Research to move the conversation forward)
 
