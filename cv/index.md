@@ -60,7 +60,7 @@ NSF-geophysics grant, Extending felsic thermodynamic reactions to mafic domains
 **Amita Anand** (Mathematics, Georgia Tech) Fall 2024 - Spring 2025    
 How does higher order effective shear rheology affect melt transport and porosity waves beneath mid-ocean ridges     
 **Shradha Ravikumar** Summer UNAVCO RESESS Programme 2023.   
-Currently Bridge to Graduate school fellow at Lamont-Doherty Earth Observatory, Columbia University.   
+Currently PhD student at Harvard University.   
 **Ting-Ying Yu, Rosen** (ECE, Georgia Tech) Fall 2021-Spring 2023.   
 *PURA award (Fall 2022); Current PhD student at MIT*.   
 **Allen Moore** (Physics, Georgia Tech) Spring 2022-Fall 2022.   
