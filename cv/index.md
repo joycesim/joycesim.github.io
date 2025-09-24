@@ -129,6 +129,7 @@ Thurgood Marshall College and Scripps Institution of Oceanography.
 [1] Fall AGU meeting, 2011.  
 
 ## LEADERSHIP AND OUTREACH EXPERIENCE
+**CEISMC GIFT program (K12 Teacher, Michelle McClendon)** Summer 2025.   
 **CoS EXPLORE Undergraduate Open House presentation** 2025.   
 **PROGRESS mentor** 2024-2025.   
 **PROGRESS Pathways panelist** Fall 2024.   
