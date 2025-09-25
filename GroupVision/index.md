@@ -123,6 +123,7 @@ Recommended: Explorigins, Astrobiology seminar
 ### e)     Expected working hours
 
 This is a work environment, where you are expected to be on task for the number of hours equivalent to a standard work day. In practical terms, however, you will find that the job of being a scientist does not always conform to standard hours.  
+You are welcome to work from home or work on campus or anywhere. If you have trouble finding an office in the department, please let me know.  
 You can regard graduate school as a full-time job (with room for both vacations and overtime) with a twist. You should work a 40 hour work week on average in a given semester. Do realise that you are working towards your degree in the end. You get what you put in so in that sense, it is different from a regular job. On the subject of ‘overtime’, there will probably be periods when you will need to work on weekends if a deadline is near. 
 
 Undergraduate: Undergraduate credits work the same as any classes, i.e. one credit is equivalent to about three hours of work. 
@@ -130,7 +131,7 @@ Undergraduate: Undergraduate credits work the same as any classes, i.e. one cred
 ### f)     Vacation policy
 
 You will take vacations because you are being paid as a full-time graduate student. Joyce is happy to discuss longer-than-average vacations with students, depending on your particular situation. Joyce will be away in Malaysia most years for a few weeks. 
-You are expected to work during academic ‘holidays’ such as reading break. However, you are not expected to work during official University/federal holidays and recesses -- look up the Georgia Tech Academic Calendar.
+You are expected to work during academic ‘holidays’ such as reading break. However, you are not expected to work during official University/federal holidays and recesses -- look up the Georgia Tech Academic Calendar. Same applies to postdocs. 
 
 ### g)    Balancing formal teaching and informal outreach activities with research time
 
@@ -206,6 +207,7 @@ Work together to find a common agreement when conflict arises. If you ever need 
 
 You will be supported for a guaranteed 5 years while in EAS, Georgia Tech. Your support will likely come from a mixture of TA/RA and fellowship funds.
 Especially in your 1st year, you are expected to apply for external fellowships, for example, NASA, NSF GRFP, Hertz (though it can be harder to find options if you are an international student).
+You will be provided with a workstation of your choice (Mac/PC/Linux) and if you need other accessories like keyboards/monitors and mouse, please let Joyce know. 
 
 ### b)    Good practices
 
