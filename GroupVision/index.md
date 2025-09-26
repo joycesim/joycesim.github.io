@@ -192,17 +192,19 @@ Write. Write. Write.
 
 We generally have group meetings and brown bag group lunch weekly depending on everyone's schedule. 
 Everyone can discuss their progress, problems, and goals during the group meetings and more informally during group lunch.
+Everyone is expected at group meetings and encouraged to attend group lunch.
 Group meetings typically become journal club where one person picks a paper for the group to read and presents the main findings. Journal club is meant to be a casual setting for everyone to have a scientific discussion to practice for other more formal settings.  
-The group decides what we do for group meetings but sometimes there are designated events (like going through this living vision document every Fall!).
+The group decides what we do for group meetings but sometimes there are designated events (like going through this living vision document every Fall! or a visitor etc).
 We have done CV review, tutorials for illustrator, making a poster, paraview etc. 
 These typically last 1-1.5 hrs.
-When we have new people or guests, be prepared to give your 5-minute introduction on who you are and what project you are working on.
+When we have new people or guests, be prepared to give your elevator pitch on who you are and what research you are working on.
 
 ### b)    Individual Meetings – how frequently
 
-Each term, try to sit down together with Joyce and identify reasonable goals to be completed by the end of that term. 
+Joyce dedicates an hour/week for each group member. Please work with Joyce on what time/day works best each semester especially if it changes. Do note that these one-on-one meetings can increase/decrease in frequencies.
+Particularly for students, each term, try to sit down together with Joyce and identify reasonable goals to be completed by the end of that term. 
 Write these goals down and revisit them periodically. 
-Expect weekly standing meetings that can increase or decrease in frequencies as needed. 
+In general, these one-on-one meetings are a good time to check in on research progress and other logistics that might come up. Please do come prepared with what you want to talk about and take good notes. Joyce will generally encourage everyone to take to-do notes on a shared communication channel like slack or email so that everyone is on the same page and there is accountability. 
 
 ### c)     Email – degree of mutual accessibility – will it include after hours and/or weekends?
 
