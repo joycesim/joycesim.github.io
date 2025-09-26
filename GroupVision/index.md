@@ -66,21 +66,21 @@ A PhD from Georgia Tech takes ~5 years and sometimes more.
 Joyce will do her best to make sure that you graduate within this time frame.
 Everyone except 1st year graduate students should have something new/presentable (e.g. a paper, a conference presentation, exciting results) every semester.
 
-For PhD students, You will take comprehensive exam at the end of the second year or first semester of the third year. 
+For PhD students at Georgia Tech, You will take the comprehensive exam at the end of the second year or first semester of the third year. 
 The department requires an informal annual evaluation outlining goals and progress. 
 Meet with your committee members at least once per year post qualifying exam.
 You should plan on writing a manuscript-based PhD thesis that amounts to at least 3 papers that will be submitted to peer-reviewed journals.
-Similarly, for Masters program students, you should plan on writing a manuscript-based thesis that amounts to a paper that will be submitted to peer-reviewed journals
+Similarly, for Masters program students, you should plan on writing a manuscript-based thesis that amounts to a paper that will be submitted to a peer-reviewed journal.
 Joyce will work closely with you to plan/outline figures and content and then will review complete drafts once finished. 
 
 For Postdoctoral scholars, the goal is to have presentable and publishable results every year especially if aiming for academic careers. 
 
 Undergraduates, my goal is for you to explore what it means to do research in Earth Sciences. 
-Work hard but also have fun. 
+This applies to everyone, work hard but also have fun. 
 
 ### c)     Which and how many courses, and when to take them (For graduate students)
 
-First years typically take 2-3 courses each semester.
+First year graduate students typically take 2-3 courses each semester.
 There are no set course list but there is a set knowledge list that you will try to take classes to fulfil for your qualifying exam in your second year.
 Aim for a well-rounded education of Earth/planetary Science and classes that will help with your research. 
 Joyce will be happy to discuss with you on what classes to take.     
@@ -117,7 +117,7 @@ EAS 8803 Modern Geodetic Methods.
 ME 6601. Introduction to Fluid Mechanics - 94307 - B     
 ME 3340. Fluid Mechanics - A,B,C,D 
 ME 6602. Viscous Flow. (3 Credit Hours). The mechanics of Newtonian viscous fluids. The use of modern analytical techniques to obtain solutions for flows with small and large Reynolds numbers.       
-ME 6124. Finite-Element Method: Theory and Practice (3 Credit Hours). Line, plane, solid, plate, and shell elements-theory: practical aspects of modeling; applications in mechanical engineering; final project.    
+ME 6124. Finite-Element Method: Theory and Practice (3 Credit Hours). Line, plane, solid, plate, and shell elements-theory: practical aspects of modeling; applications in mechanical engineering; final project.   
 ME 6201. Principles of Continuum Mechanics (3 Credit Hours). Introductory treatment of the fundamental, unifying concepts of the mechanics of continua.    
 ME 7301. Transport Phenomena in Multiphase Flow (3 Credit Hours).    
 ME 7751. Computational Fluid Mechanics (3 Credit Hours). Numerical methods for solving the time-dependent Navier-Stokes equations in complex geometrics, including theory, implementation, and applications. Crosslisted with CEE 7751.    
@@ -125,8 +125,9 @@ ME 7751. Computational Fluid Mechanics (3 Credit Hours). Numerical methods for s
 
 ### d)    How frequently to attend seminars, reading groups, and other academic activities
 
-Required: Weekly Thursday Department seminar (11am) and Geophysics Friday seminar (330pm L1175)   
-Recommended: Explorigins, Astrobiology seminar 
+If you are graduate student (Masters or pre-comp exam), you are required to attend the weekly Thursday Department seminar (11am) and Geophysics Friday seminar (330pm L1175).    
+For post-comp exam PhD students, you are encouraged to attend both but they are not required. 
+Recommended: Explorigins, Astrobiology, fluids mechanics seminar 
 
 ### e)     Expected working hours
 
