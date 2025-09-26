@@ -188,7 +188,7 @@ Write. Write. Write.
 
 ## ESTABLISHING LINES OF COMMUNICATION
 
-### a)     Group Meetings/lunch/Journal – how frequently
+### a)     Group Meetings/lunch/Journal club – how frequently
 
 We generally have group meetings and brown bag group lunch weekly depending on everyone's schedule. 
 Everyone can discuss their progress, problems, and goals during the group meetings and more informally during group lunch.
@@ -198,6 +198,7 @@ The group decides what we do for group meetings but sometimes there are designat
 We have done CV review, tutorials for illustrator, making a poster, paraview etc. 
 These typically last 1-1.5 hrs.
 When we have new people or guests, be prepared to give your elevator pitch on who you are and what research you are working on.
+We sometimes organize writing and/or coding sessions (typically two hours in the geophysics lab) where the group comes together and state what they want to achieve during that session and go on to do it. This is a good space to ask for help debugging and have someone look over a draft etc. 
 
 ### b)    Individual Meetings – how frequently
 
@@ -206,11 +207,14 @@ Particularly for students, each term, try to sit down together with Joyce and id
 Write these goals down and revisit them periodically. 
 In general, these one-on-one meetings are a good time to check in on research progress and other logistics that might come up. Please do come prepared with what you want to talk about and take good notes. Joyce will generally encourage everyone to take to-do notes on a shared communication channel like slack or email so that everyone is on the same page and there is accountability. 
 
-### c)     Email – degree of mutual accessibility – will it include after hours and/or weekends?
+### c)     Email/slack – degree of mutual accessibility – will it include after hours and/or weekends?
 
 Please respond to emails within a few days, unless otherwise stated.
 You are not expected to respond to emails outside of normal working hours (e.g., on weekends or official holidays).
 Joyce will try her best to do so as well but if you have something urgent, it is usually better to use slack or call.
+
+We use a group slack account for more direct communication. Please do sign in and check it often as we often use that for quick announcements and perhaps to organize for lunch/journal club etc. 
+If there are anything more official, Joyce tends to send an email out to the group. If you are unsure about communicating on slack or email, please let Joyce know. 
 
 ### d)     Emphasize the importance of regular communication (in both directions)
 
