@@ -10,13 +10,15 @@ This document is meant to be a guide that is accompanied by ongoing conversation
 
 If something is not addressed below, or if you’re not sure about something, please ask!
 
+Another nice mentoring compact to consider: https://www.coakerlab.org/mentoring-compact--postdoctoral.html
+
 ## OVERVIEW
 First of all, we value the active participation of every member within our community and are committed to ensuring that everyone enjoys a gratifying and enriching experience, both in their professional and personal capacities. As such, we hold all members of the SimLab group accountable to display respect and courtesy towards others at all times. Our collective actions shape our culture, and our culture thrives on inclusivity.
 
 Please note that this document represents our vision for our group's vision, culture and objectives. It does not replace any relevant School- or College-level policies pertaining to your specific level of employment or study, but rather complements them.
 
 ### Cultivating an inclusive, safe and nurturing group culture
-The pursuit of enjoyable and high-quality research can only thrive in an environment where you feel safe, secure, and supported. To this end, all members of our group are unwaveringly committed to fostering an environment free of harassment, regardless of factors such as gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, and religion. We unequivocally prohibit all forms of harassment involving our group members and expect every community member to adhere to the following Code of Conduct:
+The pursuit of enjoyable and high-quality research can only thrive in an environment where you feel safe, secure, and supported. To this end, all members of our group are unwaveringly committed to fostering an environment free of harassment, regardless of factors such as gender, gender identity and expression, sexual orientation, disability, physical appearance, body size/shape, race, age, and religion. We unequivocally prohibit all forms of harassment involving our group members and expect every community member to adhere to the following Code of Conduct:
 
 + All forms of communication, whether in person or online, must maintain a professional tone and show consideration for individuals from diverse cultural backgrounds. Sexual language and imagery are never appropriate.
 + Demonstrate kindness and refrain from insulting or belittling fellow group members.
@@ -35,37 +37,43 @@ The pursuit of enjoyable and high-quality research can only thrive in an environ
 ### Mental health
 There is a growing body of evidence indicating that various aspects of research can pose challenges to your mental well-being. These specific factors include:
 
-+ Low Pay and Quality-of-Life Concerns: This is particularly evident when factoring in the cost of living in Atlanta.
++ Low Pay and Quality-of-Life Concerns: This is particularly evident when factoring in the cost of living in Atlanta. Georgia Tech has been increasing graduate student and postdoctoral pay so hurray! 
 + Feelings of Isolation: Research can often be an isolated endeavor, where each individual pursues their unique topic, leading to a sense of working in isolation.
 + Uncertainty in Research: Research inherently involves uncertainty, not only in the outcomes but also in the formulation of the research questions themselves.
 + Career Uncertainty: The path in research careers can be uncertain and daunting.
 + Dealing with "Negative Results": In the course of your research, you may encounter questions that are more challenging to answer than initially expected, or you might feel that you've invested a significant amount of time with little visible progress.
 + Burnout: The pressure to compensate for these challenges can lead to burnout, as individuals may feel compelled to work excessive hours. Do take time for yourself and be protective of that time. 
 
-It's important to recognize that most researchers encounter some level of these issues (Joyce can tell you all about it). Everyone in the group is strongly encouraged to proactively prioritize their mental well-being. Joyce will do everything possible to make sure you have the necessary time and resources for achieving success in your research. If anything is causing undue stress or hindering your potential, please don't hesitate to reach out to Joyce or any of the postgraduate tutors in the department for assistance. Additionally, please familiarize yourself with the available resources on campus, which can be found at http://counseling.gatech.edu/. We are committed to helping you access the appropriate support networks to ensure your well-being. Do not hesitate to check in every once in awhile. 
+It's important to recognize that most researchers encounter some level of these issues (Joyce is happy to share her experiences). Everyone in the group is strongly encouraged to proactively prioritize their mental well-being. Joyce will do everything possible to make sure you have the necessary time and resources for achieving success in your research. If anything is causing undue stress or hindering your potential, please don't hesitate to reach out to Joyce or anyone in the department for assistance. Additionally, please familiarize yourself with the available resources on campus, which can be found at http://counseling.gatech.edu/. We are committed to helping you access the appropriate support networks to ensure your well-being. Please do not hesitate to check in every once in awhile. 
 
 ## THE BASICS
 
 ### a)     The importance of self-motivation and independent initiative
 
 The time commitment to research tends to be one of the most important issues for graduate students and advisors. Set specific goals and timetables for yourself. Working hard is not the same as accomplishing something (work smarter not harder). Make sure you set a goal and adjust your strategy as necessary (e.g., with teaching load, coursework, life!) to meet it.
-Planning for sufficient work time takes priority. When setting meetings, appointments, office hours, or section meeting times, avoid breaking up your primary working hours. You may be a night owl or you may be a morning person (like Joyce who is also a random night owl). You have the responsibility and privilege to arrange your schedule in such a way that best suits your working style.  
-Be proactive about eliminating bottlenecks to progress. Do you need to meet with someone who is generally unavailable? Shoot them an email ASAP. Meanwhile, work on other tasks at hand.
+Planning for sufficient work time takes priority. When setting meetings, appointments, office hours, or section meeting times, avoid breaking up your primary working hours. You may be a night owl or you may be a morning person (like Joyce). You have the responsibility and privilege to arrange your schedule in such a way that best suits your working style.  
+Be proactive about eliminating bottlenecks to progress. Do you need to meet with someone who is generally unavailable? Shoot them an email ASAP. If they are not responding right away, give them a week and follow up. Meanwhile, work on other tasks at hand.
 It can be difficult to know how to divide your time between reading and writing papers and your research. Most people underestimate how long writing and reading takes. 
 “Time is the *only irreplaceable resource” (*except for your life and health – work efficiently, but always be safe!)
 
-Undergraduate credits work the same as any classes, i.e. one credit is equivalent to about three hours of work. 
+All these apply to postdoctoral scholars as well but you are expected to already know best your own working style and work with Joyce if any issues come up. 
+
+Undergraduate credits work the same as any classes, i.e. one credit is equivalent to about three hours of work. You have taken the initiative to apply to work in the lab, now try your best to have a good research experience by being curious, trying new things and being open. 
 
 ### b)    Measures of productivity – what are the benchmarks for progress?
 
-A PhD from Georgia Tech takes ~5 years. 
+A PhD from Georgia Tech takes ~5 years and sometimes more. 
 Joyce will do her best to make sure that you graduate within this time frame.
 Everyone except 1st year graduate students should have something new/presentable (e.g. a paper, a conference presentation, exciting results) every semester.
-You will take comprehensive exam at the end of the second year or first semester of the third year. 
+
+For PhD students, You will take comprehensive exam at the end of the second year or first semester of the third year. 
 The department requires an informal annual evaluation outlining goals and progress. 
 Meet with your committee members at least once per year post qualifying exam.
-You should plan on writing a manuscript-based thesis that amounts to at least 3 papers that will be submitted to journals. 
+You should plan on writing a manuscript-based PhD thesis that amounts to at least 3 papers that will be submitted to peer-reviewed journals.
+Similarly, for Masters program students, you should plan on writing a manuscript-based thesis that amounts to a paper that will be submitted to peer-reviewed journals
 Joyce will work closely with you to plan/outline figures and content and then will review complete drafts once finished. 
+
+Postdoctoral scholars should aim to have something presentable and publishable every year especially if aiming for academic careers. 
 
 Undergraduates, my goal is for you to explore what it means to do research in Earth Sciences. 
 Work hard but also have fun. 
