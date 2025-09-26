@@ -190,9 +190,11 @@ Write. Write. Write.
 
 ### a)     Group Meetings/lunch/Journal – how frequently
 
-We generally have alternating group meetings once every two weeks and group lunch once a month. 
+We generally have group meetings and brown bag group lunch weekly depending on everyone's schedule. 
 Everyone can discuss their progress, problems, and goals during the group meetings and more informally during group lunch.
-Group meetings can become journal club etc as the group wishes. 
+Group meetings typically become journal club where one person picks a paper for the group to read and presents the main findings. Journal club is meant to be a casual setting for everyone to have a scientific discussion to practice for other more formal settings.  
+The group decides what we do for group meetings but sometimes there are designated events (like going through this living vision document every Fall!).
+We have done CV review, tutorials for illustrator, making a poster, paraview etc. 
 These typically last 1-1.5 hrs.
 When we have new people or guests, be prepared to give your 5-minute introduction on who you are and what project you are working on.
 
