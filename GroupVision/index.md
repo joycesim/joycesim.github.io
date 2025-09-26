@@ -73,12 +73,12 @@ You should plan on writing a manuscript-based PhD thesis that amounts to at leas
 Similarly, for Masters program students, you should plan on writing a manuscript-based thesis that amounts to a paper that will be submitted to peer-reviewed journals
 Joyce will work closely with you to plan/outline figures and content and then will review complete drafts once finished. 
 
-Postdoctoral scholars should aim to have something presentable and publishable every year especially if aiming for academic careers. 
+For Postdoctoral scholars, the goal is to have presentable and publishable results every year especially if aiming for academic careers. 
 
 Undergraduates, my goal is for you to explore what it means to do research in Earth Sciences. 
 Work hard but also have fun. 
 
-### c)     Which and how many courses, and when to take them 
+### c)     Which and how many courses, and when to take them (For graduate students)
 
 First years typically take 2-3 courses each semester.
 There are no set course list but there is a set knowledge list that you will try to take classes to fulfil for your qualifying exam in your second year.
@@ -133,25 +133,31 @@ Recommended: Explorigins, Astrobiology seminar
 This is a work environment, where you are expected to be on task for the number of hours equivalent to a standard work day. In practical terms, however, you will find that the job of being a scientist does not always conform to standard hours.  
 You are welcome to work from home or work on campus or anywhere. If you have trouble finding an office in the department, please let me know.  
 You can regard graduate school as a full-time job (with room for both vacations and overtime) with a twist. You should work a 40 hour work week on average in a given semester. Do realise that you are working towards your degree in the end. You get what you put in so in that sense, it is different from a regular job. On the subject of ‘overtime’, there will probably be periods when you will need to work on weekends if a deadline is near. 
+This is similar for postdoctoral scholars where your productivity will roughly be related to your work hours. Work hard but do take breaks. 
 
 Undergraduate: Undergraduate credits work the same as any classes, i.e. one credit is equivalent to about three hours of work. 
 
 ### f)     Vacation policy
 
-You will take vacations because you are being paid as a full-time graduate student. Joyce is happy to discuss longer-than-average vacations with students, depending on your particular situation. Joyce will be away in Malaysia most years for a few weeks. 
-You are expected to work during academic ‘holidays’ such as reading break. However, you are not expected to work during official University/federal holidays and recesses -- look up the Georgia Tech Academic Calendar. Same applies to postdocs. 
+You will take vacations because you are being paid as a full-time graduate student. Joyce is happy to discuss longer-than-average vacations with students, depending on your particular situation. Joyce will be away in Malaysia most years for a few weeks typically over the summer but will still be working part time. 
+You are expected to work during academic ‘holidays’ such as reading break. However, you are not expected to work during official University/federal holidays and recesses -- look up the Georgia Tech Academic Calendar. If you celebrate particular holidays that are not typical breaks, please let Joyce know. Same applies to postdocs. Everyone is expected to communicate their time away with Joyce before it happens, this includes Joyce letting the group knows when she might be away.  
 
 ### g)    Balancing formal teaching and informal outreach activities with research time
 
-Teaching is an integral part of our education and an academic career. In semesters where you teach, you should adjust your expectations for research output.  It can be helpful to organize your time to allow at least one free day per week to work on research. 
+Teaching is an integral part of our education and an academic career. In semesters where you teach as a graduate student, you should adjust your expectations for research output.  It can be helpful to organize your time to allow at least one free day per week to work on research. 
 If you’re looking for ways to get involved in community and/or affinity organizations, don’t hesitate to ask.
 
-### h)    Conference attendance – when and where?
+### h)    Conference/workshop attendance – when and where?
 
+Attending conferences/workshop is a great way to present your research results, learn about what others are doing and network. 
 We tend to attend the American Geophysical Union (AGU) science meeting in December or the biannual Ada Lovelace workshop in Europe.
-Other conferences/workshops are the SEDI Gordon conference, European Geophysical Union (EGU), LPSC. 
+Other conferences/workshops are the Deep Earth Gordon conference typically over summer, European Geophysical Union (EGU) in Spring, and the Lunar and Planetary Science conference (LPSC) in Spring. 
 There are travels grants within the department and also associated with each conference/workshop. 
 [Computational Infrastruture for Geodynamics (CIG)](https://geodynamics.org/) typically sponsors US participants to Ada Lovelace workshop in Europe. 
+If there are conferences/workshops that you are interested in attending, please discuss with Joyce. 
+Please note that you need to have new results to attend and present at a conference/workshop. 
+
+For postdoctoral scholars, this is a good time to network and talk to potential new colleagues, foster new collaborations etc. If you have concerns about attending any workshop/conference, please talk to Joyce about it. If Joyce is also attending the same workshop/conference, she will try her best to connect you with her network. 
 
 ### i) Journals
 Be familiar with recently published material relevant to your research project. Below are some academic journals that may be of interest:
@@ -168,7 +174,7 @@ Be familiar with recently published material relevant to your research project. 
 Do sign up for ‘mail alerts’ from specific journals and more general publication ‘feeds’ (e.g. Google Scholar or Web of Science); by doing this, you can be kept informed of newly published literature related to your studies. If there is anything interesting, you can always bring it up for journal club! 
 
 ### j) Writing is part of thinking
-Writing is an important part of academia. Writing is part of the thinking process. Joyce encourages you to set aside some time to write weekly. Even if you are just taking classes, you can write about what you have learned. Writing takes practice. Scientific writing is all about revising your writing and is not intuitive to most. When you are reading scientific journals, take note of what are the part that are good and try to use it in your own writing. If you need help with writing, please let Joyce know or talk to others in the group. Everyone has a different way of writing. Outlining and brainstorming etc helps to organize your writing. Get feedback from Joyce and others in the group and try not to be offended by criticism. We are here to help you grow to be a better science writer so do not take it personally. Joyce is not the best writer so we are all here to learn together. 
+Writing is an essential part of academia. Writing is part of the thinking process. Joyce encourages you to set aside some time to write weekly. Even if you are just taking classes, you can write about what you have learned. Writing takes practice. Scientific writing is all about revising your writing and is not intuitive to most. When you are reading scientific journals, take note of what are the part that are good and try to use it in your own writing. If you need help with writing, please let Joyce know or talk to others in the group. Everyone has a different way of writing. Outlining and brainstorming etc helps to organize your writing. Get feedback from Joyce and others in the group and try not to be offended by criticism. We are here to help you grow to be a better science writer so do not take it personally. Joyce is not the best writer so we are all here to learn together. 
 
 Students often have these questions when it comes to writing:   
 1) What is the timeline for writing? There are usually no datelines for manuscript. Since writing is part of the thinking process, this can be up to you. If you think your progress is too slow, do consult with Joyce. She will be happy to help you along.   
