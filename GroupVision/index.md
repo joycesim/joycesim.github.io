@@ -221,7 +221,7 @@ If there are anything more official, Joyce tends to send an email out to the gro
 Sometimes, students are unclear what they should be doing early in a project. This is normal. Talk with Joyce, talk with fellow group members.
 Joyce is here to develop overarching ideas and projects with you, and guide you when you run into barriers. Other members of the group are your primary resource if you need focused technical/coding help.
 In academia, it is important to be open to criticism. Criticism can be a difficult aspect of a PhD; many of the things you will work on become so important to you that it can be hard to maintain perspective. Feel free to talk out edits or critiques with other group members to create a plan of action if you feel overwhelmed.
-Work together to find a common agreement when conflict arises. If you ever need help with a workplace issue, talk to the labmates, but if you need further advocacy, you should reach out to the EAS admin or the ombudsperson.
+Work together to find a common agreement when conflict arises. If you ever need help with a workplace issue, talk to the labmates, but if you need further advocacy, you should reach out to the EAS admin or an ombudsperson (https://www.gatech.edu/ombuds).
 
 ## OTHERS
 
