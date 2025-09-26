@@ -183,7 +183,9 @@ Students often have these questions when it comes to writing:
 3) Am I expected to know how to write scientifically? No, especially not for your first paper. Scientific writing is a whole different beast from regular writing essay. Typically for a class, you write an essay and the only feedback you get is your grade. In scientific writing, there will be many revisions as our thinking changes and we discover more of the results as we write. The writing will also be different depending on who your audience are. Writing a proposal will be different from writing for scientific publication.     
 4) Why is there so many edits in my first draft? Am I a bad writer? No, you are not a bad writer but might just not be a good scientific writer yet. If you are unsure about edits, do talk to Joyce or whoever gave you the edits to help you understand their thought process. Note that it usually take some time to go through just one paragraph. Do not be offended by edits or criticism. They are meant to help you grow as a scientific writer.
 
-Take part in scientific writing workshops, take a course to write your fellowship proposal. The way to get better is to practise and get feedback. Joyce encourages you to have a conversation with her about writing. Everyone has different idea of what drafting means. Some people just writes everything onto paper before organising, others like to outline or brainstorm before organizing. If you want a group writing time, reach out to the group and organize it. Setting aside group writing time with the lab group or your peers can help you be accountable for the few hours you sit down to write.
+Take part in scientific writing workshops, take a course to write your fellowship proposal. The way to get better is to practise and get feedback. Joyce encourages you to have a conversation with her about writing. Everyone has different idea of what drafting means. Some people just writes everything onto paper before organising, others like to outline or brainstorm before organizing. If you want a group writing time, reach out to the group and organize it. Setting aside group writing time with the lab group or your peers can help you be accountable for the few hours you sit down to write. 
+
+Software like Overleaf (there is institutional license at Georgia Tech) can be useful for collaborative document using latex. 
 
 Write. Write. Write.    
 
@@ -228,37 +230,49 @@ Work together to find a common agreement when conflict arises. If you ever need 
 
 ### a)     Funding
 
-You will be supported for a guaranteed 5 years while in EAS, Georgia Tech. Your support will likely come from a mixture of TA/RA and fellowship funds.
-Especially in your 1st year, you are expected to apply for external fellowships, for example, NASA, NSF GRFP, Hertz (though it can be harder to find options if you are an international student).
-You will be provided with a workstation of your choice (Mac/PC/Linux) and if you need other accessories like keyboards/monitors and mouse, please let Joyce know. 
+If accepted into the EAS PhD program at Georgia Tech, you will be supported for a guaranteed 5 years. Your support will likely come from a mixture of TA/RA and fellowship funds.
+Especially in your 1st year, you are expected to apply for external fellowships, for example, NASA, NSF GRFP, Hertz. As an international student, you can apply for NASA FINESST.
+As a Masters student, you will likely be TA-ing unless you are funded by a specific project. 
+As a Postdoctoral scholar, depending on your discussion with Joyce, you can generally expect to write proposals with Joyce to help fund your research. 
+
+### a+)     Computational needs
+
+In general, you will be provided with a workstation of your choice (Mac/PC/Linux) and if you need other accessories like keyboards/monitors and mouse, please let Joyce know. 
+There is usually supercomputing resources and orientations to get you going on the [PACE clusters at Georgia Tech](https://pace.gatech.edu/). 
 
 ### b)    Good practices
 
-It is important to have strong integrity and honesty in your work – never skewing, biasing or misrepresenting results to fit a previous idea. 
-Backing up your work at least once a week is also crucial. Consider backing up your organized files with a README when you’re done, so that future students can use the data. You could, for example, use Dropbox (free to Tech students) for the ease of storage and backups that allow access across multiple computers and users. You should also consider backing up your laptop/data to an external harddrive.
+In our lab, it is important to have strong integrity and honesty in your work – never skewing, biasing or misrepresenting results to fit a previous idea. 
+If you are unsure about anything, please talk to Joyce or with any of the group members or bring it up during our group meeting. 
+Backing up your work at least once a week is also crucial. Consider backing up your organized files with a README when you are done, so that future students can use the data. You could, for example, use Dropbox (free to Tech students) for the ease of storage and backups that allow access across multiple computers and users. You should also consider backing up your laptop/data to an external harddrive.
+
+Comment, comment, comment on your codes! Use git version control to help with backing up codes and have it on one of the repositories - github, bitbucket etc. 
 
 ### c)     Note taking
 
 Tracking and recording work is important. Taking clear notes feels boring but pays off massively later when you are writing. Use whatever you are most comfortable with to take notes during meetings. Write as you do your research, commenting on your plots etc. 
 You may want to keep a separate journal to take notes on the department seminars you attend.
-You should use a citation management software, like Zotero, Mandalay, EndNote, or BibTeX, to manage the papers you’ve read (or will read) for each project (e.g., a class, your qualifying exam, a research project). It is very helpful to write a short summary in the notes about the paper so you don’t have to read the entire paper again down the road.
+You should use a citation management software, like Zotero (unlimited with Georgia Tech email), Mandalay, EndNote, or BibTeX, to manage the papers you’ve read (or will read) for each project (e.g., a class, your qualifying exam, a research project). It is very helpful to write a short summary in the notes about the paper so you don’t have to read the entire paper again down the road.
 
 ### d)    Coauthorship
 
 You will be an author on a published paper if you have provided a substantial portion of the intellectual and physical work involved, and have completed your portion of the work satisfactorily. This involves participation both in the writing and the research work involved.
-You will be first-author if you contributed the majority of the intellectual effort and completed the project, including the writing. Academics often get attached to ‘this is my idea’ and people have imperfect memories so we encourage an open dialogue about who contributed to an idea being born, developed and brought to fruition. 
+You will be first-author if you contributed the majority of the intellectual effort and completed the project, including the writing of the first draft. Academics often get attached to ‘this is my idea’ and people have imperfect memories so we encourage an open dialogue about who contributed to an idea being born, developed and brought to fruition. 
+[Here is an example that might be helpful](https://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html). Many peer-reviewed journals, such as [AGU journals](https://www.agu.org/publications/authors/policies), are also mandating author contributions to be made clear using [CRediT](https://credit.niso.org/). 
 
 ### e) Individual Development Plan (IDP)
 
-An Individual Development Plan (IDP) is essentially a roadmap that helps you pinpoint your existing strengths and the ones you aspire to cultivate in the coming semester or years. When you collaborate with Joyce, you'll complete an initial IDP, and then make periodic revisions as needed. This document serves as a valuable tool for reflection, allowing you to define your objectives and effectively communicate them to Joyce for ongoing support and follow-up. It encourages a structured and thoughtful approach to personal and professional growth.
+An Individual Development Plan (IDP) is a roadmap that helps you pinpoint your existing strengths/weaknesses and the skills you aspire to cultivate in the coming semester or years. As a student, when you collaborate with Joyce, you will complete an initial IDP, and then make periodic revisions as needed. This document serves as a valuable tool for reflection, allowing you to define your objectives and effectively communicate them to Joyce for ongoing support and follow-up. It encourages a structured and thoughtful approach to personal and professional growth.
+
+Undergraduates and postdoctoral scholars are also encouraged to do this if you would like but is not required. 
 
 ## FINAL THOUGHTS
 
-As a graduate student, you will be treated as a junior colleague who is maturing into a professional scientist. This means that you can actively co-create opportunities to meet your goals. This framework also puts a large responsibility on your shoulders to live up to the expectations of performance that are required of a colleague. As a part of your PhD, you will ideally learn: 
+As a graduate student in the group, you will be treated as a junior colleague who is maturing into a professional scientist. This means that you can actively co-create opportunities to meet your goals. This framework also puts a large responsibility on your shoulders to live up to the expectations of performance that are required of a colleague. As a part of your PhD, you will ideally learn: 
 
 * how to do good science along with how to do your specific project
 * creative problem solving and a sense of fearlessness about technical issues and new ideas
 * technical writing and presentation skills, a sense of professionalism and project management
-* to support colleagues and value a collegial, challenging, fun and interdisciplinary environment. 
+* to support colleagues and value a collegial, challenging, fun and interdisciplinary environment.
 
 Adapted from [Jerry Mitrovica's group](https://mitrovica.eps.harvard.edu/group-expectations) and [Alex Robel's group](https://docs.google.com/document/d/15qi4GBsAfotkzY7kvZrQu328zVv0gZFoO-ofWFRw3JY/edit)
