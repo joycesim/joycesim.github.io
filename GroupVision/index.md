@@ -10,7 +10,7 @@ This document is meant to be a guide that is accompanied by ongoing conversation
 
 If something is not addressed below, or if you’re not sure about something, please ask!
 
-Another nice mentoring compact to consider: https://www.coakerlab.org/mentoring-compact--postdoctoral.html
+A nice mentoring compact to consider: https://www.coakerlab.org/mentoring-compact--postdoctoral.html
 
 ## OVERVIEW
 First of all, we value the active participation of every member within our community and are committed to ensuring that everyone enjoys a gratifying and enriching experience, both in their professional and personal capacities. As such, we hold all members of the SimLab group accountable to display respect and courtesy towards others at all times. Our collective actions shape our culture, and our culture thrives on inclusivity.
