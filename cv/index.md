@@ -186,8 +186,9 @@ Teaching Assistant for Prof. Gabi Laske.
 **Co-organizer**, Earth Section Seminar 2013-2014, *Scripps Institution of Oceanography, UC San Diego*.  
 
 ## CONFERENCE PRESENTATIONS
-[25] **CIG-TNG Workshop**, 2025, Breckenridge, CO.   
-[24] **Asia Oceania Geosciences Society Meeting**, 2025, Singapore.    
+[26] **CIG-TNG Workshop**, 2025, Breckenridge, CO.   
+[25] **Asia Oceania Geosciences Society Meeting**, 2025, Singapore.    
+[24] **Gordon Conference: Interior of the Earth**, 2025, Mount Holyoke, Ma.    
 [23] **Ada Lovelace Workshop**, 2024, Seté, France.   
 [22] **Lunar and Planetary Science Conference**, 2024, Woodlands, TX.   
 [21] **Fall AGU Meeting**, 2023, San Francisco.   
