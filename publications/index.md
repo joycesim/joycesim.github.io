@@ -3,6 +3,7 @@ layout: default
 title: Publications
 ---
 # {{page.title}}
+## Discovery, Education, Innovation
 
 Please email me (jssim at eas dot gatech dot edu) for paper if you have trouble getting it. 
 
