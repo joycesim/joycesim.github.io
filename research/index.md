@@ -3,6 +3,7 @@ layout: default
 title: Research
 ---
 # Research
+## Discovery, Education, Innovation
 
 '*Two-phase or not two-phase*'
 
