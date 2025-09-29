@@ -8,6 +8,10 @@ title: News
 
 ### 2025
 
+August: A group of us, Dr Mitchell McMillan, Ayo Pierce-walker, Brandon Lopez and Dr Joyce Sim will all be presenting at the [CIG-TNG meeting](https://geodynamics.org/events/details/349)! The semester begins at Georgia Tech! 
+
+July: Dr Joyce Sim will be presenting at the Asia Oceania Geosciences Society Meeting, 2025, Singapore.
+
 June: Michelle McClendon will be joining the team for summer with the [CEISMC GIFT program](https://ceismc.gatech.edu/)! Congratulations to Dr Hee Choi for defending her PhD! Hee will be joining the team as a postdoctoral fellow this month! Dr Joyce Sim and Brandon Lopez will be at the GRC Interior of the Earth conference at Mount Holyoke at the end of the month! 
 
 May: Lyra Hameed will be joining the group for the EAS REU program! 
