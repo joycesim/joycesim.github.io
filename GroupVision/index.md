@@ -32,7 +32,9 @@ The pursuit of enjoyable and high-quality research can only thrive in an environ
     - Do also be mindful of different cultures where the conversation styles might be different.
     - Be wary of monopolising the conversation.
     - Be mindful of others, do self advocate and group advocate to have a cohesive group conversation.
-    - If unsure about anything, do bring it up and we can be transparent and work through it together (Group growth mindset!). 
+    - If unsure about anything, do bring it up and we can be transparent and work through it together (Group growth mindset!).
+ 
+Note: There is no policy with regards to who you can date in the group, but caution with any romantic involvement with people that have some sort of power-dynamics (School-wide policy)
 
 ### Mental health
 There is a growing body of evidence indicating that various aspects of research can pose challenges to your mental well-being. These specific factors include:
@@ -56,6 +58,12 @@ Be proactive about eliminating bottlenecks to progress. Do you need to meet with
 It can be difficult to know how to divide your time between reading and writing papers and your research. Most people underestimate how long writing and reading takes. 
 “Time is the *only irreplaceable resource” (*except for your life and health – work efficiently, but always be safe!)
 
+There will be times when you do not feel motivated and that is okay. Life is more than academia :) 
+
+It is okay to reach out to people in the group and others for career advice. We tend to push people towards academia unless you explicitly tell Joyce about your goals.
+
+Question: Are there general workshops that help graduate students with graduate school? GT 6000 - Orientation to being a graduate student, time management, resources on campus etc. 
+
 All these apply to postdoctoral scholars as well but you are expected to already know best your own working style and work with Joyce if any issues come up. 
 
 Undergraduate credits work the same as any classes, i.e. one credit is equivalent to about three hours of work. You have taken the initiative to apply to work in the lab, now try your best to have a good research experience by being curious, trying new things and being open. 
@@ -72,6 +80,7 @@ Meet with your committee members at least once per year post qualifying exam.
 You should plan on writing a manuscript-based PhD thesis that amounts to at least 3 papers that will be submitted to peer-reviewed journals.
 Similarly, for Masters program students, you should plan on writing a manuscript-based thesis that amounts to a paper that will be submitted to a peer-reviewed journal.
 Joyce will work closely with you to plan/outline figures and content and then will review complete drafts once finished. 
+Here is the link the the graduate student handbook!!  
 
 For Postdoctoral scholars, the goal is to have presentable and publishable results every year especially if aiming for academic careers. 
 
@@ -93,7 +102,8 @@ EAS 6312. Geodynamics
 EAS 6314. Seismology. The propagation of seismic waves, the description of earthquake motion, and evaluation of earthquake damage. Examples provide experience in the interpretation of seismic data.      
 EAS 6315. Geofluids. 3 Credit Hours. This course focuses on the fundamental concepts of fluid dynamics merged with geophysical applications.   
 EAS 6331. Physical Volcanology. 3 Credit Hours. This class examines the dynamics and thermodynamics of planetary volcanism. The course material covers the generation and transport of magma in the mantle and crust, and the fluid dynamics of eruptions and their impact on the landscape and atmosphere.    
-EAS 6370. Physics of the Planets     
+EAS 6370. Physics of the Planets  
+EAS 6380. Remote sensing! Add this....      
 EAS 8826. Geophysics Field Methods     
 EAS 8001. Planetary Science and Astrobiology Seminar   
 EAS 8802. Special Topics - 93277 -  COM (2 credits) - Practical Math coding course     
@@ -128,6 +138,7 @@ ME 7751. Computational Fluid Mechanics (3 Credit Hours). Numerical methods for s
 If you are graduate student (Masters or pre-comp exam), you are required to attend the weekly Thursday Department seminar (11am) and Geophysics Friday seminar (330pm L1175).    
 For post-comp exam PhD students, you are encouraged to attend both but they are not required. 
 Recommended: Explorigins, Astrobiology, fluids mechanics seminar 
+Virtual seminars: VSGP, Ocean worlds, .... Add links this to...    
 
 ### e)     Expected working hours
 
@@ -156,7 +167,8 @@ Other conferences/workshops are the Deep Earth Gordon conference typically over 
 There are travels grants within the department and also associated with each conference/workshop. 
 [Computational Infrastruture for Geodynamics (CIG)](https://geodynamics.org/) typically sponsors US participants to Ada Lovelace workshop in Europe. 
 If there are conferences/workshops that you are interested in attending, please discuss with Joyce. 
-Please note that you need to have new results to attend and present at a conference/workshop. 
+Please note that you need to have new results to attend and present at a conference/workshop.
+Exceptions of conferences/workshops of interest are taking place close together in time. 
 
 For postdoctoral scholars, this is a good time to network and talk to potential new colleagues, foster new collaborations etc. If you have concerns about attending any workshop/conference, please talk to Joyce about it. If Joyce is also attending the same workshop/conference, she will try her best to connect you with her network. 
 
@@ -182,14 +194,19 @@ Students often have these questions when it comes to writing:
 2) When should I write? This is up to you but do set aside time for writing. If you do not set aside time and wait for inspiration, that might not happen. Even if it is for a few minutes. If you need the writing to be broken down more, please reach out to Joyce, she will be happy to help.   
 3) Am I expected to know how to write scientifically? No, especially not for your first paper. Scientific writing is a whole different beast from regular writing essay. Typically for a class, you write an essay and the only feedback you get is your grade. In scientific writing, there will be many revisions as our thinking changes and we discover more of the results as we write. The writing will also be different depending on who your audience are. Writing a proposal will be different from writing for scientific publication.     
 4) Why is there so many edits in my first draft? Am I a bad writer? No, you are not a bad writer but might just not be a good scientific writer yet. If you are unsure about edits, do talk to Joyce or whoever gave you the edits to help you understand their thought process. Note that it usually take some time to go through just one paragraph. Do not be offended by edits or criticism. They are meant to help you grow as a scientific writer.
+5) Can I use AI tools for writing? Yes, but make sure you give credits....? Some peer-reviewed journals have added policies so do check. Do not blatantly copy/paste from AI tools. Useful for brainstorming, generating acronyms, grammar, (coding? -Stackoverflow!). 
 
 Take part in scientific writing workshops, take a course to write your fellowship proposal. The way to get better is to practise and get feedback. Joyce encourages you to have a conversation with her about writing. Everyone has different idea of what drafting means. Some people just writes everything onto paper before organising, others like to outline or brainstorm before organizing. If you want a group writing time, reach out to the group and organize it. Setting aside group writing time with the lab group or your peers can help you be accountable for the few hours you sit down to write. 
 
 Software like Overleaf (there is institutional license at Georgia Tech) can be useful for collaborative document using latex. 
 
+Writing tool: Zotero (unlimited storage with Georgia Tech email), Dropbox
+
 Write. Write. Write.    
 
 ## ESTABLISHING LINES OF COMMUNICATION
+
+Communicate, communicate, communicate!
 
 ### a)     Group Meetings/lunch/Journal club – how frequently
 
@@ -201,7 +218,9 @@ The group decides what we do for group meetings but sometimes there are designat
 We have done CV review, tutorials for illustrator, making a poster, paraview etc. 
 These typically last 1-1.5 hrs.
 When we have new people or guests, be prepared to give your elevator pitch on who you are and what research you are working on.
-We sometimes organize writing and/or coding sessions (typically two hours in the geophysics lab) where the group comes together and state what they want to achieve during that session and go on to do it. This is a good space to ask for help debugging and have someone look over a draft etc. 
+We sometimes organize writing and/or coding sessions (typically two hours in the geophysics lab) where the group comes together and state what they want to achieve during that session and go on to do it. This is a good space to ask for help debugging and have someone look over a draft etc.
+
+More social events? 
 
 ### b)    Individual Meetings – how frequently
 
@@ -223,7 +242,7 @@ If there are anything more official, Joyce tends to send an email out to the gro
 
 Sometimes, students are unclear what they should be doing early in a project. This is normal. Talk with Joyce, talk with fellow group members.
 Joyce is here to develop overarching ideas and projects with you, and guide you when you run into barriers. Other members of the group are your primary resource if you need focused technical/coding help.
-In academia, it is important to be open to criticism. Criticism can be a difficult aspect of a PhD; many of the things you will work on become so important to you that it can be hard to maintain perspective. Feel free to talk out edits or critiques with other group members to create a plan of action if you feel overwhelmed.
+In academia, it is important to be open to criticism. Criticism can be a difficult aspect of a PhD; many of the things you will work on become so important to you that it can be hard to maintain perspective. Feel free to talk out edits or critiques with other group members to create a plan of action if you feel overwhelmed. Please do not take criticism personally. 
 Work together to find a common agreement when conflict arises. If you ever need help with a workplace issue, talk to the labmates, but if you need further advocacy, you should reach out to the EAS admin or an ombudsperson (https://www.gatech.edu/ombuds).
 
 ## OTHERS
@@ -235,10 +254,12 @@ Especially in your 1st year, you are expected to apply for external fellowships,
 As a Masters student, you will likely be TA-ing unless you are funded by a specific project. 
 As a Postdoctoral scholar, depending on your discussion with Joyce, you can generally expect to write proposals with Joyce to help fund your research. 
 
-### a+)     Computational needs
+### a+)     Computational needs and good coding practices
 
 In general, you will be provided with a workstation of your choice (Mac/PC/Linux) and if you need other accessories like keyboards/monitors and mouse, please let Joyce know. 
 There is usually supercomputing resources and orientations to get you going on the [PACE clusters at Georgia Tech](https://pace.gatech.edu/). 
+
+Comment, comment, comment in your codes! 
 
 ### b)    Good practices
 
@@ -265,6 +286,21 @@ You will be first-author if you contributed the majority of the intellectual eff
 An Individual Development Plan (IDP) is a roadmap that helps you pinpoint your existing strengths/weaknesses and the skills you aspire to cultivate in the coming semester or years. As a student, when you collaborate with Joyce, you will complete an initial IDP, and then make periodic revisions as needed. This document serves as a valuable tool for reflection, allowing you to define your objectives and effectively communicate them to Joyce for ongoing support and follow-up. It encourages a structured and thoughtful approach to personal and professional growth.
 
 Undergraduates and postdoctoral scholars are also encouraged to do this if you would like but is not required. 
+
+### f) Fun stuff
+Arts?
+Bitter strip test!!
+Statistics on bitter tasting HERE! 
+
+Birthday statistics! 7,12, 17 April, 9, 27 July, 12 Dec, 
+
+September anomaly? 
+
+Tea/coffee recommendations? 
+
+Outreach! Atlanta science festival! Link in. 
+
+GT spirit - going to homecoming! 
 
 ## FINAL THOUGHTS
 
