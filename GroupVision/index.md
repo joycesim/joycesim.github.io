@@ -136,7 +136,7 @@ ME 7751. Computational Fluid Mechanics (3 Credit Hours). Numerical methods for s
 
 If you are graduate student (Masters or pre-comp exam), you are required to attend the weekly Thursday Department seminar (11am) and Geophysics Friday seminar (330pm L1175).    
 For post-comp exam PhD students, you are encouraged to attend both but they are not required. 
-Recommended: Explorigins, Astrobiology, fluids mechanics seminar 
+Recommended: Explorigins, Astrobiology, fluids mechanics seminar    
 Virtual seminars: [Virtual seminars in precambrian geology](https://www.youtube.com/@virtualseminarsinprecambri4856), [Centre for Observation and Modelling of Earthquakes, Volcanoes and Tectonics (COMET)](https://www.youtube.com/@COMETWebinars), [PCE3 Prebiotic Chemistry](https://www.youtube.com/@pce3prebioticchemistry478), [Ocean worlds seminar](https://oceanworlds.space/now-seminars/), [US InterRidge webinars](https://usinterridge.org/webinar/), [Seafloor explorer](https://seafloor-explorer.github.io/)
 
 ### e)     Expected working hours
@@ -219,8 +219,6 @@ These typically last 1-1.5 hrs.
 When we have new people or guests, be prepared to give your elevator pitch on who you are and what research you are working on.
 We sometimes organize writing and/or coding sessions (typically two hours in the geophysics lab) where the group comes together and state what they want to achieve during that session and go on to do it. This is a good space to ask for help debugging and have someone look over a draft etc.
 
-More social events? 
-
 ### b)    Individual Meetings – how frequently
 
 Joyce dedicates an hour/week for each group member. Please work with Joyce on what time/day works best each semester especially if it changes. Do note that these one-on-one meetings can increase/decrease in frequencies.
@@ -258,15 +256,13 @@ As a Postdoctoral scholar, depending on your discussion with Joyce, you can gene
 In general, you will be provided with a workstation of your choice (Mac/PC/Linux) and if you need other accessories like keyboards/monitors and mouse, please let Joyce know. 
 There is usually supercomputing resources and orientations to get you going on the [PACE clusters at Georgia Tech](https://pace.gatech.edu/). 
 
-Comment, comment, comment in your codes! 
-
 ### b)    Good practices
 
 In our lab, it is important to have strong integrity and honesty in your work – never skewing, biasing or misrepresenting results to fit a previous idea. 
 If you are unsure about anything, please talk to Joyce or with any of the group members or bring it up during our group meeting. 
 Backing up your work at least once a week is also crucial. Consider backing up your organized files with a README when you are done, so that future students can use the data. You could, for example, use Dropbox (free to Tech students) for the ease of storage and backups that allow access across multiple computers and users. You should also consider backing up your laptop/data to an external harddrive.
 
-Comment, comment, comment on your codes! Use git version control to help with backing up codes and have it on one of the repositories - github, bitbucket etc. 
+Comment, comment, comment on your codes! Use git version control to help with backing up codes and have it on one of the repositories - github, bitbucket, gitlab etc. 
 
 ### c)     Note taking
 
@@ -287,17 +283,13 @@ An Individual Development Plan (IDP) is a roadmap that helps you pinpoint your e
 Undergraduates and postdoctoral scholars are also encouraged to do this if you would like but is not required. 
 
 ### f) Fun stuff
-Arts?
-Bitter strip test!!
-Statistics on bitter tasting HERE! 
+Supertaster statistics: 
 
 Birthday statistics! 7,12, 17 April, 9, 27 July, 12 Dec, 
 
-September anomaly? 
-
 Tea/coffee recommendations? 
 
-Outreach! Atlanta science festival! Link in. 
+Outreach: [Atlanta science festival!](https://atlantasciencefestival.org/)
 
 GT spirit - going to homecoming! 
 
