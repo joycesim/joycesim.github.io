@@ -8,7 +8,7 @@ This living document (revised and edited at least once a year by group members) 
 Everyone is different and so is their academic experience. 
 This document is meant to be a guide that is accompanied by ongoing conversations between Joyce and yourself/your peers about your progress and goals. 
 
-If something is not addressed below, or if you’re not sure about something, please ask!
+If something is not addressed below, or if you’re not sure about something, please ask.
 
 A nice mentoring compact to consider: https://www.coakerlab.org/mentoring-compact--postdoctoral.html
 
@@ -34,7 +34,7 @@ The pursuit of enjoyable and high-quality research can only thrive in an environ
     - Be mindful of others, do self advocate and group advocate to have a cohesive group conversation.
     - If unsure about anything, do bring it up and we can be transparent and work through it together (Group growth mindset!).
  
-Note: There is no policy with regards to who you can date in the group, but caution with any romantic involvement with people that have some sort of power-dynamics (School-wide policy)
+Note: There is no policy with regards to who you can date in the group, but caution with any romantic involvement with people that have any power-dynamics (refer to University-wide policy)
 
 ### Mental health
 There is a growing body of evidence indicating that various aspects of research can pose challenges to your mental well-being. These specific factors include:
@@ -58,11 +58,10 @@ Be proactive about eliminating bottlenecks to progress. Do you need to meet with
 It can be difficult to know how to divide your time between reading and writing papers and your research. Most people underestimate how long writing and reading takes. 
 “Time is the *only irreplaceable resource” (*except for your life and health – work efficiently, but always be safe!)
 
-There will be times when you do not feel motivated and that is okay. Life is more than academia :) 
-
+There will be times when you do not feel motivated and that is okay/normal. Life is more than academia :) Please reach out to others if you feel like your unmotivated time is affecting your science. 
 It is okay to reach out to people in the group and others for career advice. We tend to push people towards academia unless you explicitly tell Joyce about your goals.
 
-Question: Are there general workshops that help graduate students with graduate school? GT 6000 - Orientation to being a graduate student, time management, resources on campus etc. 
+Question: Are there general workshops that help graduate students with graduate school? GT 6000 is an Georgia Tech orientation to help students understand what it is like to be a graduate student and how best to strive with workshops on time management, resources on campus etc. 
 
 All these apply to postdoctoral scholars as well but you are expected to already know best your own working style and work with Joyce if any issues come up. 
 
@@ -103,7 +102,7 @@ EAS 6314. Seismology. The propagation of seismic waves, the description of earth
 EAS 6315. Geofluids. 3 Credit Hours. This course focuses on the fundamental concepts of fluid dynamics merged with geophysical applications.   
 EAS 6331. Physical Volcanology. 3 Credit Hours. This class examines the dynamics and thermodynamics of planetary volcanism. The course material covers the generation and transport of magma in the mantle and crust, and the fluid dynamics of eruptions and their impact on the landscape and atmosphere.    
 EAS 6370. Physics of the Planets  
-EAS 6380. Remote sensing! Add this....      
+EAS 6380. Remote sensing     
 EAS 8826. Geophysics Field Methods     
 EAS 8001. Planetary Science and Astrobiology Seminar   
 EAS 8802. Special Topics - 93277 -  COM (2 credits) - Practical Math coding course     
@@ -138,7 +137,7 @@ ME 7751. Computational Fluid Mechanics (3 Credit Hours). Numerical methods for s
 If you are graduate student (Masters or pre-comp exam), you are required to attend the weekly Thursday Department seminar (11am) and Geophysics Friday seminar (330pm L1175).    
 For post-comp exam PhD students, you are encouraged to attend both but they are not required. 
 Recommended: Explorigins, Astrobiology, fluids mechanics seminar 
-Virtual seminars: VSGP, Ocean worlds, .... Add links this to...    
+Virtual seminars: [Virtual seminars in precambrian geology](https://www.youtube.com/@virtualseminarsinprecambri4856), [Centre for Observation and Modelling of Earthquakes, Volcanoes and Tectonics (COMET)](https://www.youtube.com/@COMETWebinars), [PCE3 Prebiotic Chemistry](https://www.youtube.com/@pce3prebioticchemistry478), [Ocean worlds seminar](https://oceanworlds.space/now-seminars/), [US InterRidge webinars](https://usinterridge.org/webinar/), [Seafloor explorer](https://seafloor-explorer.github.io/)
 
 ### e)     Expected working hours
 
