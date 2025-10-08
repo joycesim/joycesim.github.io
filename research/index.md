@@ -138,6 +138,7 @@ Resulting variations in important isotopic parent/daughter ratios (Sm/Nd, Lu/Hf)
 
 ### Instruction
 * [Science Education Resource Center (SERC) at Carleton College](https://serc.carleton.edu/NAGTWorkshops/earlycareer/index.html)
+* [Teach the Earth at Carleton College](https://serc.carleton.edu/teachearth/index.html)
 * [Center for Teaching and Learning (CTL) at Georgia Tech](https://ctl.gatech.edu/)
 * [The Chronicle of Higher Education](https://www.chronicle.com/)
 * [Center for the Integration of Research, Teaching and Learning (CIRTL)](https://cirtl.net/)
