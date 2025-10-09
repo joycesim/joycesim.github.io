@@ -263,6 +263,8 @@ If you are unsure about anything, please talk to Joyce or with any of the group 
 Backing up your work at least once a week is also crucial. Consider backing up your organized files with a README when you are done, so that future students can use the data. You could, for example, use Dropbox (free to Tech students) for the ease of storage and backups that allow access across multiple computers and users. You should also consider backing up your laptop/data to an external harddrive.
 
 Comment, comment, comment on your codes! Use git version control to help with backing up codes and have it on one of the repositories - github, bitbucket, gitlab etc. 
+Put in a reminder to restart your computer often if you are not doing so already. 
+If using PACE, do a monthly check to make sure you are not clogging up your scratch space. 
 
 ### c)     Note taking
 
