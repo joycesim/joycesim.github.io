@@ -123,6 +123,7 @@ Resulting variations in important isotopic parent/daughter ratios (Sm/Nd, Lu/Hf)
 * [Perple_X](https://www.perplex.ethz.ch/)
 * [Thermocalc](https://hpxeosandthermocalc.org/)
 * [ThermoCodegen](https://gitlab.com/ENKI-portal/ThermoCodegen)
+* [NASA: Eyes on the solar system](https://eyes.nasa.gov/apps/solar-system/#/home)
 
 ### Organizations
 * [Computational Infrastructure for Geodynamics (CIG)](https://geodynamics.org/cig/)
