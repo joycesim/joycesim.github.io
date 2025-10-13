@@ -9,6 +9,8 @@ AKA The SIMulators
 
 <img align="center" src="/image/GroupFall2023.JPG" alt="Sim Lab Fall 2023" title="Sim Lab Fall 2023" width="600" />    
 
+## Current members
+
 ### Dr Shi Joyce Sim (PI, She/her)
 <img align="right" src="/image/Profile3.JPG" alt="Kamchatka 2013" title="Kamchatka 2013." width="400" />    
 
