@@ -44,3 +44,4 @@ Other resources:
 * [Geophysics@GeorgiaTech](http://geophysics.eas.gatech.edu/) 
 * [Jenn Glass Inclusion Resource page](http://www.jenniferglass.com/deia/)
 * [How to build a heathy lab](https://www.nature.com/collections/pmlcrkkyyq)
+* [Earth and environmental Science jobs list](https://docs.google.com/spreadsheets/d/1l2DY1uJMt1kO8Dv8KeUS3TgP5gdHoxDvxbmz-s3k2WA/edit?gid=1605767930#gid=1605767930)
