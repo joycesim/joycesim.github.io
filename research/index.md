@@ -128,6 +128,8 @@ Resulting variations in important isotopic parent/daughter ratios (Sm/Nd, Lu/Hf)
 * [Thermocalc](https://hpxeosandthermocalc.org/)
 * [ThermoCodegen](https://gitlab.com/ENKI-portal/ThermoCodegen)
 * [NASA: Eyes on the solar system](https://eyes.nasa.gov/apps/solar-system/#/home)
+* [Submap: tool for plotting subduction zones](https://submap.gm.umontpellier.fr/)
+* [USGS Slab 2.0](https://www.usgs.gov/tools/slab20-interactive-map)
 
 ### Organizations
 * [Computational Infrastructure for Geodynamics (CIG)](https://geodynamics.org/cig/)
