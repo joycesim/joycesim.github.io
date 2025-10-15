@@ -108,7 +108,9 @@ Resulting variations in important isotopic parent/daughter ratios (Sm/Nd, Lu/Hf)
 [<img src="/image/GTCSTARlogo.png" alt="GT CSTAR logo" width="400"/>](https://www.cstar.gatech.edu/)
 
 ## Resources
-* [The Declaration on Research Assessment (DORA)](https://sfdora.org/)
+* [The Declaration on Research Assessment (DORA)](https://sfdora.org/) 
+* [Subduction Zone initiation database](https://szidatabase.org/)
+* [Atlas of the Underworld: Slab](https://www.atlas-of-the-underworld.org/)
 
 ### Software
 * [TerraFERMA (FEM PDE)](http://terraferma.github.io/)
@@ -136,6 +138,7 @@ Resulting variations in important isotopic parent/daughter ratios (Sm/Nd, Lu/Hf)
 * [Subduction Zone 4D (SZ4D)](https://www.sz4d.org/)
 * [Volcanology Infrastructure for Computational Tools and Resources (VICTOR)](https://victor.ldeo.columbia.edu/),[VICTOR software](https://docs.victorproject.org/en/latest/index.html)
 * [US InterRidge](https://usinterridge.org/)
+
 
 ### Instruction
 * [Science Education Resource Center (SERC) at Carleton College](https://serc.carleton.edu/NAGTWorkshops/earlycareer/index.html)
