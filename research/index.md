@@ -111,6 +111,7 @@ Resulting variations in important isotopic parent/daughter ratios (Sm/Nd, Lu/Hf)
 * [The Declaration on Research Assessment (DORA)](https://sfdora.org/) 
 * [Subduction Zone initiation database](https://szidatabase.org/)
 * [Atlas of the Underworld: Slab](https://www.atlas-of-the-underworld.org/)
+* [Scientific colormaps](https://www.fabiocrameri.ch/colourmaps/)
 
 ### Software
 * [TerraFERMA (FEM PDE)](http://terraferma.github.io/)
