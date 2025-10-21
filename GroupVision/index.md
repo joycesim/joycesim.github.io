@@ -61,7 +61,7 @@ It can be difficult to know how to divide your time between reading and writing 
 There will be times when you do not feel motivated and that is okay/normal. Life is more than academia :) Please reach out to others if you feel like your unmotivated time is affecting your science. 
 It is okay to reach out to people in the group and others for career advice. We tend to push people towards academia unless you explicitly tell Joyce about your goals.
 
-Question: Are there general workshops that help graduate students with graduate school? GT 6000 is an Georgia Tech orientation to help students understand what it is like to be a graduate student and how best to strive with workshops on time management, resources on campus etc. 
+Question: Are there general workshops that help graduate students with graduate school? GT 6000 is an 8-weeks Georgia Tech orientation to help students understand what it is like to be a graduate student and how best to strive with workshops on time management, resources on campus etc. 
 
 All these apply to postdoctoral scholars as well but you are expected to already know best your own working style and work with Joyce if any issues come up. 
 
