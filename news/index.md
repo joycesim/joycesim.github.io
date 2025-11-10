@@ -8,6 +8,8 @@ title: News
 
 ### 2025
 
+December: Dr Hee Choi will be presenting at AGU Fall meeting, New Orleans!
+
 November: [Dr Alex Tye](https://www.alextye.com/) is visiting SimLab to collaborate on the Antofalla project!
 
 October: Dr Joyce Sim will be giving the DeFord lecture in the Jackson School of Geosciences at University of Texas, at Austin.
