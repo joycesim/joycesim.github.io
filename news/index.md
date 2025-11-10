@@ -8,7 +8,7 @@ title: News
 
 ### 2025
 
-November: [Dr Alex Tye](https://www.alextye.com/) is visiting the group to collaborate on the Antofalla project!
+November: [Dr Alex Tye](https://www.alextye.com/) is visiting SimLab to collaborate on the Antofalla project!
 
 October: Dr Joyce Sim will be giving the DeFord lecture in the Jackson School of Geosciences at University of Texas, at Austin.
 
