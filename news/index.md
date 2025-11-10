@@ -8,6 +8,10 @@ title: News
 
 ### 2025
 
+November: [Dr Alex Tye](https://www.alextye.com/) is visiting the group to collaborate on the Antofalla project!
+
+October: Dr Joyce Sim will be giving the DeFord lecture in the Jackson School of Geosciences at University of Texas, at Austin.
+
 August: A group of us, Dr Mitchell McMillan, Ayo Pierce-walker, Brandon Lopez and Dr Joyce Sim will all be presenting at the [CIG-TNG meeting](https://geodynamics.org/events/details/349)! The semester begins at Georgia Tech! 
 
 July: Dr Joyce Sim will be presenting at the Asia Oceania Geosciences Society Meeting, 2025, Singapore.
