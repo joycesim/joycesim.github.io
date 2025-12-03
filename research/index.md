@@ -143,6 +143,7 @@ Resulting variations in important isotopic parent/daughter ratios (Sm/Nd, Lu/Hf)
 * [Subduction Zone 4D (SZ4D)](https://www.sz4d.org/)
 * [Volcanology Infrastructure for Computational Tools and Resources (VICTOR)](https://victor.ldeo.columbia.edu/),[VICTOR software](https://docs.victorproject.org/en/latest/index.html)
 * [US InterRidge](https://usinterridge.org/)
+* [Europlanet](https://www.europlanet.org/)
 
 
 ### Instruction
