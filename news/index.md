@@ -8,7 +8,7 @@ title: News
 
 ### 2025
 
-December: Dr Hee Choi will be presenting at AGU Fall meeting, New Orleans! Ayo Pierce-Walker finishes his Masters with the group, becoming the first in the group! 
+December: Dr Hee Choi will be presenting at AGU Fall meeting, New Orleans! Ayo Pierce-Walker finishes his Masters on Europa, becoming the first in the group! 
 
 November: [Dr Alex Tye](https://www.alextye.com/) is visiting SimLab to collaborate on the Antofalla project!
 
