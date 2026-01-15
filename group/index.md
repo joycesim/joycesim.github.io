@@ -58,11 +58,8 @@ machine learning techniques to develop tools that can detect and track subductio
 I am a Masters student in the School of Earth and Atmospheric Sciences focusing on modeling melt transport at mid-ocean ridges. I investigate how to model mantle heterogeneities and how this impacts melt dynamics. I’m broadly interested in applying probabilistic models to geodynamics problems and making science more accessible.
 
 <br clear="right"/> 
+### Alexandra Cabrera (GSU Undergraduate Researcher Spring 2026 -- Present)
 
-### Abdulaziz Alajlan (Georgia Tech Undergraduate Fall 2024 -- Present)
-<img align="right" src="/image/AbdulazizAlajlan.png" alt="Abdulaziz" title="Abdulaziz" width="250" />    
-
-My name is Abdulaziz Alajlan. I am from Riyadh, Saudi Arabia. I’m a Computer Science major with a minor in Environmental Science. I’m passionate about research, bioinformatics, and Data Science! I’ve had lots of great experiences in the EAS department, and hope that more opportunities will arise.
 <br clear="right"/> 
 
 ### [Your name and picture here! Join us!]
@@ -87,6 +84,9 @@ Saswata Hier-Majumder (DOE)
 
 
 ## Alumni
+
+### Abdulaziz Alajlan (Georgia Tech Undergraduate Fall 2024 -- Fall 2025)
+My name is Abdulaziz Alajlan. I am from Riyadh, Saudi Arabia. I’m a Computer Science major with a minor in Environmental Science. I’m passionate about research, bioinformatics, and Data Science! I’ve had lots of great experiences in the EAS department, and hope that more opportunities will arise.
 
 ### Michelle McClendon (CEISMC GIFT program, Summer 2025)
 K12 STEM Teacher 
