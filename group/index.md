@@ -52,9 +52,10 @@ machine learning techniques to develop tools that can detect and track subductio
 I am a Masters student in the School of Earth and Atmospheric Sciences focusing on modeling melt transport at mid-ocean ridges. I investigate how to model mantle heterogeneities and how this impacts melt dynamics. I’m broadly interested in applying probabilistic models to geodynamics problems and making science more accessible.
 
 <br clear="right"/> 
+
 ### Alexandra Cabrera (GSU Undergraduate Researcher Spring 2026 -- Present)
 
-<br clear="right"/> 
+
 
 ### [Your name and picture here! Join us!]
 
