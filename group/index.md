@@ -40,12 +40,6 @@ Here is the living [group vision document](https://joycesim.github.io/GroupVisio
 machine learning techniques to develop tools that can detect and track subduction zones from model outputs, helping to quantify changes in subduction style over time. I am passionate about understanding early Earth processes and how they inform the tectonic evolution of our planet — and potentially others. [Website](https://heec12.github.io/)    
 <br clear="right"/> 
 
-### Chazerae (Ayo) Pierce-Walker (Masters student Fall 2023 -- Present)
-<img align="center" src="/image/Ayo.JPG" alt="Ayo" title="Ayo" width="200" />    
-*working on Europa icy shell melt water transport
-
-<br clear="center"/> 
-
 ### Brandon J. Lopez (PhD student Fall 2023 -- Present)
 <img align="center" src="/image/Brandon.JPG" alt="Brandon" title="Brandon" width="200" />    
 *working on magma ocean-atmospheric dynamics on Earth, Venus and exoplanets
@@ -84,6 +78,9 @@ Saswata Hier-Majumder (DOE)
 
 
 ## Alumni
+
+### Chazerae (Ayo) Pierce-Walker (Masters student Fall 2023 -- Fall 2025)
+Europa icy shell melt water transport
 
 ### Abdulaziz Alajlan (Georgia Tech Undergraduate Fall 2024 -- Fall 2025)
 My name is Abdulaziz Alajlan. I am from Riyadh, Saudi Arabia. I’m a Computer Science major with a minor in Environmental Science. I’m passionate about research, bioinformatics, and Data Science! I’ve had lots of great experiences in the EAS department, and hope that more opportunities will arise.
