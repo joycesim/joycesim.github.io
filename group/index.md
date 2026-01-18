@@ -41,10 +41,10 @@ machine learning techniques to develop tools that can detect and track subductio
 <br clear="right"/> 
 
 ### Brandon J. Lopez (PhD student Fall 2023 -- Present)
-<img align="center" src="/image/Brandon.JPG" alt="Brandon" title="Brandon" width="200" />    
+<img align="right" src="/image/Brandon.JPG" alt="Brandon" title="Brandon" width="200" />    
 *working on magma ocean-atmospheric dynamics on Earth, Venus and exoplanets
   
-<br clear="center"/> 
+<br clear="right"/> 
 
 ### Amita Anand (Masters student Fall 2025 -- Present)
 <img align="right" src="/image/AmitaAnand.png" alt="Amita" title="Amita" width="250" />    
@@ -54,10 +54,10 @@ I am a Masters student in the School of Earth and Atmospheric Sciences focusing 
 <br clear="right"/> 
 
 ### Alexandra Cabrera (GSU Undergraduate Researcher Spring 2026 -- Present)
-<img align="center" src="/image/ACabrera.jpg" alt="Brandon" title="Alexandra" width="200" />    
+<img align="right" src="/image/ACabrera.jpg" alt="Brandon" title="Alexandra" width="200" />    
 
 I am a geophysicist senior in the Department of Physics and Astronomy at Georgia State University. I work with Dr. Sim to model magma-ocean evolution and atmospheric dynamics on Mars. My broader interests include planetary geology, planetary interiors, and processes that shape terrestrial planets.
-<br clear="center"/>
+<br clear="right"/>
 
 ### [Your name and picture here! Join us!]
 
