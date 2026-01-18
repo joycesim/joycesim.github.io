@@ -54,8 +54,10 @@ I am a Masters student in the School of Earth and Atmospheric Sciences focusing 
 <br clear="right"/> 
 
 ### Alexandra Cabrera (GSU Undergraduate Researcher Spring 2026 -- Present)
+<img align="center" src="/image/ACabrera.JPG" alt="Brandon" title="Brandon" width="200" />    
 
-
+I am a geophysicist senior in the Department of Physics and Astronomy at Georgia State University. I work with Dr. Sim to model magma-ocean evolution and atmospheric dynamics on Mars. My broader interests include planetary geology, planetary interiors, and processes that shape terrestrial planets.
+<br clear="center"/>
 
 ### [Your name and picture here! Join us!]
 
