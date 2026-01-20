@@ -7,7 +7,7 @@ title: News
 ## Discovery, Education, Innovation
 
 ### 2026
-January: Happy new year! Dr Joyce Sim presents the Earth Science seminar at University of Georgia, Athens! The workshop kickoff for the new Art/Science initiative "Cosmic Missteps" starts this month with artist Dylan Cawthorne and scientist/SRI director Jud Ready!
+January: Happy new year! Dr Joyce Sim presents the Earth Science seminar at University of Georgia, Athens! The workshop kickoff for the new [Art/Science initiative "Cosmic Missteps"](https://gatech.campuslabs.com/engage/event/11960958) starts this month with artist [Dylan Cawthorne](https://www.dylancawthorne.com/) and scientist/SRI director [Jud Ready](https://research.gatech.edu/people/w-jud-ready)!
 
 ### 2025
 December: Dr Hee Choi will be presenting at AGU Fall meeting, New Orleans! Ayo Pierce-Walker finishes his Masters on Europa, the first graduate in the group! Our Art/Science initiative was funded by the [Space Research Institute](https://space.gatech.edu/)! 
