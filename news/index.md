@@ -6,9 +6,11 @@ title: News
 
 ## Discovery, Education, Innovation
 
-### 2025
+### 2026
+January: Happy new year! Dr Joyce Sim presents the Earth Science seminar at University of Georgia, Athens! The workshop kickoff for the new Art/Science initiative "Cosmic Missteps" starts this month with artist Dylan Cawthorne and scientist/SRI director Jud Ready!
 
-December: Dr Hee Choi will be presenting at AGU Fall meeting, New Orleans! Ayo Pierce-Walker finishes his Masters on Europa, becoming the first in the group! 
+### 2025
+December: Dr Hee Choi will be presenting at AGU Fall meeting, New Orleans! Ayo Pierce-Walker finishes his Masters on Europa, the first graduate in the group! Our Art/Science initiative was funded by the [Space Research Institute](https://space.gatech.edu/)! 
 
 November: [Dr Alex Tye](https://www.alextye.com/) is visiting SimLab to collaborate on the Antofalla project!
 
