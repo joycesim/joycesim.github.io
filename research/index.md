@@ -131,6 +131,7 @@ Resulting variations in important isotopic parent/daughter ratios (Sm/Nd, Lu/Hf)
 * [Submap: tool for plotting subduction zones](https://submap.gm.umontpellier.fr/)
 * [USGS Slab 2.0](https://www.usgs.gov/tools/slab20-interactive-map)
 * [GPU - openACC](https://www.openacc.org/)
+* [Forming Worlds](https://github.com/FormingWorlds)
 
 ### Organizations
 * [Computational Infrastructure for Geodynamics (CIG)](https://geodynamics.org/cig/)
