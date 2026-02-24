@@ -53,7 +53,8 @@ Crust project, data compilation of crustal thicknesses from seismic reflection s
 **Lindsay Chuang (PhD, Georgia Tech)** Graduated 2024  
 
 ## UNDERGRADUATE STUDENTS
-**Abdulaziz Alajlan** (Computer Science, Georgia Tech) Fall 2024 - present   
+**Alexandra Cabrera**    
+**Abdulaziz Alajlan** (Computer Science, Georgia Tech) Fall 2024 - 2025  
 NSF-geophysics grant, Extending felsic thermodynamic reactions to mafic domains  
 **Lyra Hameed** (Georgia Perimeter Community College) Summer 2025
 *EAS-REU; Astrophysics major*.  
