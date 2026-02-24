@@ -21,7 +21,7 @@ Committee: Jan P. Kleissl and Eugene R. Pawlak.
 **B.S., Earth Science (honors) 2011**.   
 University of California, San Diego.  
 
-## RESEARCH POSITIONS
+## ACADEMIC POSITIONS
 **Assistant professor, Georgia Institute of Technology, 2024 - present**.    
 **Research Associate PI, Georgia Institute of Technology, 2020 - 2024**.    
 **Postdoctoral Research Fellow, Carnegie Institution for Science, 2018 - 2020**.   
