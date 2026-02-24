@@ -40,9 +40,9 @@ Crust project, data compilation of crustal thicknesses from seismic reflection s
 **Dr Hee Choi** June 2025 - present.   
 
 ## GRADUATE STUDENTS
-**Brandon Lopez** Fall 2023 - present.   
-**Chazerae (Ayo) Pierce-Walker** Fall 2023 - present.  
-**Amita Anand** Fall 2025 - present.   
+**Brandon Lopez (PhD)** Fall 2023 - present.   
+**Amita Anand (Ms)** Fall 2025 - present.   
+**Chazerae (Ayo) Pierce-Walker (Ms)** Fall 2023 - Fall 2025.  
 
 ### THESIS COMMITTEE 
 **Yin Chu Lu (PhD, Georgia Tech)** In progress    
