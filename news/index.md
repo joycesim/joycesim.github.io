@@ -8,7 +8,7 @@ title: News
 
 ### 2026
 
-February: Dr Joyce Sim goes on lecture tour to Wesleyan University and Central Connecticut University as part of the [Computational Infrastructure for Geodynamics distinguished speaker series](https://geodynamics.org/outreach/speaker)! Workshop 1 of the Cosmic Misstep series with artist Zeynep Ozcan and scientist Amanda Stockton!
+February: Dr Joyce Sim goes on lecture tour to Wesleyan University and Central Connecticut University as part of the [Computational Infrastructure for Geodynamics distinguished speaker series](https://geodynamics.org/outreach/speaker)! [Workshop 1 of the Cosmic Misstep series](https://gatech.campuslabs.com/engage/event/12173083) with artist [Zeynep Ozcan](http://zeynepozcan.net/) and scientist [Amanda Stockton](https://sites.gatech.edu/stocktonlab/)!
 
 January: Happy new year! Dr Joyce Sim presents the [Earth Science colloquium at University of Georgia, Athens](https://geology.uga.edu/events/content/2025/dr-shi-joyce-sim-magma-transport-mid-ocean-ridges-mars)! The workshop kickoff for the new [Art/Science initiative "Cosmic Missteps"](https://gatech.campuslabs.com/engage/event/11960958) starts this month with artist [Dylan Cawthorne](https://www.dylancawthorne.com/) and scientist/SRI director [Jud Ready](https://research.gatech.edu/people/w-jud-ready)!
 
