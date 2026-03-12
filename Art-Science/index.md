@@ -23,5 +23,5 @@ Mission
 <br clear="left"/>
 
 
-<img align="left" src="/image/SRILogo.jpg" alt="Space Research Institute Logo" title="Space Research Institute Logo" height="100" />    
+<img align="left" src="/image/GTSRILogo.jpg" alt="Space Research Institute Logo" title="Space Research Institute Logo" height="100" />    
 Funded by [Space Research Institute (SRI)](https://space.gatech.edu/)
