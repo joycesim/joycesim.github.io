@@ -5,7 +5,7 @@ title: Group
 # {{page.title}}
 AKA The SIMulators
 
-<img align="center" src="/image/Group_Spring2025.JPG" alt="Sim Lab Spring 2025" title="Sim Lab Spring 2025" width="600" />   
+<img align="center" src="/image/GroupSpring2026.JPG" alt="Sim Lab Spring 2026" title="Sim Lab Spring 2026" width="600" />   
 
 ## Current members
 
