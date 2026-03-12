@@ -22,12 +22,12 @@ Mission
 2. Build and foster collaborations between Arts and Science faculty on campus by facilitating conversations
 3. Showcase Space research to campus community, as outreach for K12 and to the Space research community nationwide
 
-Joyce Sim (LEAD - School of Earth and Atmospheric Sciences)
-[Catherine Manci (Library)](https://www.library.gatech.edu/catherine-manci)
-[Alexandria Smith (School of Music)](https://music.gatech.edu/people/alexandria-smith)
-[Melissa Gerrior (Student engagement)](https://support.belonging.gatech.edu/staff)
-[Krystian Ramlogan (School of Literature, Media and Communications)](https://iac.gatech.edu/people/person/c0167b47-7456-5568-96ad-031db17bd08e)
-[Lisa Yaszek (School of Literature, Media and Communications)](https://iac.gatech.edu/people/person/lisa-yaszek)
+Joyce Sim (LEAD - School of Earth and Atmospheric Sciences)   
+[Catherine Manci (Library)](https://www.library.gatech.edu/catherine-manci)   
+[Alexandria Smith (School of Music)](https://music.gatech.edu/people/alexandria-smith)   
+[Melissa Gerrior (Student engagement)](https://support.belonging.gatech.edu/staff)   
+[Krystian Ramlogan (School of Literature, Media and Communications)](https://iac.gatech.edu/people/person/c0167b47-7456-5568-96ad-031db17bd08e)   
+[Lisa Yaszek (School of Literature, Media and Communications)](https://iac.gatech.edu/people/person/lisa-yaszek)   
 
 
 <img align="left" src="/image/GTSRILogo.png" alt="Space Research Institute Logo" title="Space Research Institute Logo" height="100" />    
