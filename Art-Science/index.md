@@ -44,4 +44,6 @@ Joyce Sim (LEAD - School of Earth and Atmospheric Sciences)
 
 
 <img align="left" src="/image/GTSRILogo.png" alt="Space Research Institute Logo" title="Space Research Institute Logo" height="100" />    
+<br clear="left"/>
+
 Funded by [Space Research Institute (SRI)](https://space.gatech.edu/)
