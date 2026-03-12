@@ -9,6 +9,14 @@ title: Teaching
 
 ### [Tech to Teaching](https://ctl.gatech.edu/tech-teaching/) (Spring 2024) Center for Teaching and Learning
 
+### EAS 4315/6315 Geofluids (Spring 2026)
+Fluids play a central role in almost all Earth and planetary processes. Core convection deep in the Earth, porous flows of magma and fluids in the crust, surface flows from rivers to ocean currents and gas dynamics in the atmosphere, all shape landscape and influence the thermal budget of Earth and other planets. This course focuses on the fundamental concepts of fluid dynamics merged with geophysical and geochemical applications. We will explore the physics of pure fluids and multiphase flow through class demonstrations, fluid experiments, and a review of current literature. This course targets upper-division undergraduate students and graduate students in Earth & Atmospheric Sciences. Learning objectives: 
+• Develop a quantitative and qualitative understanding of geofluids in Earth and planetary sciences.
+• Understand and apply basic fluid mechanics and thermodynamics.
+• Discuss geofluids in the plate tectonic settings, Earthquakes, Volcanoes and magmatic systems, Ice-meltwater systems, and planetary systems.
+• Critique geofluids scientific research
+• Explore fluid flow problems in the solid Earth and other planetary bodies
+
 ### EAS 4312/6312 Geodynamics (Spring 2025)
 
 This course is a quantitative discussion of the physical properties of materials and dynamic processes driving the solid Earth. We will closely follow Geodynamics by Turcotte & Schubert — supplemented by Advanced Geodynamics by Sandwell — in covering topics in stress and strain, elasticity and flexure, heat transfer, fluid mechanics, rock rheology, and crustal faulting as mechanisms and consequences of plate tectonics. Students will use Fourier analysis to solve linear partial differential equations throughout the class. Learning objectives: 
