@@ -7,7 +7,7 @@ title: Art-Science
 
 *Bridging the gap: Art-Science collaboration*
 
-## Cosmic Missteps: Turning Research Failures into Art
+## [Cosmic Missteps: Turning Research Failures into Art](https://space.gatech.edu/cosmic-missteps)
 Cosmic Missteps is a workshop series where an artist and scientist collaborate and leads a group of student participants on a creating art inspired by space research failure. This will culminate into a exhibition at the end of the Spring semester at the Lobby of the Ferst Center for the Arts. 
 
 <img align="left" src="/image/CosmicMissteps.jpg" alt="Cosmic Missteps Workshop flyer" title="Cosmic Missteps Workshop flyer" height="300" />    
