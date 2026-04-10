@@ -12,6 +12,8 @@ Cosmic Missteps is a workshop series where an artist and scientist collaborate a
 
 <img align="left" src="/image/CosmicMissteps.jpg" alt="Cosmic Missteps Workshop flyer" title="Cosmic Missteps Workshop flyer" height="300" />    
 <br clear="left"/>
+<img align="right" src="/image/TechArt_CosmicMissteps1.pdf" alt="Cosmic Missteps Exhibition Launch flyer" title="Cosmic Missteps Exhibition Launchflyer" height="300" />    
+<br clear="right"/>
 
 ### Calendar
 15 January: The workshop kickoff for the new [Art/Science initiative "Cosmic Missteps"](https://gatech.campuslabs.com/engage/event/11960958) starts with artist [Dylan Cawthorne](https://www.dylancawthorne.com/) and scientist/SRI director [Jud Ready](https://research.gatech.edu/people/w-jud-ready)!
@@ -22,7 +24,7 @@ Cosmic Missteps is a workshop series where an artist and scientist collaborate a
 
 2 April: Workshop 3 of the Cosmic misstep Series with Artist [Eric Mack](https://whitespace814.com/artist/eric-mack) and Scientist [Jennifer Glass](http://www.jenniferglass.com/)! 
 
-SAVE THE DATE: Exhibition Launch on ***Monday 13th April 5-7pm in the Ferst Center for the Arts lobby***! The exhibition will be up until the end of the semester. 
+5-7 pm 13 April: Exhibition Launch on ***Monday 13th April 5-7pm in the Ferst Center for the Arts lobby***! The exhibition will be up until the end of the semester. 
 
 ### Science is an Art. Art is a Science.
 The idea is that in the scientific process, there are inevitable steps or what some might call ‘failures’ along the way (blown up cubesat, divergent numerical results, failed experiments) that are often times glazed over but they can create some beautiful art that not only highlight the beauty of ‘failures’ but also their importance for science - in particular space science. Failure is part of learning in both Art and Science and show progress. This is not only great for normalizing ‘failures’ but also as an outreach tool that Science is a progress that can be appreciated artistically (seems like we need this more than ever). It is a learning curve to have inter-disciplinary conversations and a language barrier between artists and scientists. The ultimate goal of this initiative is to foster cross disciplinary communication/collaboration and normalize failure. 
