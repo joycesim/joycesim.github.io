@@ -10,11 +10,8 @@ title: Happy Accidents
 ## [Cosmic Missteps: Turning Research Failures into Art](https://space.gatech.edu/cosmic-missteps)
 Cosmic Missteps is a workshop series where an artist and scientist collaborate and leads a group of student participants on a creating art inspired by space research failure. This will culminate into a exhibition at the end of the Spring semester at the Lobby of the Ferst Center for the Arts. 
 
-<img align="left" src="/image/CosmicMissteps.jpg" alt="Cosmic Missteps Workshop flyer" title="Cosmic Missteps Workshop flyer" height="400" />    
-<br clear="left"/>
-
-<img align="right" src="/image/TechArt1.png" alt="Cosmic Missteps Exhibition Launch flyer" title="Cosmic Missteps Exhibition Launchflyer" height="400" />    
-<br clear="right"/>
+<img align="center" src="/image/TechArt1.png" alt="Cosmic Missteps Exhibition Launch flyer" title="Cosmic Missteps Exhibition Launchflyer" height="400" />    
+<br clear="center"/>
 
 ### Calendar
 15 January: The workshop kickoff for the new [Art/Science initiative "Cosmic Missteps"](https://gatech.campuslabs.com/engage/event/11960958) starts with artist [Dylan Cawthorne](https://www.dylancawthorne.com/) and scientist/SRI director [Jud Ready](https://research.gatech.edu/people/w-jud-ready)!
