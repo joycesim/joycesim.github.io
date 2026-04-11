@@ -8,12 +8,17 @@ title: News
 
 ### 2026
 
-March: Dr Joyce Sim goes on lecture tour to Miamia University, Ohio as part of the [Computational Infrastructure for Geodynamics distinguished speaker series](https://geodynamics.org/outreach/speaker)! [Workshop 2 of the Cosmic Misstep series](https://gatech.campuslabs.com/engage/event/12262184) with artist [Ashley Wheeler](https://www.instagram.com/p/CWONITgrZYE/) and scientist/Director of Georgia Tech Observatory [Paul Sells](https://physics.gatech.edu/user/paul-sell)! 
+<img align="left" src="/image/TechArt2.png" alt="Cosmic Missteps Workshop flyer" title="Cosmic Missteps Workshop flyer" height="400" />    
+<br clear="left"/>
+
+April: [Workshop 3 of the Cosmic Misstep series](https://gatech.campuslabs.com/engage/event/12338503) with artist [Eric Mack](https://www.norfolksouthern.com/en/art/eric-mack) and scientist [Dr Jennifer Glass](http://www.jenniferglass.com/)! The Cosmic Missteps Exhibition Launch is on 5-7pm Monday 13th April at the Ferst center for the arts (coming Monday)! [RSVP HERE](https://gatech.campuslabs.com/engage/event/12342657). The exhibition will be up until May 8th!
+
+March: Dr Joyce Sim goes on lecture tour to Miami University, Ohio as part of the [Computational Infrastructure for Geodynamics distinguished speaker series](https://geodynamics.org/outreach/speaker)! [Workshop 2 of the Cosmic Misstep series](https://gatech.campuslabs.com/engage/event/12262184) with artist [Ashley Wheeler](https://www.instagram.com/p/CWONITgrZYE/) and scientist/Director of Georgia Tech Observatory [Paul Sells](https://physics.gatech.edu/user/paul-sell)! 
+
+February: Happy Lunar New Year! Dr Joyce Sim goes on lecture tour to Wesleyan University and Central Connecticut University as part of the [Computational Infrastructure for Geodynamics distinguished speaker series](https://geodynamics.org/outreach/speaker)! [Workshop 1 of the Cosmic Misstep series](https://gatech.campuslabs.com/engage/event/12173083) with artist [Zeynep Ozcan](http://zeynepozcan.net/) and scientist [Amanda Stockton](https://sites.gatech.edu/stocktonlab/)! 
 
 <img align="left" src="/image/CosmicMissteps.jpg" alt="Cosmic Missteps Workshop flyer" title="Cosmic Missteps Workshop flyer" height="400" />    
 <br clear="left"/>
-
-February: Happy Lunar New Year! Dr Joyce Sim goes on lecture tour to Wesleyan University and Central Connecticut University as part of the [Computational Infrastructure for Geodynamics distinguished speaker series](https://geodynamics.org/outreach/speaker)! [Workshop 1 of the Cosmic Misstep series](https://gatech.campuslabs.com/engage/event/12173083) with artist [Zeynep Ozcan](http://zeynepozcan.net/) and scientist [Amanda Stockton](https://sites.gatech.edu/stocktonlab/)! 
 
 January: Happy new year! Dr Joyce Sim presents the [Earth Science colloquium at University of Georgia, Athens](https://geology.uga.edu/events/content/2025/dr-shi-joyce-sim-magma-transport-mid-ocean-ridges-mars)! The workshop kickoff for the new [Art/Science initiative "Cosmic Missteps"](https://gatech.campuslabs.com/engage/event/11960958) starts this month with artist [Dylan Cawthorne](https://www.dylancawthorne.com/) and scientist/SRI director [Jud Ready](https://research.gatech.edu/people/w-jud-ready)!
 
