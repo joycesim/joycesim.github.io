@@ -12,7 +12,8 @@ Cosmic Missteps is a workshop series where an artist and scientist collaborate a
 
 <img align="left" src="/image/CosmicMissteps.jpg" alt="Cosmic Missteps Workshop flyer" title="Cosmic Missteps Workshop flyer" height="400" />    
 <br clear="left"/>
-<img align="right" src="/image/TechArt1" alt="Cosmic Missteps Exhibition Launch flyer" title="Cosmic Missteps Exhibition Launchflyer" height="400" />    
+
+<img align="right" src="/image/TechArt1.png" alt="Cosmic Missteps Exhibition Launch flyer" title="Cosmic Missteps Exhibition Launchflyer" height="400" />    
 <br clear="right"/>
 
 ### Calendar
