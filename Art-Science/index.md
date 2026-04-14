@@ -42,11 +42,10 @@ Joyce Sim (LEAD - School of Earth and Atmospheric Sciences)
 [Krystian Ramlogan (School of Literature, Media and Communications)](https://iac.gatech.edu/people/person/c0167b47-7456-5568-96ad-031db17bd08e)   
 [Lisa Yaszek (School of Literature, Media and Communications)](https://iac.gatech.edu/people/person/lisa-yaszek)   
 
-## Happy Accidents
-
-
-
 <img align="left" src="/image/GTSRILogo.png" alt="Space Research Institute Logo" title="Space Research Institute Logo" height="100" />    
 <br clear="left"/>
 
 Funded by [Space Research Institute (SRI)](https://space.gatech.edu/)
+
+## Happy Accidents
+Under construction
