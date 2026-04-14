@@ -20,7 +20,7 @@ Cosmic Missteps is a workshop series where an artist and scientist collaborate a
 
 5 March: [Workshop 2 of the Cosmic Misstep series](https://gatech.campuslabs.com/engage/event/12262184) with artist [Ashley Wheeler](https://www.instagram.com/p/CWONITgrZYE/) and scientist/Director of Georgia Tech Observatory [Paul Sells](https://physics.gatech.edu/user/paul-sell)! 
 
-2 April: Workshop 3 of the Cosmic misstep Series with Artist [Eric Mack](https://whitespace814.com/artist/eric-mack) and Scientist [Jennifer Glass](http://www.jenniferglass.com/)! 
+2 April: [Workshop 3 of the Cosmic misstep Series](https://gatech.campuslabs.com/engage/event/12338503) with Artist [Eric Mack](https://whitespace814.com/artist/eric-mack) and Scientist [Jennifer Glass](http://www.jenniferglass.com/)! 
 
 5-7 pm 13 April: Exhibition Launch on ***Monday 13th April 5-7pm in the Ferst Center for the Arts lobby***! The exhibition will be up until the end of the semester. 
 
