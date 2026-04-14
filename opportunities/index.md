@@ -9,6 +9,8 @@ title: Opportunities
 
 *'If you can cook, you can code!' - [René Castillo](https://rocknrene.github.io/)*
 
+[Soffen Travel fund](https://soffenfund.org/)
+
 ### Undergraduate students
 Undergraduates (US citizens and PR) are invited to apply for a ten-week research program hosted by Georgia Tech School of Earth and Atmospheric Sciences (EAS) during Summer. Learn more [here](https://easreu.eas.gatech.edu/)! 
 
