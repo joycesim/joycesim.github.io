@@ -132,6 +132,8 @@ Resulting variations in important isotopic parent/daughter ratios (Sm/Nd, Lu/Hf)
 * [USGS Slab 2.0](https://www.usgs.gov/tools/slab20-interactive-map)
 * [GPU - openACC](https://www.openacc.org/)
 * [Forming Worlds](https://github.com/FormingWorlds)
+* [HeFESTo: Helmholtz Free Energy Self-consistent Thermodynamics](https://sites.epss.ucla.edu/lithgow-bertelloni/hefesto/)
+* [MELTS family](https://magmasource.caltech.edu/)
 
 ### Organizations
 * [Computational Infrastructure for Geodynamics (CIG)](https://geodynamics.org/cig/)
