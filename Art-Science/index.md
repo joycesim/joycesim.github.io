@@ -22,6 +22,8 @@ Cosmic Missteps is a workshop series where an artist and scientist collaborate a
 
 2 April: [Workshop 3 of the Cosmic misstep Series](https://gatech.campuslabs.com/engage/event/12338503) with Artist [Eric Mack](https://whitespace814.com/artist/eric-mack) and Scientist [Jennifer Glass](http://www.jenniferglass.com/)! 
 
+[AJC news article on Eric Mack](https://www.ajc.com/arts-entertainment/2026/05/silent-melodies-of-plants-are-music-to-the-ears-of-atlanta-artist/)
+
 5-7 pm 13 April: [Exhibition Launch on ***Monday 13th April 5-7pm in the Ferst Center for the Arts lobby***!](https://gatech.campuslabs.com/engage/event/12342657) The exhibition will be up until the end of the semester. 
 
 ### Science is an Art. Art is a Science.
