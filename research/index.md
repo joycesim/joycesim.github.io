@@ -134,6 +134,8 @@ Resulting variations in important isotopic parent/daughter ratios (Sm/Nd, Lu/Hf)
 * [Forming Worlds](https://github.com/FormingWorlds)
 * [HeFESTo: Helmholtz Free Energy Self-consistent Thermodynamics](https://sites.epss.ucla.edu/lithgow-bertelloni/hefesto/)
 * [MELTS family](https://magmasource.caltech.edu/)
+* [MAGEMin](https://github.com/ComputationalThermodynamics/MAGEMinApp.jl)
+* [Hydrothermal FOAM/OpenFOAM](https://lruepke.github.io/HTF_lecture/dome2025/index.html)
 
 ### Organizations
 * [Computational Infrastructure for Geodynamics (CIG)](https://geodynamics.org/cig/)
