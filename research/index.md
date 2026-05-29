@@ -160,6 +160,7 @@ Resulting variations in important isotopic parent/daughter ratios (Sm/Nd, Lu/Hf)
 * [Center for Teaching and Learning (CTL) at Georgia Tech](https://ctl.gatech.edu/)
 * [The Chronicle of Higher Education](https://www.chronicle.com/)
 * [Center for the Integration of Research, Teaching and Learning (CIRTL)](https://cirtl.net/)
+* [Tectonic Geodynamics](https://www-udc.ig.utexas.edu/external/becker/teaching.html)
 
 ### Workshops
 * [Ada Lovelace Workshop](https://www.egu.eu/gd/meetings/conference-series/ada-lovelace-workshops-on-modelling-mantle-and-lithosphere-dynamics/)
