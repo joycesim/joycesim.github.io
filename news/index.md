@@ -8,7 +8,7 @@ title: News
 
 ### 2026
 
-June: Congratulations to postdoc [Dr Mitchell McMillan](https://www.mitchell-mcmillan.com/), who will be starting as a assistant professor at Florida State University in Fall 2026! Amita Anand, Dr Hee Choi, and Dr Joyce Sim will be attending and presenting at the [AGU Ada Lovelace workshop in Czech Republic](https://geo.mff.cuni.cz/alw2026/) end of the month!
+June: Congratulations to postdoc [Dr Mitchell McMillan](https://www.mitchell-mcmillan.com/), who will be starting as a assistant professor at Florida State University in Fall 2026! Congratulations to Brandon Lopez, who got accepted to and will be attending the NASA Planetary Science Summer School! Amita Anand, Dr Hee Choi, and Dr Joyce Sim will be attending and presenting at the [AGU Ada Lovelace workshop in Czech Republic](https://geo.mff.cuni.cz/alw2026/) end of the month!
 
 May: Join us at the CIG workshop on [Exploring Thermodynamic Computational Models in Geodynamics](https://geodynamics.org/events/details/389) on Monday 11 May 8:00 am - 12:00 pm PDT!
 
