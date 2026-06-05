@@ -51,11 +51,6 @@ I am a Masters student in the School of Earth and Atmospheric Sciences focusing 
 
 <br clear="right"/> 
 
-### Alexandra Cabrera (GSU Undergraduate Researcher Spring 2026 -- Present)
-<img align="right" src="/image/ACabrera.jpg" alt="Brandon" title="Alexandra" width="400" />    
-
-I am a geophysicist senior in the Department of Physics and Astronomy at Georgia State University. I work with Dr. Sim to model magma-ocean evolution and atmospheric dynamics on Mars. My broader interests include planetary geology, planetary interiors, and processes that shape terrestrial planets.
-<br clear="right"/>
 
 ### [Your name and picture here! Join us!]
 
@@ -79,6 +74,7 @@ Saswata Hier-Majumder (DOE)
 
 
 ## Alumni
+### Alexandra Cabrera (GSU Undergraduate Researcher Spring 2026)   
 
 ### Chazerae (Ayo) Pierce-Walker (Masters student Fall 2023 -- Fall 2025) -- Currently works at the Patent Office, Washington DC. 
 Europa icy shell melt water transport
