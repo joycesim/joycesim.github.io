@@ -116,6 +116,8 @@ Resulting variations in important isotopic parent/daughter ratios (Sm/Nd, Lu/Hf)
 * [grant-witness for NSF, NIH](https://grant-witness.us/funding_curves_nsf.html)
 * [NSF funding curve from grant witness](https://grant-witness.us/funding_curves_nsf.html)
 
+[<img align="left" src="/image/gw-june29.png" alt="June 29th NSF grants from grant witness" width="400"/>](https://grant-witness.us/funding_curves_nsf.html)
+
 ### Software
 * [TerraFERMA (FEM PDE)](http://terraferma.github.io/)
 * [FEniCS Project (FEM)](https://fenicsproject.org/)
