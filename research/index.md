@@ -11,14 +11,12 @@ title: Research
 
 ## Recent abstracts from the group
 
-### CIG-TNG Workshop (Breckenridge, CO, 2025)
-Quantifying Oxidant Transport via Two-Phase Flow on Europa, C. Pierce-Walker and S. J. Sim.   
+### [EGU Ada Lovelace, Seč, Czech republic](https://geo.mff.cuni.cz/alw2026/)
+Estimating Archean Oceanic Crust Composition and Its Role in Water Delivery in Subduction Settings, H. Choi and S. J. Sim.
 
-Exploring mechanisms for localizing eclogite in continental crust with reactive two-phase models, M. McMillan, S. J. Sim, and C. Wilson.   
+Can porosity waves create long-term seafloor topography? Investigating the topographic expression of transient mid-ocean ridge, A. Anand, S. J. Sim and J. A. Olive
 
-The Influence of Magma Ocean-Atmosphere: Interactions on Volatile Distributions on Early Earth and Venus, B. J. Lopez and S. J. Sim.   
-
-Dynamic Habitability: From Mid-ocean ridges to Europa, S. J. Sim.    
+The Influence of Magma Ocean-Atmosphere Interactions on Volatile Distribution on Early Earth and Venus, B. J. Lopez and S. J. Sim.   
 
 [//]: # (Research to move the conversation forward)
 
