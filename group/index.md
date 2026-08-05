@@ -23,14 +23,6 @@ I highly encourage everyone in Geoscience to take a look at the online program f
 
 Here is the living [group vision document](https://joycesim.github.io/GroupVision/) that serves as a guide with regards to expectations, vision and policies in the group. The group reviews this annually to keep things updated.       
 
-<br clear="right"/>
-
-### Dr Mitchell McMillan (Postdoctoral Scholar May 2022 -- Present)
-<img align="right" src="/image/MitchellMcMillan.jpg" alt="Mitchell" title="Mitchell" width="400" />    
-
-&nbsp; I am a geologist interested in the interactions among tectonics, lithology, and erosion that control the evolution of Earth’s surface. My research includes geologic mapping and eolian geomorphology in the Central Andes, geodynamic modelling, and low-temperature thermochronology. My current focus is on understanding the behavior of aqueous fluids in continental subduction zones, especially as they facilitate chemical reactions in the upper plate. Reactions such as eclogitization and flux melting may be significant drivers of the geodynamics of mountain belts. [Website](https://www.mitchell-mcmillan.com/)    
-<br clear="right"/> 
-
 ### Dr Hee Choi (Postdoctoral Scholar June 2025 -- Present)
 <img align="right" src="/image/HeeChoi.jpg" alt="Hee" title="Hee" width="400" />    
 
@@ -74,6 +66,10 @@ Saswata Hier-Majumder (DOE)
 
 
 ## Alumni
+
+### Dr Mitchell McMillan (Postdoctoral Scholar May 2022 -- July 2026) -- Currently Assistant Professor at Florida State University, Tallahassee. 
+I am a geologist interested in the interactions among tectonics, lithology, and erosion that control the evolution of Earth’s surface. My research includes geologic mapping and eolian geomorphology in the Central Andes, geodynamic modelling, and low-temperature thermochronology. My current focus is on understanding the behavior of aqueous fluids in continental subduction zones, especially as they facilitate chemical reactions in the upper plate. Reactions such as eclogitization and flux melting may be significant drivers of the geodynamics of mountain belts. [Website](https://www.mitchell-mcmillan.com/)   
+
 ### Alexandra Cabrera (GSU Undergraduate Researcher Spring 2026)   
 
 ### Chazerae (Ayo) Pierce-Walker (Masters student Fall 2023 -- Fall 2025) -- Currently works at the US Patent Office, Washington DC. 
