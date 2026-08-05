@@ -7,6 +7,9 @@ title: News
 ## Discovery, Education, Innovation
 
 ### 2026
+August: The Fall semester is starting! 
+
+July: Happy Summer to all!
 
 June: Congratulations to postdoc [Dr Mitchell McMillan](https://www.mitchell-mcmillan.com/), who will be starting as a assistant professor at Florida State University in Fall 2026! Congratulations to Brandon Lopez, who got accepted to and will be attending the NASA Planetary Science Summer School! Amita Anand, Dr Hee Choi, and Dr Joyce Sim will be attending and presenting at the [EGU Ada Lovelace workshop in Czech Republic](https://geo.mff.cuni.cz/alw2026/) end of the month! Congratulations to Amita Anand for winning the third place award for poster presentation at the ADA Lovelace workshop! 
 
