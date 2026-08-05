@@ -76,7 +76,7 @@ Saswata Hier-Majumder (DOE)
 ## Alumni
 ### Alexandra Cabrera (GSU Undergraduate Researcher Spring 2026)   
 
-### Chazerae (Ayo) Pierce-Walker (Masters student Fall 2023 -- Fall 2025) -- Currently works at the Patent Office, Washington DC. 
+### Chazerae (Ayo) Pierce-Walker (Masters student Fall 2023 -- Fall 2025) -- Currently works at the US Patent Office, Washington DC. 
 Europa icy shell melt water transport
 
 ### Abdulaziz Alajlan (Georgia Tech Undergraduate Fall 2024 -- Fall 2025)
