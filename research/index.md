@@ -205,7 +205,6 @@ Resulting variations in important isotopic parent/daughter ratios (Sm/Nd, Lu/Hf)
 * [Math Magazine](https://joycesim.github.io/image/Mathmagazine.pdf) by 8th Grader Mary Jones
 * [PROGRESS Pathways Panel](https://sites.google.com/rams.colostate.edu/atlanta2024/panelist-bios), [PROGRESS (PROmoting Geoscience, Research, Education and SuccesS) Program](https://progress.colostate.edu/about-this-program/)
 * [National academies mentoring for STEMM resources](https://nap.nationalacademies.org/resource/25568/interactive/tools-and-resources.html)
-* [GT Campus Cats](https://www.gtcampuscats.org/)
 * [Scientists in Parks fellowship](https://www.scientistsinparks.org/)
 * [XKCD in matplotlib](https://nbviewer.org/url/jakevdp.github.io/downloads/notebooks/XKCD_plots.ipynb)
 * [Cosmic Missteps: Turning space research failures into Art](https://space.gatech.edu/cosmic-missteps)
