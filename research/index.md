@@ -113,6 +113,8 @@ Resulting variations in important isotopic parent/daughter ratios (Sm/Nd, Lu/Hf)
 * [Large Igneous Provinces database](http://www.largeigneousprovinces.org/)
 * [grant-witness for NSF, NIH](https://grant-witness.us/funding_curves_nsf.html)
 * [NSF funding curve from grant witness](https://grant-witness.us/funding_curves_nsf.html)
+* [Pivot Diversity: Resources for Neurodiversity](https://www.pivotdiversity.com/resources)
+
 
 [<img align="left" src="/image/gw-june29.png" alt="June 29th NSF grants from grant witness" width="400"/>](https://grant-witness.us/funding_curves_nsf.html)
 
