@@ -192,8 +192,8 @@ Students often have these questions when it comes to writing:
 1) What is the timeline for writing? There are usually no datelines for manuscript. Since writing is part of the thinking process, this can be up to you. If you think your progress is too slow, do consult with Joyce. She will be happy to help you along.   
 2) When should I write? This is up to you but do set aside time for writing. If you do not set aside time and wait for inspiration, that might not happen. Even if it is for a few minutes. If you need the writing to be broken down more, please reach out to Joyce, she will be happy to help.   
 3) Am I expected to know how to write scientifically? No, especially not for your first paper. Scientific writing is a whole different beast from regular writing essay. Typically for a class, you write an essay and the only feedback you get is your grade. In scientific writing, there will be many revisions as our thinking changes and we discover more of the results as we write. The writing will also be different depending on who your audience are. Writing a proposal will be different from writing for scientific publication.     
-4) Why is there so many edits in my first draft? Am I a bad writer? No, you are not a bad writer but might just not be a good scientific writer yet. If you are unsure about edits, do talk to Joyce or whoever gave you the edits to help you understand their thought process. Note that it usually take some time to go through just one paragraph. Do not be offended by edits or criticism. They are meant to help you grow as a scientific writer.
-5) Can I use AI tools for writing? Yes, but make sure you give credits....? Some peer-reviewed journals have added policies so do check. Do not blatantly copy/paste from AI tools. Useful for brainstorming, generating acronyms, grammar, (coding? -Stackoverflow!). 
+4) Why is there so many edits in my first draft? Am I a bad writer? No, you are not a bad writer but might just not be a good scientific writer yet. If you are unsure about edits, do talk to Joyce or whoever gave you the edits to help you understand their thought process. Note that it usually take some time to go through just one paragraph. Do not be offended by edits or criticism. They are meant to help you grow as a scientific writer.    
+5) Can I use AI tools for writing (see next section for AI policy)? Yes, but make sure you give credits accordingly? Some peer-reviewed journals have added policies so do check. Do not blatantly copy/paste from AI tools. In general, AI tools can be useful for brainstorming, generating acronyms, grammar etc. 
 
 Take part in scientific writing workshops, take a course to write your fellowship proposal. The way to get better is to practise and get feedback. Joyce encourages you to have a conversation with her about writing. Everyone has different idea of what drafting means. Some people just writes everything onto paper before organising, others like to outline or brainstorm before organizing. If you want a group writing time, reach out to the group and organize it. Setting aside group writing time with the lab group or your peers can help you be accountable for the few hours you sit down to write. 
 
@@ -202,6 +202,12 @@ Software like Overleaf (there is institutional license at Georgia Tech) can be u
 Writing tool: Zotero (unlimited storage with Georgia Tech email), Dropbox
 
 Write. Write. Write.    
+
+### k) AI policy
+Here are the [NIH AI policies](https://osp.od.nih.gov/policies/artificial-intelligence/) and [NSF AI policies](https://www.nsf.gov/policies/ai) for references. 
+
+[The Use of Generative Artificial Intelligence Technologies is Prohibited for the NIH Peer Review Process
+](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-23-149.html)
 
 ## ESTABLISHING LINES OF COMMUNICATION
 
