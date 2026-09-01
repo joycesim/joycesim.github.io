@@ -34,7 +34,7 @@ The pursuit of enjoyable and high-quality research can only thrive in an environ
     - Be mindful of others, do self advocate and group advocate to have a cohesive group conversation.
     - If unsure about anything, do bring it up and we can be transparent and work through it together (Group growth mindset!).
  
-Note: There is no policy with regards to who you can date in the group, but caution with any romantic involvement with people that have any power-dynamics (refer to University-wide policy)
+Note: There is no policy with regards to who you can have romantic relationships with in the group, but do take caution with any romantic involvement with people that has any power-dynamics (refer to University-wide policy according to [University of Georgia policy](https://www.usg.edu/policies/))
 
 ### Mental health
 There is a growing body of evidence indicating that various aspects of research can pose challenges to your mental well-being. These specific factors include:
