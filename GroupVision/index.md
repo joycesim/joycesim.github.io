@@ -207,6 +207,25 @@ Here are the [NIH AI policies](https://osp.od.nih.gov/policies/artificial-intell
 [The Use of Generative Artificial Intelligence Technologies is Prohibited for the NIH Peer Review Process
 ](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-23-149.html)
 
+Coding with AI? Converting from one programming language to another. Debugging. especially for new programming language when you already know another... catching random errors. Reading documentation is also a skill that we should have... 
+
+Junior students should not be using AI at the beginning? Need to be somewhat fluent before using AI? Many programs have AI-assist turned on. Should not vibe code right away...? when do you graduate from a junior...?? group meeting test for junior student?? to have a sense of what is going on. open policy, let people know if you are using AI and how... 
+
+AI use for annoying things to do that is repetitive/tedious things... ?  Only use GenAI for things that we already mastered that we can validate and verify. For coding... 
+Make sure of all learning opportunities instead of leaning on AI...? Being conscious of when you use AI. 
+
+Georgia Tech policy: doesnt allow Claude on GT machines... privacy/security issues. 
+
+Good practice: Not uploading codes on AI tools online ... free tier - no safety measures, got to be extra careful. 
+
+Keep updated on latest AI policies, help each other out by informing each other in the group. Be aware of new capabilities of AI in Earth science... trying to keep pace... 
+
+Usage so far: code translation, formatting bibliography, plotting, repetitive/tedious things that you already know... AI can do it faster... dealing with new coding language... finding papers! write research notes from handwritten to digital file. paired with obsidian. 
+
+Claude? free tier for scientists... Chatgpt? fable 5.2... JOyce needs to put in request.... 
+Integrated cocding environment... like visual studio code. 
+
+
 ## ESTABLISHING LINES OF COMMUNICATION
 
 Communicate, communicate, communicate!
@@ -259,6 +278,7 @@ As a Postdoctoral scholar, depending on your discussion with Joyce, you can gene
 
 In general, you will be provided with a workstation of your choice (Mac/PC/Linux) and if you need other accessories like keyboards/monitors and mouse, please let Joyce know. 
 There is usually supercomputing resources and orientations to get you going on the [PACE clusters at Georgia Tech](https://pace.gatech.edu/). 
+Loook at the AI policies above! 
 
 ### b)    Good practices
 
@@ -298,6 +318,8 @@ Tea/coffee recommendations?
 Outreach: [Atlanta science festival!](https://atlantasciencefestival.org/)
 
 GT spirit - going to homecoming! 
+
+Dog surfing on ESPN!
 
 ## FINAL THOUGHTS
 
