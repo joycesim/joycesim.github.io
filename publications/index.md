@@ -7,6 +7,22 @@ title: Publications
 
 Please email me (jssim at eas dot gatech dot edu) for paper if you have trouble getting it. 
 
+## In preparation
+**S. J. Sim**, A. Pusok, M. Roy, Fluid transport in the lithosphere–asthenosphere system.
+
+A. R. Tye, P. Payrola, J. Ledesma, *M. McMillan*, **S. J. Sim**, A. Hardy, A. Casas, L. Schoenbohm, M. Tremblay, Extensional basin formed by lithospheric foundering: Salar de Antofalla Basin, Argentina.
+
+A. R. Tye, P. Payrola, J. Ledesma, M. McMillan, S. J. Sim, A. Hardy, A. Casas, L. Schoenbohm, M. Tremblay, Extensional basin formed by lithospheric foundering: Salar de Antofalla Basin, Argentina.
+
+*M. McMillan* ** , **S.J. Sim**, A. R. Tye, Drip tectonics, lithospheric strength, and the deformation of
+mountain belts.
+
+**S.J. Sim**, E. Hauri, M. Spiegelman, C. Manning, Global CO_2 potential in the mantle wedge of the subduction zone 
+
+**S.J. Sim**, M. Spiegelman, D.R. Stegman, C. Wilson, M3LT: A new open source model to explore the dynamics of Melt in the Mantle beneath Mid-ocean ridge.  
+
+## Published
+
 [8] *M. McMillan* ** , **S.J. Sim**, C. Wilson (2025) Reactive thermodynamics of crustal foundering, *EPSL*, [https://doi.org/10.1016/j.epsl.2025.119302](https://doi.org/10.1016/j.epsl.2025.119302).
 
 [7] **S.J. Sim**, *T.Y. Yu* * , C. Havlin (2024) Persistence of fabrics in the oceanic lithosphere due to differential freezing, *Geophysical Research Letters*, [https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024GL109440](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024GL109440).
@@ -22,11 +38,6 @@ Please email me (jssim at eas dot gatech dot edu) for paper if you have trouble 
 [2] **S.J. Sim**, M. Spiegelman, D.R. Stegman, C. Wilson, (2020) Influence of permeability and spreading rate on melt focusing beneath mid-ocean ridges, *Physics of the Earth and Planetary Interiors*, [https://doi.org/10.1016/j.pepi.2020.106486](https://doi.org/10.1016/j.pepi.2020.106486).  
 
 [1] **S.J. Sim**, D.R. Stegman, N. Coltice, (2016) Influence of Continental growth on mid-ocean ridge depth, *Geochem. Geophys. Geosyst.*, 17 (11), 4425-4437, [https://doi.org/10.1002/2016GC006629](https://doi.org/10.1002/2016GC006629).
-
-## In preparation
-[2] **S.J. Sim**, E. Hauri, M. Spiegelman, C. Manning (in prep) Global CO_2 potential in the mantle wedge of the subduction zone 
-
-[1] **S.J. Sim**, M. Spiegelman, D.R. Stegman, C. Wilson (major revisions) M3LT: A new open source model to explore the dynamics of Melt in the Mantle beneath Mid-ocean ridge.  
 
 ## Software on Github-Zenodo (Typically with publication)
 [3] **S.J. Sim**, *Yu, T.-Y.* *, & Havlin, C. (2023). Frozen Melt Data (0.1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.10288494.
