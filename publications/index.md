@@ -12,9 +12,7 @@ Please email me (jssim at eas dot gatech dot edu) for paper if you have trouble 
 
 A. R. Tye, P. Payrola, J. Ledesma, *M. McMillan*, **S. J. Sim**, A. Hardy, A. Casas, L. Schoenbohm, M. Tremblay, Extensional basin formed by lithospheric foundering: Salar de Antofalla Basin, Argentina.
 
-A. R. Tye, P. Payrola, J. Ledesma, M. McMillan, S. J. Sim, A. Hardy, A. Casas, L. Schoenbohm, M. Tremblay, Extensional basin formed by lithospheric foundering: Salar de Antofalla Basin, Argentina.
-
-*M. McMillan* ** , **S.J. Sim**, A. R. Tye, Drip tectonics, lithospheric strength, and the deformation of
+*M. McMillan*, **S.J. Sim**, A. R. Tye, Drip tectonics, lithospheric strength, and the deformation of
 mountain belts.
 
 **S.J. Sim**, E. Hauri, M. Spiegelman, C. Manning, Global CO_2 potential in the mantle wedge of the subduction zone 
