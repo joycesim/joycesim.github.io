@@ -8,7 +8,7 @@ title: News
 
 ### 2026
 
-September: Dr Joyce Sim will be visiting University of Oxford collaborating with [Dr Adina Pusok](https://apusok.github.io/)! 
+September: Dr Joyce Sim will be visiting University of Oxford as part of a collaboration with [Dr Adina Pusok](https://apusok.github.io/)! 
 
 August: The Fall semester is starting! 
 
