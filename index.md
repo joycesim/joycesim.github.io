@@ -3,7 +3,7 @@ layout: default
 title: Shi Joyce Sim, Geodynamicist
 ---
 
-# Sim Lab @ Tech 
+# Sim Lab 
 [//]: # (你好， 我是沈詩！) 
 
 ## Discovery, Education, Innovation
