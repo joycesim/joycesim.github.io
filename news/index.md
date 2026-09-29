@@ -8,6 +8,8 @@ title: News
 
 ### 2026
 
+SIM lab is moving to [Scripps Institution of Oceanography](https://scripps.ucsd.edu/news/scripps-institution-oceanography-welcomes-new-faculty-its-academic-ranks)! 
+
 September: Dr Joyce Sim will be visiting University of Oxford as part of a collaboration with [Dr Adina Pusok](https://apusok.github.io/)! 
 
 August: The Fall semester is starting! 
