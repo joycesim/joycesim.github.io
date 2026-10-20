@@ -36,6 +36,8 @@ The Earth and Atmospheric Science department at Georgia Tech was selected as [on
 * [Georgia Tech Fellowship and Funding](https://grad.gatech.edu/fellowships-and-funding)
 * [Chateaubriand Fellowship Program](https://france-science.com/en/programs/our-programs/chateaubriand-fellowship-program/)
 
+[Here is a lecture](https://www.youtube.com/watch?v=IM6Qp3yXNro) that might be helpful to graduate students. 
+
 ### Postdoctoral Scholars
 Please email me for information about current or upcoming opportunities in my lab and include a CV. 
 * [EAR Postdoctoral Fellopships](https://beta.nsf.gov/funding/opportunities/ear-postdoctoral-fellowships-ear-pf)
